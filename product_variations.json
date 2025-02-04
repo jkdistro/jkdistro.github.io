@@ -35607,12 +35607,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -35893,7 +35893,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 73,
+        "max_qty": 72,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40491,7 +40491,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 86,
+        "max_qty": 85,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
