@@ -20690,16 +20690,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "meta_data": {
@@ -20737,7 +20737,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ],
           "attribute_strain-2": [
             "Cali LCG",
@@ -20762,7 +20763,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ],
           "attribute_strain-3": [
             "Cali LCG",
@@ -20787,7 +20789,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ],
           "attribute_strain-4": [
             "Cali LCG",
@@ -20837,7 +20840,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ],
           "attribute_optional-2": [
             "Cali LCG",
@@ -20862,7 +20866,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ]
         },
         "availability_html": "",
@@ -22357,20 +22362,20 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "tags": [
@@ -22423,7 +22428,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ],
           "attribute_option-2": [
             "G3-14 (Georgia Pie)",
@@ -22455,7 +22461,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ],
           "attribute_option-3": [
             "G3-14 (Georgia Pie)",
@@ -22487,7 +22494,8 @@
             "Lemon Royal",
             "Papaya Bomb",
             "Chemlato",
-            "White Truffles"
+            "White Truffles",
+            "Guava Gelato"
           ]
         },
         "availability_html": "",
@@ -29677,12 +29685,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -41412,7 +41420,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 351,
+        "max_qty": 349,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41577,7 +41585,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 350,
+        "max_qty": 349,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41640,5 +41648,302 @@
       "availability": "out of stock",
       "condition": "new"
     }
+  },
+  "https://jkdistro.com/product/guava-gelato-thca-flower/": {
+    "url": "https://jkdistro.com/product/guava-gelato-thca-flower/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Indica Dominant Hybrid",
+        "url": "https://jkdistro.com/product-tag/indica-dominant-hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "Guava Gelato THCA Flower",
+      "description": "Guava Gelato is an Indica Dominant Strain that delivers a tropical twist on the Gelato lineage. Dense buds emit creamy pi\u00f1a colada and citrus notes, while its relaxing effects settle into the body, bringing a euphoric yet soothing experience perfect for unwinding.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "1-gram-premium-sample"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 12,
+        "display_regular_price": 12,
+        "image": {
+          "title": "Guava Gelato THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "alt": "Guava Gelato THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 335874,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>12.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 335866,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Guava Gelato THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "3-5-g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 38,
+        "display_regular_price": 38,
+        "image": {
+          "title": "Guava Gelato THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "alt": "Guava Gelato THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 335874,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>38.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 335868,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Guava Gelato THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 69,
+        "display_regular_price": 69,
+        "image": {
+          "title": "Guava Gelato THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "alt": "Guava Gelato THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 335874,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>69.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 335870,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Guava Gelato THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 98,
+        "display_regular_price": 98,
+        "image": {
+          "title": "Guava Gelato THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "alt": "Guava Gelato THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 335874,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 335871,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Guava Gelato THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 195,
+        "display_regular_price": 195,
+        "image": {
+          "title": "Guava Gelato THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "alt": "Guava Gelato THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 335874,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 335872,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Guava Gelato THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Guava-Gelato-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   }
 }
