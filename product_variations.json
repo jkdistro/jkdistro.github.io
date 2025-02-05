@@ -16409,7 +16409,7 @@
   },
   "https://jkdistro.com/product/purple-oasis-strain-thca-bl-top-shelf/": {
     "url": "https://jkdistro.com/product/purple-oasis-strain-thca-bl-top-shelf/",
-    "type": "variable",
+    "type": "simple",
     "categories": [
       {
         "name": "Flowers",
@@ -16432,64 +16432,9 @@
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp"
       ],
-      "availability": "instock",
+      "availability": "out of stock",
       "condition": "new"
-    },
-    "variations": [
-      {
-        "attributes": {
-          "attribute_pa_size": "7-g-bag"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 24.99,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Purple-Oasis-Strain.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp",
-          "alt": "Purple-Oasis-Strain.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 217476,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "",
-        "sku": "",
-        "variation_description": "",
-        "variation_id": 234084,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      }
-    ]
+    }
   },
   "https://jkdistro.com/product/exotic-thca-flower-3-5-grams-hhemp-co/": {
     "url": "https://jkdistro.com/product/exotic-thca-flower-3-5-grams-hhemp-co/",
@@ -39497,7 +39442,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 99,
+        "max_qty": 98,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39713,7 +39658,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 115,
+        "max_qty": 114,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -40501,7 +40446,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 148,
+        "max_qty": 147,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40554,7 +40499,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 5,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41190,7 +41135,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 23,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41903,7 +41848,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 347,
+        "max_qty": 346,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42178,7 +42123,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 9,
+        "max_qty": 6,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
