@@ -1369,6 +1369,59 @@
     "variations": [
       {
         "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Purple Ice Pop THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp",
+          "alt": "Purple Ice Pop THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 258777,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336378,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Purple Ice Pop THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
           "attribute_pa_size": "7g-glass-premium"
         },
         "availability_html": "",
@@ -2139,6 +2192,10 @@
       {
         "name": "hybrid",
         "url": "https://jkdistro.com/product-tag/hybrid/"
+      },
+      {
+        "name": "Let Freedom Ring Sale",
+        "url": "https://jkdistro.com/product-tag/let-freedom-ring-sale/"
       }
     ],
     "meta_data": {
@@ -2152,6 +2209,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Jack Frosty THCA Flower BL 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1.webp",
+          "alt": "Jack Frosty THCA Flower BL 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 251679,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 250434,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Jack Frosty THCA Flower BL 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -3646,6 +3756,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Gelato OG THCA Flower BL pic",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic.webp",
+          "alt": "Gelato OG THCA Flower BL pic",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 245714,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 245698,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Gelato OG THCA Flower BL pic\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -5824,12 +5987,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -5849,6 +6012,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 29.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "E85-Strain.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
+          "alt": "E85-Strain.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 218210,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 50,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336381,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -6174,7 +6390,7 @@
   },
   "https://jkdistro.com/product/purple-push-pop-strain-thca-purple-label/": {
     "url": "https://jkdistro.com/product/purple-push-pop-strain-thca-purple-label/",
-    "type": "simple",
+    "type": "variable",
     "categories": [
       {
         "name": "Flowers",
@@ -6203,7 +6419,62 @@
       ],
       "availability": "out of stock",
       "condition": "new"
-    }
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 29.99,
+        "display_regular_price": 72,
+        "image": {
+          "title": "purple-push-pop-strain-1.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1.webp",
+          "alt": "purple-push-pop-strain-1.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 218177,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 14,
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336380,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/purple-push-pop-strain-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   },
   "https://jkdistro.com/product/poppers-energy-600mg-2-capsules-per-pack/": {
     "url": "https://jkdistro.com/product/poppers-energy-600mg-2-capsules-per-pack/",
@@ -6758,7 +7029,7 @@
   },
   "https://jkdistro.com/product/purple-milk-strain-thca-bl-top-shelf/": {
     "url": "https://jkdistro.com/product/purple-milk-strain-thca-bl-top-shelf/",
-    "type": "simple",
+    "type": "variable",
     "categories": [
       {
         "name": "Flowers",
@@ -6781,9 +7052,64 @@
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain.webp"
       ],
-      "availability": "out of stock",
+      "availability": "instock",
       "condition": "new"
-    }
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Purple-Milk-Strain.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain.webp",
+          "alt": "Purple-Milk-Strain.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 217759,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 1,
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 234083,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Milk-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   },
   "https://jkdistro.com/product/mochi-runtz-strain-thca-2/": {
     "url": "https://jkdistro.com/product/mochi-runtz-strain-thca-2/",
@@ -7298,7 +7624,7 @@
   },
   "https://jkdistro.com/product/birthday-cake-strain-thca-bl-top-shelf/": {
     "url": "https://jkdistro.com/product/birthday-cake-strain-thca-bl-top-shelf/",
-    "type": "simple",
+    "type": "variable",
     "categories": [
       {
         "name": "Flowers",
@@ -7328,9 +7654,64 @@
         "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain-2.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain-3.webp"
       ],
-      "availability": "out of stock",
+      "availability": "instock",
       "condition": "new"
-    }
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Birthday-Cake-Strain1.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain1.webp",
+          "alt": "Birthday-Cake-Strain1.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain1.webp",
+          "srcset": false,
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain1.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain1.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 217089,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 1,
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 234078,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Birthday-Cake-Strain1.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" />"
+      }
+    ]
   },
   "https://jkdistro.com/product/nano-cbd-infused-sparkling-wine-non-alcoholic/": {
     "url": "https://jkdistro.com/product/nano-cbd-infused-sparkling-wine-non-alcoholic/",
@@ -11140,6 +11521,59 @@
     "variations": [
       {
         "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Purple Tesla THCA Flower BL",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL.webp",
+          "alt": "Purple Tesla THCA Flower BL",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 276137,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336375,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Purple Tesla THCA Flower BL\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/10/Purple-Tesla-THCA-Flower-BL.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
           "attribute_pa_size": "7g-glass-premium"
         },
         "availability_html": "",
@@ -11333,6 +11767,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Space Pop THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower.webp",
+          "alt": "Space Pop THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 288007,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336376,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Space Pop THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -12733,6 +13220,59 @@
     "variations": [
       {
         "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Empire 54 THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower.webp",
+          "alt": "Empire 54 THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 293002,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336377,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Empire 54 THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
           "attribute_pa_size": "7g-glass-premium"
         },
         "availability_html": "",
@@ -13872,6 +14412,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 29.99,
+        "display_regular_price": 76,
+        "image": {
+          "title": "Purple Baby Yoda THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower.webp",
+          "alt": "Purple Baby Yoda THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 288005,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 287991,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Purple Baby Yoda THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Purple-Baby-Yoda-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -15382,6 +15975,59 @@
     "variations": [
       {
         "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 29.99,
+        "display_regular_price": 72,
+        "image": {
+          "title": "Cali Dons Inferno THCA Flower 11",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11.webp",
+          "alt": "Cali Dons Inferno THCA Flower 11",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 300984,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 336379,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
           "attribute_pa_size": "7g-glass-premium"
         },
         "availability_html": "",
@@ -15873,7 +16519,7 @@
   },
   "https://jkdistro.com/product/purple-oasis-strain-thca-bl-top-shelf/": {
     "url": "https://jkdistro.com/product/purple-oasis-strain-thca-bl-top-shelf/",
-    "type": "simple",
+    "type": "variable",
     "categories": [
       {
         "name": "Flowers",
@@ -15896,9 +16542,64 @@
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp"
       ],
-      "availability": "out of stock",
+      "availability": "instock",
       "condition": "new"
-    }
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Purple-Oasis-Strain.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp",
+          "alt": "Purple-Oasis-Strain.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 217476,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 2,
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 234084,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-Oasis-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   },
   "https://jkdistro.com/product/exotic-thca-flower-3-5-grams-hhemp-co/": {
     "url": "https://jkdistro.com/product/exotic-thca-flower-3-5-grams-hhemp-co/",
@@ -21256,7 +21957,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 76,
+        "display_price": 29.99,
         "display_regular_price": 76,
         "image": {
           "title": "Apples to Oranges THCA Flower PL",
@@ -21284,9 +21985,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 34,
+        "max_qty": 50,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 275960,
@@ -31372,7 +32073,7 @@
         "attributes": {
           "attribute_pa_size": "7-g-bag"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -31380,7 +32081,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 60,
+        "display_price": 24.99,
         "display_regular_price": 60,
         "image": {
           "title": "Blueberry-Gelato-Strain-1.webp",
@@ -31408,9 +32109,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 75,
+        "max_qty": 1,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
         "variation_description": "<p>Experience premium quality with this Black Label Top Shelf Strain, special price available only today! Incredible value for top-shelf quality! Packed in a reusable Mylar bag with our new JKD logo, this collectible bag is exclusively available with this promo.</p>\n",
         "variation_id": 233530,
@@ -32056,7 +32757,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 60,
+        "display_price": 24.99,
         "display_regular_price": 60,
         "image": {
           "title": "Blue-Sherbet-THCA-Flower-Black-Label-Pic-1.webp",
@@ -32084,9 +32785,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 88,
+        "max_qty": 50,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233877,
@@ -32260,7 +32961,7 @@
   },
   "https://jkdistro.com/product/grape-candy-runtz-thca-flower/": {
     "url": "https://jkdistro.com/product/grape-candy-runtz-thca-flower/",
-    "type": "simple",
+    "type": "variable",
     "categories": [
       {
         "name": "Flowers",
@@ -32286,7 +32987,62 @@
       ],
       "availability": "instock",
       "condition": "new"
-    }
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Grape Candy Runtz THCA FLower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower.webp",
+          "alt": "Grape Candy Runtz THCA FLower",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 235031,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 100,
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 234940,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Grape Candy Runtz THCA FLower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   },
   "https://jkdistro.com/product/coast-organic-hemp-smokes/": {
     "url": "https://jkdistro.com/product/coast-organic-hemp-smokes/",
@@ -33340,7 +34096,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 85,
+        "max_qty": 84,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -36511,7 +37267,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 60,
+        "display_price": 24.99,
         "display_regular_price": 60,
         "image": {
           "title": "Santa-Cruz-Gummy-Bears-Strain.webp",
@@ -36539,9 +37295,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 42,
+        "max_qty": 48,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 234077,
@@ -37245,7 +38001,7 @@
         "attributes": {
           "attribute_pa_size": "7-g-bag"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -37253,7 +38009,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 60,
+        "display_price": 24.99,
         "display_regular_price": 60,
         "image": {
           "title": "Pink-Runtz-Strain.webp",
@@ -37281,9 +38037,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 76,
+        "max_qty": 1,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 234085,
@@ -37496,7 +38252,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 60,
+        "display_price": 24.99,
         "display_regular_price": 60,
         "image": {
           "title": "Gator-Gushers-Strain.webp",
@@ -37524,9 +38280,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 5,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 269179,
@@ -38173,7 +38929,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 54,
+        "max_qty": 53,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>99.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $99.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -38849,7 +39605,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 111,
+        "max_qty": 110,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -40014,7 +40770,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 8,
+        "max_qty": 7,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40026,59 +40782,6 @@
         "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Melonatta THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_strains": "Rebel Cookies"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Rebel Cookies THCA Flower 1",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1.webp",
-          "alt": "Rebel Cookies THCA Flower",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 282613,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 1,
-        "min_qty": 1,
-        "price_html": "",
-        "sku": "",
-        "variation_description": "<p>Rebel Cookies is an indica-dominant strain with 28.65% THCA, blending GSC and Double OG Sour x Starfighter. Expect a bold, earthy aroma with uplifting and creative effects, perfect for unwinding. A favorite for award-winning relaxation.</p>\n",
-        "variation_id": 321212,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Rebel Cookies THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -40120,7 +40823,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 12,
+        "max_qty": 10,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40385,7 +41088,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40491,7 +41194,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 31,
+        "max_qty": 30,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40544,7 +41247,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 33,
+        "max_qty": 30,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40862,7 +41565,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 80,
+        "max_qty": 79,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41469,7 +42172,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 360,
+        "max_qty": 358,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41744,7 +42447,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 40,
+        "max_qty": 32,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
