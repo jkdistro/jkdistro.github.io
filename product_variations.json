@@ -25401,12 +25401,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Single Prerolls",
@@ -25719,7 +25719,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -25749,7 +25749,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314181,
@@ -25935,7 +25935,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -25965,7 +25965,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314176,
@@ -26151,7 +26151,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26181,7 +26181,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314167,
@@ -26259,7 +26259,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26289,7 +26289,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314171,
@@ -26475,7 +26475,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26505,7 +26505,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314149,
@@ -26691,7 +26691,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26721,7 +26721,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314138,
@@ -26907,7 +26907,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26937,7 +26937,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314142,
@@ -27123,7 +27123,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27153,7 +27153,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314129,
@@ -27339,7 +27339,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -27369,7 +27369,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 280595,
@@ -27555,7 +27555,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -27585,7 +27585,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 280600,
@@ -27609,7 +27609,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -27639,7 +27639,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 271842,
@@ -27879,7 +27879,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 5,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -27909,7 +27909,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 239036,
@@ -33932,7 +33932,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 93,
+        "max_qty": 92,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -39388,7 +39388,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -40554,7 +40554,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 140,
+        "max_qty": 135,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40566,59 +40566,6 @@
         "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Papaya Bomb THCA Flower pic\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/01/Papaya-Bomb-THCA-Flower-pic.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_strains": "Melonatta"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Melonatta THCA Flower 1",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1.webp",
-          "alt": "Melonatta THCA Flower 1",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 284018,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 3,
-        "min_qty": 1,
-        "price_html": "",
-        "sku": "",
-        "variation_description": "<p>Melonatta is a balanced hybrid with 29.73% THCA, merging Watermelon Zkittlez and Lemon Tree for tropical, tea-like flavors. Its creative, relaxing effects make it perfect for unwinding. Dominant terpene: Caryophyllene.</p>\n",
-        "variation_id": 324343,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Melonatta THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/02/Melonatta-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -40672,59 +40619,6 @@
         "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Candy Runtz THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Candy-Runtz-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_strains": "Lemon Sponge Cake"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "LEmon Sponge Cake THCA Flower",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower.webp",
-          "alt": "LEmon Sponge Cake THCA Flower",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 274315,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 1,
-        "min_qty": 1,
-        "price_html": "",
-        "sku": "",
-        "variation_description": "<p>Lemon Sponge Cake is an indica-dominant strain with 27.60% THCA. Its fluffy, great-smelling buds offer uplifting effects and bold citrus flavors with hints of earth and spice. Winner of the 2020 High Times Cannabis Cup SoCal.</p>\n",
-        "variation_id": 321014,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"LEmon Sponge Cake THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/10/LEmon-Sponge-Cake-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -40783,7 +40677,7 @@
         "attributes": {
           "attribute_strains": "Obama Runtz"
         },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -40819,7 +40713,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 2,
+        "max_qty": 1,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41440,7 +41334,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 63,
+        "max_qty": 62,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41656,7 +41550,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 88,
+        "max_qty": 87,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
