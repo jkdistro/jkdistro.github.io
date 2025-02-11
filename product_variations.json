@@ -5967,7 +5967,7 @@
     ],
     "meta_data": {
       "title": "THCa Diamond Live Resin Disposable Vape - Coast",
-      "description": "THCa Diamond Live Resin Disposable Vape from Coast Smokes!\r\nExperience pure potency. No additives just melted diamonds refined into a potent oil for a superior hemp vaping experience. Available in three unique flavors:\r\n\r\n  Tropical Thunder.\r\n  Citrus Eclipse.\r\n  Mango Supernova.",
+      "description": "THCa Diamond Live Resin Disposable Vape from Coast Smokes!\r\nExperience pure potency. No additives just melted diamonds refined into a potent oil for a superior hemp vaping experience. Available in three unique flavors:\r\n\r\n \tTropical Thunder.\r\n \tCitrus Eclipse.\r\n \tMango Supernova.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/THCa-Diamond-Live-Resin-Disposable-Vape-1-a-1-ad.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/THCa-Diamond-Live-Resin-Disposable-Vape-1ml-Citrus-Eclipse-Hybrid-COA_001.webp",
@@ -12120,12 +12120,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -16959,16 +16959,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
-      },
-      {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -17026,7 +17026,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 5,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -18199,7 +18199,7 @@
     ],
     "meta_data": {
       "title": "Pops Premium 3 Grams BLACKOUT Disposable Carts",
-      "description": "Pops Premium 3 Grams BLACKOUT Disposable Carts EXOTIC CANNABINOID BLENDS\r\nPops Premium 3g Blackout vapes offer unique \"strain enhanced\" blends of cannabinoids and Hemp derived terpenes. Each blend of cannabinoids is created to mimic the true strain effects.\r\n\u00a0\r\n\r\nStrains:\r\n\r\nPineapple Express (Sativa)\u00a0\u00a0- a\u00a0sativa dominant strain, created by crossing Trainwreck & Hawaiian. A flavor that packs a punch of funk, earthy pine, and citrus with tropical notes of pineapple.\r\n\r\nBlue Dream\u00a0(Hybrid) \u00a0-\u00a0aka \"Azure Haze\" is a sativa dominant hybrid strain, created by crossing Blueberry with Haze. A smooth floral aroma with hints of sugared blueberries.\r\n\r\nMarshmallow Kush (Indica)\u00a0\u00a0-\u00a0an indica leaning strain, created by crossing the classic OG Kush with a mysterious unknown strain (some believe it to be a descendant of the Bubble Gum family). This strain provides a pungent nutty, earthy flavor that boasts aromas of sweet marshmallow, honey, and pine.\r\n\r\n  3ml / 3 gram\r\n  Rechargeable\r\n  Discreet, High end device\r\n  Strain enhanced blends of cannabinoids\r\n  Full Transparency",
+      "description": "Pops Premium 3 Grams BLACKOUT Disposable Carts EXOTIC CANNABINOID BLENDS\r\nPops Premium 3g Blackout vapes offer unique \"strain enhanced\" blends of cannabinoids and Hemp derived terpenes. Each blend of cannabinoids is created to mimic the true strain effects.\r\n\u00a0\r\n\r\nStrains:\r\n\r\nPineapple Express (Sativa)\u00a0\u00a0- a\u00a0sativa dominant strain, created by crossing Trainwreck & Hawaiian. A flavor that packs a punch of funk, earthy pine, and citrus with tropical notes of pineapple.\r\n\r\nBlue Dream\u00a0(Hybrid) \u00a0-\u00a0aka \"Azure Haze\" is a sativa dominant hybrid strain, created by crossing Blueberry with Haze. A smooth floral aroma with hints of sugared blueberries.\r\n\r\nMarshmallow Kush (Indica)\u00a0\u00a0-\u00a0an indica leaning strain, created by crossing the classic OG Kush with a mysterious unknown strain (some believe it to be a descendant of the Bubble Gum family). This strain provides a pungent nutty, earthy flavor that boasts aromas of sweet marshmallow, honey, and pine.\r\n\r\n \t3ml / 3 gram\r\n \tRechargeable\r\n \tDiscreet, High end device\r\n \tStrain enhanced blends of cannabinoids\r\n \tFull Transparency",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/blackout-slider.gif",
         "https://jkdistro.com/wp-content/uploads/2024/07/Blackout-Blue-Dream-jpg.webp",
@@ -18250,7 +18250,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 49,
+        "max_qty": 48,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -18303,7 +18303,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 9,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -18356,7 +18356,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 22,
+        "max_qty": 21,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -20735,12 +20735,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Disposables",
-        "url": "https://jkdistro.com/product-category/vapes/disposables/"
-      },
-      {
         "name": "Vapes",
         "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
+        "name": "Disposables",
+        "url": "https://jkdistro.com/product-category/vapes/disposables/"
       }
     ],
     "meta_data": {
@@ -20851,7 +20851,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -25250,7 +25250,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 8,
+        "max_qty": 7,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30917,7 +30917,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 23,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30970,7 +30970,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 24,
+        "max_qty": 23,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31102,7 +31102,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 63,
+        "max_qty": 62,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31208,7 +31208,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 54,
+        "max_qty": 53,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31261,7 +31261,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 73,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36142,7 +36142,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 296,
+        "max_qty": 285,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36195,7 +36195,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 377,
+        "max_qty": 373,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36248,7 +36248,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 333,
+        "max_qty": 323,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36301,7 +36301,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 321,
+        "max_qty": 316,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -38906,7 +38906,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 226,
+        "max_qty": 224,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $165.00.</span></span>",
         "sku": "",
@@ -40396,7 +40396,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 55,
+        "max_qty": 54,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40608,7 +40608,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 41,
+        "max_qty": 37,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40820,7 +40820,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 133,
+        "max_qty": 132,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40926,7 +40926,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 128,
+        "max_qty": 127,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40979,7 +40979,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 55,
+        "max_qty": 53,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41032,7 +41032,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 85,
+        "max_qty": 84,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41085,7 +41085,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 40,
+        "max_qty": 39,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41531,7 +41531,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 580,
+        "max_qty": 578,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41641,7 +41641,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 800,
+        "max_qty": 798,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $195.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $60.00.</span></span>",
         "sku": "",
@@ -41660,7 +41660,7 @@
           "attribute_strain": "BRS (Biscotti x Rainbow Sherbet)",
           "attribute_pa_size": "ounce-box"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -41696,7 +41696,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41751,7 +41751,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 269,
+        "max_qty": 266,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
