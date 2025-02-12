@@ -12463,12 +12463,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "meta_data": {
@@ -12892,12 +12892,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -14169,12 +14169,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -18081,12 +18081,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -20627,12 +20627,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -24341,12 +24341,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Pets",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/pets/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -24802,16 +24802,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -24930,7 +24930,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 28,
+        "max_qty": 27,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -34930,16 +34930,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -39521,12 +39521,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -39967,7 +39967,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 11,
+        "max_qty": 10,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40179,7 +40179,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 43,
+        "max_qty": 42,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40232,7 +40232,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 25,
+        "max_qty": 24,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40285,7 +40285,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 75,
+        "max_qty": 74,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40517,12 +40517,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -41163,7 +41163,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 388,
+        "max_qty": 387,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41218,7 +41218,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 84,
+        "max_qty": 80,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
