@@ -6400,7 +6400,7 @@
         "https://jkdistro.com/wp-content/uploads/2024/07/Poppers-ad-pic-4.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Poppers-ad-pic-3.webp"
       ],
-      "availability": "instock",
+      "availability": "out of stock",
       "condition": "new"
     }
   },
@@ -6924,12 +6924,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -7514,7 +7514,7 @@
     ],
     "meta_data": {
       "title": "Nano CBD Infused Sparkling Wine (Non-alcoholic)",
-      "description": "Bella Petite\r\nThese unique drinks combine low-carb, low-calorie wine with advanced Nano CBD oil infusion, offering a delicious, health-conscious alternative to alcohol. With no THC and rich in natural antioxidants, it's a guilt-free way to celebrate and unwind.\r\nCBD PINK Bubbly - This fruity light bubbly is sweet yet tart with a light raspberry fruitiness. It's dry with a weightless mouthfeel and a refreshing light finish\r\n\r\nCBD Blanc Bubbly - This light crisp bubbly is real wine and has aromas of green apples delivering ripe pear flavors and hints of melon. It\u2019s light but dry and leaves you with a refreshing satisfying flavorful finish\r\nSparkling Fruit Sangria - This\u00a0award winning, delicious and refreshingly crisp sparkling fruit wine. Traditional red wine blend with the perfect amount of Mediterranean Fruits, oranges and berries with a warm cinnamon finish. Designed to provide a balanced supply of nutrients, antioxidants and NanoCBD\u00a0\r\n\r\n\r\n  Only 25 calories per glass",
+      "description": "Bella Petite\r\nThese unique drinks combine low-carb, low-calorie wine with advanced Nano CBD oil infusion, offering a delicious, health-conscious alternative to alcohol. With no THC and rich in natural antioxidants, it's a guilt-free way to celebrate and unwind.\r\nCBD PINK Bubbly - This fruity light bubbly is sweet yet tart with a light raspberry fruitiness. It's dry with a weightless mouthfeel and a refreshing light finish\r\n\r\nCBD Blanc Bubbly - This light crisp bubbly is real wine and has aromas of green apples delivering ripe pear flavors and hints of melon. It\u2019s light but dry and leaves you with a refreshing satisfying flavorful finish\r\nSparkling Fruit Sangria - This\u00a0award winning, delicious and refreshingly crisp sparkling fruit wine. Traditional red wine blend with the perfect amount of Mediterranean Fruits, oranges and berries with a warm cinnamon finish. Designed to provide a balanced supply of nutrients, antioxidants and NanoCBD\u00a0\r\n\r\n\r\n \tOnly 25 calories per glass",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/cbd-wines-1.gif",
         "https://jkdistro.com/wp-content/uploads/2024/06/wine.gif",
@@ -8332,7 +8332,7 @@
     ],
     "meta_data": {
       "title": "SuperNova Gummies Gusher Berry (Live Resin) 1200mg Delta 8",
-      "description": "1200MG SPECIAL BLEND GUSHER GUMMIES (Gusher Berry)\r\nOur Most Potent Gummies (reccomended for experienced & high dose edible consumer) each piece is 150mg of Total Cannabinoids with 8 gummies(1200mg) in Child Proof Packaging. Gummies are EGMP manufacutered in California and Vegan. Our Gusher Gummies are infused with Gusher Berry Live Resin Terpene amd the following Cannabinoids:\r\n\r\n  D8 150MG",
+      "description": "1200MG SPECIAL BLEND GUSHER GUMMIES (Gusher Berry)\r\nOur Most Potent Gummies (reccomended for experienced & high dose edible consumer) each piece is 150mg of Total Cannabinoids with 8 gummies(1200mg) in Child Proof Packaging. Gummies are EGMP manufacutered in California and Vegan. Our Gusher Gummies are infused with Gusher Berry Live Resin Terpene amd the following Cannabinoids:\r\n\r\n \tD8 150MG",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/gusher-berry--1024x1024.png",
         "https://jkdistro.com/wp-content/uploads/2024/07/gusher-berry-3.jpg",
@@ -13837,12 +13837,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Wellness & Lifestyle",
@@ -15180,16 +15180,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -16063,12 +16063,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Smalls & Minis",
-        "url": "https://jkdistro.com/product-category/flowers/smalls-minis/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Smalls & Minis",
+        "url": "https://jkdistro.com/product-category/flowers/smalls-minis/"
       }
     ],
     "meta_data": {
@@ -16288,7 +16288,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 16,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -16688,7 +16688,7 @@
     ],
     "meta_data": {
       "title": "THCA turnpen All in One - 2g",
-      "description": "THCA turnpen All in One - 2g\r\n\r\n\r\n\r\n  Discreet: minimal odor\r\n  360\u00b0 oil view: never miss a drop\r\n  Fast charge: ready when you are\r\n  Trusted oils: botanica blends = pure, natural botanicals, never artificial\r\n  TRUTHCa: maximum THCa + THCp \u2014 zero Delta-8\r\n  TRUtaste\u2122 postless tech:\u00a0no metals, cotton, glue, or toxins \u2014 just pure flavor",
+      "description": "THCA turnpen All in One - 2g\r\n\r\n\r\n\r\n \tDiscreet: minimal odor\r\n \t360\u00b0 oil view: never miss a drop\r\n \tFast charge: ready when you are\r\n \tTrusted oils: botanica blends = pure, natural botanicals, never artificial\r\n \tTRUTHCa: maximum THCa + THCp \u2014 zero Delta-8\r\n \tTRUtaste\u2122 postless tech:\u00a0no metals, cotton, glue, or toxins \u2014 just pure flavor",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/12/THCA-turnpen-All-in-One-2g-berry-dreamy.webp",
         "https://jkdistro.com/wp-content/uploads/2024/12/THCA-turnpen-All-in-One-2.webp"
@@ -16865,7 +16865,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 5,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -16971,7 +16971,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 8,
+        "max_qty": 7,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -17005,7 +17005,7 @@
     ],
     "meta_data": {
       "title": "SuperNova Exotic Cannabinoid Vegan Gummies (Very Potent)",
-      "description": "JK SuperNova Exotic Gummies\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCheck out the newest product from our SuperNova brand. These gummies are part of their new Exotic series. These gummies come infused with Delta 8, Delta 9, CBD Full Spectrum, THC, and CBD. This potent and powerful blend of cannabinoids is a one of one mix made by some of the best manufacturers in the hemp market. This product is available in 10 different flavor variations.\r\nSuperNova EXOTIC FLAVORS\r\nPineapple (Delta 9)\r\n\r\nBlackberry (Delta 9)\r\n\r\nSour Apple (Delta 9)\r\n\r\nWatermelon Lemonade (THC & D8)\r\n\r\nPeach Lemonade (THC & D8)\r\n\r\nMixed Berry (H H C)\r\n\r\nBlue Raspberry (THC)\r\n\r\nPineapple (CBD Full Spectrum)\r\n\r\nStrawberry (CBD Full Spectrum)\r\n\r\nWatermelon (THC & Delta 8)\r\n\r\nPineapple Mango (H H C)\r\n\r\n\u00a0\r\nProduct Features:\r\n\r\n  Various dosage of Exotic Cannabinoids grown in California\r\n  EGMP Certified Facility\r\n  Third Party Lab Tested\r\n  Made in California, USA\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00a0",
+      "description": "JK SuperNova Exotic Gummies\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCheck out the newest product from our SuperNova brand. These gummies are part of their new Exotic series. These gummies come infused with Delta 8, Delta 9, CBD Full Spectrum, THC, and CBD. This potent and powerful blend of cannabinoids is a one of one mix made by some of the best manufacturers in the hemp market. This product is available in 10 different flavor variations.\r\nSuperNova EXOTIC FLAVORS\r\nPineapple (Delta 9)\r\n\r\nBlackberry (Delta 9)\r\n\r\nSour Apple (Delta 9)\r\n\r\nWatermelon Lemonade (THC & D8)\r\n\r\nPeach Lemonade (THC & D8)\r\n\r\nMixed Berry (H H C)\r\n\r\nBlue Raspberry (THC)\r\n\r\nPineapple (CBD Full Spectrum)\r\n\r\nStrawberry (CBD Full Spectrum)\r\n\r\nWatermelon (THC & Delta 8)\r\n\r\nPineapple Mango (H H C)\r\n\r\n\u00a0\r\nProduct Features:\r\n\r\n \tVarious dosage of Exotic Cannabinoids grown in California\r\n \tEGMP Certified Facility\r\n \tThird Party Lab Tested\r\n \tMade in California, USA\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00a0",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/delta-8-gummies-jk-dirstro.jpeg",
         "https://jkdistro.com/wp-content/uploads/2024/06/supernova-round-the-clock-1-1-1024x1024.gif",
@@ -17778,16 +17778,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "tags": [
@@ -18482,16 +18482,16 @@
     "type": "simple",
     "categories": [
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -18534,12 +18534,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Merchandise",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Merchandise",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
       }
     ],
     "meta_data": {
@@ -20084,7 +20084,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 49,
+        "max_qty": 48,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -20170,7 +20170,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 31,
+        "max_qty": 30,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></span>",
         "sku": "",
@@ -20247,12 +20247,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -23172,7 +23172,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 263,
+        "max_qty": 262,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -23225,7 +23225,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 240,
+        "max_qty": 237,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -25869,12 +25869,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Topicals",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Topicals",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
       }
     ],
     "meta_data": {
@@ -25927,7 +25927,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 5,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -28718,12 +28718,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -28863,10 +28863,6 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
@@ -28875,13 +28871,17 @@
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Single Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/single-prerolls/"
       }
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.\r\n  Exotic 100mg H H C + 50mg D8 in each 2 gram Cannagar",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.\r\n \tExotic 100mg H H C + 50mg D8 in each 2 gram Cannagar",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -30496,6 +30496,10 @@
     "type": "simple",
     "categories": [
       {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
         "name": "Bath Products",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/bath-products/"
       },
@@ -30506,10 +30510,6 @@
       {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
-      },
-      {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -32997,12 +32997,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -33465,7 +33465,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Gummies 15ct",
-      "description": "Magic Mushroom Gummies\r\n\r\n  15 chewy, mind-melting gummies per pack\r\n  All-natural ingredients\r\n  Vegan\r\n  Warning: May cause psychotropic effects",
+      "description": "Magic Mushroom Gummies\r\n\r\n \t15 chewy, mind-melting gummies per pack\r\n \tAll-natural ingredients\r\n \tVegan\r\n \tWarning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Watermelon-Wonder.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Sour-Tropical.webp",
@@ -33582,7 +33582,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 26,
+        "max_qty": 24,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33635,7 +33635,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 16,
+        "max_qty": 14,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33794,7 +33794,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 16,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33883,7 +33883,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 67,
+        "max_qty": 66,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -34045,7 +34045,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 85,
+        "max_qty": 84,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -34590,7 +34590,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 16,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -34643,7 +34643,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 23,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35874,7 +35874,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Syrup 4oz",
-      "description": "23 servings of high-potency syrup\r\n  50mg of our proprietary mushroom blend per serving\r\n  Natural strawberry flavor\r\n  Extra-strength, high-dose formula\r\n  Vegan\r\n  Warning: May cause psychotropic effects",
+      "description": "23 servings of high-potency syrup\r\n \t50mg of our proprietary mushroom blend per serving\r\n \tNatural strawberry flavor\r\n \tExtra-strength, high-dose formula\r\n \tVegan\r\n \tWarning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Strawberry-Gelato-4oz.webp",
@@ -35928,7 +35928,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "",
         "sku": "810135376112",
@@ -35982,7 +35982,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 15,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "",
         "sku": "810135376099",
@@ -36793,7 +36793,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 307,
+        "max_qty": 306,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -37083,7 +37083,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 45,
+        "max_qty": 41,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -38664,7 +38664,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 86,
+        "max_qty": 85,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>99.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $99.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -38709,6 +38709,114 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_category": "Pop Up Quarter Pound Sale",
+          "attribute_strain": "Tumz"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 175,
+        "display_regular_price": 400,
+        "image": {
+          "title": "Quarter-Pound.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp",
+          "alt": "Quarter-Pound.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 216552,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 152,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
+        "sku": "",
+        "variation_description": "<p>Discover balance with Tumz, a hybrid strain featuring 24.78% THCA and 26.25% total cannabinoids. Its fruity, citrus profile pairs perfectly with a calming yet slightly uplifting experience.</p>\n",
+        "variation_id": 342108,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_category": "Pop Up Quarter Pound Sale",
+          "attribute_strain": "Crystal Candy"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 175,
+        "display_regular_price": 400,
+        "image": {
+          "title": "Quarter-Pound.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp",
+          "alt": "Quarter-Pound.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 216552,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 198,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
+        "sku": "",
+        "variation_description": "<p>Indulge in the sugary delight of Crystal Candy, an indica-dominant strain with 24.27% THCA and 25.30% total cannabinoids. Its sweet, candy-like aroma and relaxing effects make it a flavorful treat for mellow moments.</p>\n",
+        "variation_id": 342109,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Quarter-Pound.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_category": "Pop Up Quarter Pound Sale",
@@ -38858,7 +38966,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 116,
+        "max_qty": 114,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39074,7 +39182,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 79,
+        "max_qty": 78,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39290,7 +39398,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 167,
+        "max_qty": 166,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $165.00.</span></span>",
         "sku": "",
@@ -39938,7 +40046,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 14,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -40115,6 +40223,60 @@
       },
       {
         "attributes": {
+          "attribute_category": "Pop Up Quarter Pound Sale",
+          "attribute_strain": "White Guava"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 175,
+        "display_regular_price": 400,
+        "image": {
+          "title": "White Guava QP",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP.webp",
+          "alt": "White Guava QP",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 251366,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 165,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
+        "sku": "",
+        "variation_description": "<p>White Guava, also known as White Hot Guava, is a hybrid strain with 20.3% THCA and 21.50% total cannabinoids. Bred from Stardawg and Tres Dawg, it delivers fruity flavors of pear, apricot, and mango. Known for its relaxing and uplifting effects, it\u2019s a perfect choice to unwind.</p>\n",
+        "variation_id": 251356,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"White Guava QP\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/White-Guava-QP.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
           "attribute_category": "Quarter Pounds",
           "attribute_strain": "Zkittlez Pie"
         },
@@ -40228,12 +40390,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -40298,7 +40460,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 62,
+        "max_qty": 60,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40352,7 +40514,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 57,
+        "max_qty": 55,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40406,7 +40568,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 61,
+        "max_qty": 56,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40460,7 +40622,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 79,
+        "max_qty": 74,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40568,7 +40730,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 51,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40621,7 +40783,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40833,7 +40995,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 20,
+        "max_qty": 19,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40845,59 +41007,6 @@
         "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Obama Runtz THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Obama-Runtz-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_strains": "Cherry Icee"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Cherry Icee THCA Flower 1",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1.webp",
-          "alt": "Cherry Icee THCA Flower",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 282609,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>Cherry Icee is a flavorful indica-dominant hybrid with 28.02% THCA, offering an uplifting blend of berry, citrus, and sweet notes. Perfect for those seeking focus and creativity with a soothing undertone for relaxation.</p>\n",
-        "variation_id": 321008,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Cherry Icee THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Cherry-Icee-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -41151,7 +41260,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4062,
+        "max_qty": 4060,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41204,7 +41313,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 12,
+        "max_qty": 11,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41257,7 +41366,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 69,
+        "max_qty": 68,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41756,7 +41865,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 437,
+        "max_qty": 435,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41866,7 +41975,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 786,
+        "max_qty": 785,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $195.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $60.00.</span></span>",
         "sku": "",
@@ -41992,6 +42101,61 @@
       {
         "attributes": {
           "attribute_category": "Regular Smalls",
+          "attribute_strain": "Georgia Pie",
+          "attribute_pa_size": "ounce-box"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 34.99,
+        "display_regular_price": 165,
+        "image": {
+          "title": "Copy-of-Smalls-Minis.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
+          "alt": "Copy-of-Smalls-Minis.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 215834,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 520,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 276914,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_category": "Regular Smalls",
           "attribute_strain": "Col 43",
           "attribute_pa_size": "ounce-box"
         },
@@ -42031,7 +42195,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 278,
+        "max_qty": 277,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42086,7 +42250,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 172,
+        "max_qty": 171,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42196,7 +42360,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 34,
+        "max_qty": 33,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42252,7 +42416,7 @@
     ],
     "meta_data": {
       "title": "The Last Harvest Stash Clear-Out - THCA Strains",
-      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n  Reusable mylar packaging to lock in freshness and potency.",
+      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n \tReusable mylar packaging to lock in freshness and potency.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2025/01/last-harvest-clear-out-product-picture.webp"
       ],
