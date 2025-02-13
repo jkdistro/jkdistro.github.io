@@ -1407,7 +1407,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 96,
+        "max_qty": 95,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -30160,12 +30160,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -32244,7 +32244,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 7,
+        "max_qty": 5,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32733,7 +32733,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 42,
+        "max_qty": 40,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -32977,7 +32977,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 94,
+        "max_qty": 82,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -37509,12 +37509,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -37582,7 +37582,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 256,
+        "max_qty": 255,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></span>",
         "sku": "",
@@ -40780,7 +40780,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 3,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40833,7 +40833,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40992,7 +40992,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 58,
+        "max_qty": 57,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41151,7 +41151,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4072,
+        "max_qty": 4062,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41756,7 +41756,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 441,
+        "max_qty": 437,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41921,7 +41921,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 63,
+        "max_qty": 62,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $195.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>74.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $74.99.</span></span>",
         "sku": "",
@@ -41976,7 +41976,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 83,
+        "max_qty": 82,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42031,7 +42031,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 281,
+        "max_qty": 278,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
