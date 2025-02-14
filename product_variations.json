@@ -1521,8 +1521,8 @@
         "variation_id": 258772,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Purple Ice Pop THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
@@ -2363,8 +2363,8 @@
         "variation_id": 250437,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Jack Frosty THCA Flower BL 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
@@ -6344,12 +6344,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -6924,12 +6924,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -7464,16 +7464,16 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -8532,16 +8532,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "tags": [
@@ -8661,8 +8661,8 @@
         "variation_id": 231224,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/08/Flower-Menu-1-a-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
@@ -11520,16 +11520,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -11703,8 +11703,8 @@
         "variation_id": 288037,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Space Pop THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Space-Pop-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
@@ -12971,16 +12971,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -13154,8 +13154,8 @@
         "variation_id": 293021,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Empire 54 THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Empire-54-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
@@ -15677,12 +15677,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -15803,8 +15803,8 @@
         "variation_id": 233728,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/12/Cali-Dons-Inferno-THCA-Flower-11.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
@@ -16198,12 +16198,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -28710,12 +28710,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -28843,8 +28843,8 @@
         "variation_id": 232849,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Cherry-Fade-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -31449,12 +31449,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Disposables",
-        "url": "https://jkdistro.com/product-category/vapes/disposables/"
-      },
-      {
         "name": "Vapes",
         "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
+        "name": "Disposables",
+        "url": "https://jkdistro.com/product-category/vapes/disposables/"
       }
     ],
     "meta_data": {
@@ -31508,7 +31508,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 22,
+        "max_qty": 21,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32660,12 +32660,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -32892,8 +32892,8 @@
         "variation_id": 233882,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Blue-Sherbet-THCA-Flower-Black-Label-Pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -32904,12 +32904,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -35048,7 +35048,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 13,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36233,7 +36233,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 50,
+        "max_qty": 49,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36676,7 +36676,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 302,
+        "max_qty": 301,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36729,7 +36729,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 304,
+        "max_qty": 303,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36943,8 +36943,8 @@
         "variation_id": 232541,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Guava-Gelato-Strain-1.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" />"
       }
@@ -37186,8 +37186,8 @@
         "variation_id": 233134,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Santa-Cruz-Gummy-Bears-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -37433,8 +37433,8 @@
         "variation_id": 233393,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Otter-Pop-Strain-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -37875,8 +37875,8 @@
         "variation_id": 233164,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -37887,12 +37887,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -38065,8 +38065,8 @@
         "variation_id": 233172,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -38365,8 +38365,8 @@
         "variation_id": 233175,
         "variation_is_active": true,
         "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Purple-LCG-Strain-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -38493,7 +38493,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 24,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>450.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $450.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>174.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $174.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -38633,7 +38633,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 152,
+        "max_qty": 151,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -38741,7 +38741,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 34,
+        "max_qty": 33,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39065,7 +39065,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39281,7 +39281,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 143,
+        "max_qty": 141,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $165.00.</span></span>",
         "sku": "",
@@ -39335,7 +39335,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 169,
+        "max_qty": 168,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -40613,7 +40613,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 19,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40666,7 +40666,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 29,
+        "max_qty": 28,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40719,7 +40719,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 90,
+        "max_qty": 88,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40731,59 +40731,6 @@
         "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Rebel Cookies THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Rebel-Cookies-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_strains": "Tahoe OG"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Tahoe OG THCA Flower 1",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1.webp",
-          "alt": "Tahoe OG THCA Flower 1",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 270833,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 1,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>An indica-dominant strain with 29.11% THCA, offers a relaxing, full-body experience with earthy lemon flavors. Known for its strong and fast-acting effects, it\u2019s perfect for easing insomnia, pain, or lack of appetite.</p>\n",
-        "variation_id": 321022,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Tahoe OG THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/10/Tahoe-OG-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -40825,7 +40772,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 32,
+        "max_qty": 30,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40878,7 +40825,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 34,
+        "max_qty": 32,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40984,7 +40931,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 57,
+        "max_qty": 55,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41090,7 +41037,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 8,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41143,7 +41090,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 94,
+        "max_qty": 93,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41196,7 +41143,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 104,
+        "max_qty": 103,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41302,7 +41249,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 82,
+        "max_qty": 80,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41355,7 +41302,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3728,
+        "max_qty": 3715,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41514,7 +41461,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 102,
+        "max_qty": 100,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41906,7 +41853,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 364,
+        "max_qty": 362,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42016,7 +41963,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 776,
+        "max_qty": 775,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $195.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $60.00.</span></span>",
         "sku": "",
@@ -42126,7 +42073,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 42,
+        "max_qty": 40,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42181,7 +42128,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 336,
+        "max_qty": 334,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42236,7 +42183,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 145,
+        "max_qty": 141,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42291,7 +42238,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 133,
+        "max_qty": 132,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42346,7 +42293,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 5,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42402,7 +42349,7 @@
     ],
     "meta_data": {
       "title": "The Last Harvest Stash Clear-Out - THCA Strains",
-      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n  Reusable mylar packaging to lock in freshness and potency.",
+      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n \tReusable mylar packaging to lock in freshness and potency.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2025/01/last-harvest-clear-out-product-picture.webp"
       ],
