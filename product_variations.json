@@ -28855,10 +28855,6 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
@@ -28867,13 +28863,17 @@
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Single Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/single-prerolls/"
       }
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.\r\n \tExotic 100mg H H C + 50mg D8 in each 2 gram Cannagar",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.\r\n  Exotic 100mg H H C + 50mg D8 in each 2 gram Cannagar",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -34830,7 +34830,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Vape 2 Grams",
-      "description": "2g of magic mushroom vape juice per pen\r\n \tTree house Proprietary mushroom blend\r\n \tPerfect for microdosing\r\n \tAll-natural ingredients\r\n \tTastes like a chilled glass of summertime pink lemonade\r\n \tApproximately 800 puffs per pen\r\n \tWarning: May cause psychotropic effects",
+      "description": "2g of magic mushroom vape juice per pen\r\n  Tree house Proprietary mushroom blend\r\n  Perfect for microdosing\r\n  All-natural ingredients\r\n  Tastes like a chilled glass of summertime pink lemonade\r\n  Approximately 800 puffs per pen\r\n  Warning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Apple-Tart-2-Grams.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Mango-Smoothie-2-Grams.webp",
@@ -38603,7 +38603,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 67,
+        "max_qty": 66,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>99.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $99.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -42291,7 +42291,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 403,
+        "max_qty": 402,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42511,7 +42511,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 81,
+        "max_qty": 78,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
