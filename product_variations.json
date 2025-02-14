@@ -462,7 +462,7 @@
     ],
     "meta_data": {
       "title": "JK Ambassador's HotBox",
-      "description": "JK Ambassador's HotBox\r\nWelcome to the JK Ambassador's Community with over 1300+ JK Ambassadors Globally! Our mission is to share and educate folks on the life improving qualities of hemp! Now that's you've signed up to become one of our Ambassadors here's a quick way to get your hands on your very first California flowers to review! Stay plugged into our growing community on Discord and get all the latest news and new product debuts first! Earn youe 10% commissions faster by sharing your Ambassador's Discount Code for 20% off!\r\n\u00a0JK Ambassador's HotBox Includes ($140 Total Value):\r\n\r\n\r\n  JK Ambassador's Hoodie (M, L, XL Available) ($35 Value)\r\n  2023 JK Amabssador's Baseball Cap ($25 Value)\r\n  2 - 3.5g\u00a0 THCA Flower Eighths ($60 Value)\r\n  Welcome Sample Pack, Bracelet & Stickers ($20 Value)",
+      "description": "JK Ambassador's HotBox\r\nWelcome to the JK Ambassador's Community with over 1300+ JK Ambassadors Globally! Our mission is to share and educate folks on the life improving qualities of hemp! Now that's you've signed up to become one of our Ambassadors here's a quick way to get your hands on your very first California flowers to review! Stay plugged into our growing community on Discord and get all the latest news and new product debuts first! Earn youe 10% commissions faster by sharing your Ambassador's Discount Code for 20% off!\r\n\u00a0JK Ambassador's HotBox Includes ($140 Total Value):\r\n\r\n\r\n \tJK Ambassador's Hoodie (M, L, XL Available) ($35 Value)\r\n \t2023 JK Amabssador's Baseball Cap ($25 Value)\r\n \t2 - 3.5g\u00a0 THCA Flower Eighths ($60 Value)\r\n \tWelcome Sample Pack, Bracelet & Stickers ($20 Value)",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/ambassadors-hotbox-1-1024x1024.png"
       ],
@@ -12971,16 +12971,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -13040,7 +13040,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 79,
+        "max_qty": 78,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -38603,7 +38603,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 58,
+        "max_qty": 55,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>99.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $99.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -38797,7 +38797,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 38,
+        "max_qty": 35,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -38809,60 +38809,6 @@
         "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Red-Velvet-Strain-pic.webp\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-1024x1024.webp 1024w, https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Red-Velvet-Strain-pic.webp 1050w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_category": "Pop Up Quarter Pound Sale",
-          "attribute_strain": "Carbon Candy"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 175,
-        "display_regular_price": 400,
-        "image": {
-          "title": "Carbon-Candy-Strain-pic.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic.webp",
-          "alt": "Carbon-Candy-Strain-pic.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 218304,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 1,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>A balanced hybrid strain with 22.7% THCA and 25.3% total cannabinoids. Enjoy sweet sugar cookie and sour grape flavors with euphoric, relaxed, and giggly effects, perfect for easing stress, pain, and depression.</p>\n",
-        "variation_id": 337561,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Carbon-Candy-Strain-pic.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -39121,7 +39067,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 72,
+        "max_qty": 69,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39337,7 +39283,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 152,
+        "max_qty": 146,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $165.00.</span></span>",
         "sku": "",
@@ -39391,7 +39337,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 172,
+        "max_qty": 171,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39445,7 +39391,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 64,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39499,7 +39445,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 42,
+        "max_qty": 38,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39661,7 +39607,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 72,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39769,7 +39715,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 79,
+        "max_qty": 78,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39985,7 +39931,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 14,
+        "max_qty": 13,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
