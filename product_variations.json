@@ -23297,7 +23297,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 7,
+        "max_qty": 6,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.00</bdi></span></span>",
         "sku": "",
@@ -24631,7 +24631,7 @@
         "attributes": {
           "attribute_size": "10 Gummies Pouch"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -24667,7 +24667,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33457,7 +33457,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Gummies 15ct",
-      "description": "Magic Mushroom Gummies\r\n\r\n \t15 chewy, mind-melting gummies per pack\r\n \tAll-natural ingredients\r\n \tVegan\r\n \tWarning: May cause psychotropic effects",
+      "description": "Magic Mushroom Gummies\r\n\r\n  15 chewy, mind-melting gummies per pack\r\n  All-natural ingredients\r\n  Vegan\r\n  Warning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Watermelon-Wonder.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Sour-Tropical.webp",
