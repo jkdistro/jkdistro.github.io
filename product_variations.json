@@ -39391,7 +39391,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
