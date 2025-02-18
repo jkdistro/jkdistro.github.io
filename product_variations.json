@@ -40771,7 +40771,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 60,
+        "max_qty": 59,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41537,7 +41537,7 @@
     ],
     "meta_data": {
       "title": "THCA Flower Smalls & Mini Buds - Premium",
-      "description": "Discover THCA FLOWER SMALLS & MINI BUDS \u2013 a constantly updating range of budget-friendly options from both our regular and black label top-shelf flowers. Perfect for those looking for variety without the price tag.\r\n\r\n \t$42 - $34.99 Ounces - Mini flower sizes, Good trim, good nose and overall good high\r\n \t$50 Ounces - Smalls and mini flower sizes, Good trim, good nose and overall good high\r\n \t$80 - $74.99 Ounces - Smalls and medium flower sizes, Better trim, better nose and better overall high than $50 Ounce\r\n \t$100 Ounces - Smalls and mediums flower sizes, Best trim, Best nose and best overall high than $50 and $75 Ounce",
+      "description": "Discover THCA FLOWER SMALLS & MINI BUDS \u2013 a constantly updating range of budget-friendly options from both our regular and black label top-shelf flowers. Perfect for those looking for variety without the price tag.\r\n\r\n  $42 - $34.99 Ounces - Mini flower sizes, Good trim, good nose and overall good high\r\n  $50 Ounces - Smalls and mini flower sizes, Good trim, good nose and overall good high\r\n  $80 - $74.99 Ounces - Smalls and medium flower sizes, Better trim, better nose and better overall high than $50 Ounce\r\n  $100 Ounces - Smalls and mediums flower sizes, Best trim, Best nose and best overall high than $50 and $75 Ounce",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp"
       ],
