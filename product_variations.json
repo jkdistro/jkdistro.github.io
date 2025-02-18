@@ -32916,7 +32916,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 68,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35741,7 +35741,7 @@
   },
   "https://jkdistro.com/product/magic-mushroom-syrup-4oz/": {
     "url": "https://jkdistro.com/product/magic-mushroom-syrup-4oz/",
-    "type": "variable",
+    "type": "simple",
     "categories": [
       {
         "name": "Consumables",
@@ -35760,7 +35760,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Syrup 4oz",
-      "description": "23 servings of high-potency syrup\r\n  50mg of our proprietary mushroom blend per serving\r\n  Natural strawberry flavor\r\n  Extra-strength, high-dose formula\r\n  Vegan\r\n  Warning: May cause psychotropic effects",
+      "description": "23 servings of high-potency syrup\r\n \t50mg of our proprietary mushroom blend per serving\r\n \tNatural strawberry flavor\r\n \tExtra-strength, high-dose formula\r\n \tVegan\r\n \tWarning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Strawberry-Gelato-4oz.webp",
@@ -35769,65 +35769,9 @@
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Strawberry-Gelato-4oz-COA_002.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-COA_001.webp"
       ],
-      "availability": "instock",
+      "availability": "out of stock",
       "condition": "new"
-    },
-    "variations": [
-      {
-        "attributes": {
-          "attribute_size": "Single Bottle",
-          "attribute_flavor": "Galaxy Grape"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 24.99,
-        "display_regular_price": 49.99,
-        "image": {
-          "title": "Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
-          "alt": "Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp 800w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
-          "full_src_w": 800,
-          "full_src_h": 800,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 229828,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 1,
-        "min_qty": 1,
-        "price_html": "",
-        "sku": "810135376099",
-        "variation_description": "<p>This out-of-this-world Galaxy Grape Magic Mushroom Syrup is bursting with cosmic flavor and our powerful proprietary blend of shrooms, ready to launch you into the stratosphere! When it comes to packing our products with a psychoactive punch, our lab magicians know just what to do when they concoct a fusion of premium mushrooms with natural ingredients to craft a flavor blast that\u2019ll warp your senses. With an electrifying mix of nootropics, adaptogens, and a proprietary blend of mushroom extracts, this potent potion is like a celestial celebration in your taste buds!</p>\n",
-        "variation_id": 233833,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.275",
-        "weight_html": "0.275 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp 800w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      }
-    ]
+    }
   },
   "https://jkdistro.com/product/magic-mushroom-delta-9-syrup-4oz-1000mg/": {
     "url": "https://jkdistro.com/product/magic-mushroom-delta-9-syrup-4oz-1000mg/",
@@ -36410,7 +36354,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 262,
+        "max_qty": 261,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -38387,7 +38331,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 53,
+        "max_qty": 52,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>99.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $99.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -39121,7 +39065,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 160,
+        "max_qty": 159,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
