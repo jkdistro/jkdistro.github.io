@@ -1358,7 +1358,7 @@
     ],
     "meta_data": {
       "title": "Purple Ice Pop THCA Flower BL",
-      "description": "Purple Ice Pop\r\nA hybrid strain with 22.25% THCA and 23.05% total cannabinoids, part of our Black Label Top Shelf collection. Known for its euphoric and focused effects, this strain offers a calming, tingly sensation with flavors of sweet berries and grapes, perfect for stress relief.",
+      "description": "A hybrid strain with 22.25% THCA and 23.05% total cannabinoids, part of our Black Label Top Shelf collection. Known for its\u00a0 flavors of sweet berries and grapes.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-2.webp"
@@ -1899,7 +1899,7 @@
     ],
     "meta_data": {
       "title": "Hashburger THCA Flower",
-      "description": "Hashburger\r\nA perfectly balanced hybrid strain, boasting 29.57% THCA. A cross between Han Solo Hash Plant and Double Burger, it delivers a spicy lemony hash flavor with relaxing effects, making it ideal for mood enhancement and stress relief.",
+      "description": "A perfectly balanced hybrid strain, boasting 29.57% THCA. A cross between Han Solo Hash Plant and Double Burger, it delivers a spicy lemony hash flavor.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Hashburger-THCA-Flower-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Hashburger-THCA-Flower-pic-2.webp"
@@ -2200,7 +2200,7 @@
     ],
     "meta_data": {
       "title": "Jack Frosty THCA Flower BL",
-      "description": "Jack Frosty\r\nTop hybrid strain from our Black Label Top Shelf collection, boasting 27.90% THCA and 29.53% total cannabinoids. A cross between White Widow and Northern Lights #5, this strain delivers euphoric, creative, and uplifting effects with sweet citrus and pine flavors.",
+      "description": "Top hybrid strain from our Black Label Top Shelf collection, boasting 27.90% THCA and 29.53% total cannabinoids. A cross between White Widow and Northern Lights #5, this strain delivers sweet citrus and pine flavors.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Jack-Frosty-BL-2.webp"
@@ -2428,12 +2428,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -2444,7 +2444,7 @@
     ],
     "meta_data": {
       "title": "Diamond Dust THCA Flower BL",
-      "description": "Diamond Dust\r\nA Premium sativa-dominant hybrid strain with 24.51% THCA and 26.47% total cannabinoids. This top-shelf selection offers an uplifting, energetic experience with flavors of sweet citrus, nutty undertones, and peppery hints. Ideal for easing anxiety, depression, and stress.",
+      "description": "A Premium sativa-dominant hybrid strain with 24.51% THCA and 26.47% total cannabinoids. This top-shelf selection offers\u00a0 sweet citrus, nutty undertones, and peppery hints.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Diamond-Dust-THCA-Flower.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Diamond-Dust-THCA-Flower-2.webp"
@@ -2826,7 +2826,7 @@
     ],
     "meta_data": {
       "title": "Jiffy Cake THCA Flower",
-      "description": "Jiffy Cake\r\nAn indica-dominant strain with 29.22% THCA, created from a cross of Wedding Cake and Peanut Butter Breath. Its flavors of chocolate, caramel, and coffee deliver a relaxing, euphoric, and immersive experience\u2014perfect for relieving insomnia, pain, and stress.",
+      "description": "An indica-dominant strain with 29.22% THCA, created from a cross of Wedding Cake and Peanut Butter Breath. Its flavors of chocolate, caramel, and coffee.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Jiffy-Cake-THCA-Flower.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Jiffy-Cake-THCA-Flower-pic.webp"
@@ -3420,7 +3420,7 @@
     ],
     "meta_data": {
       "title": "London Cello THCA Flower",
-      "description": "London Cello\r\nA hybrid strain with 20.68% THCA and 21.79% total cannabinoids, offering sweet and sour flavors like fruit tart with a berry lemonade aroma. Known for its balanced effects, it promotes focus and creativity while relieving stress and anxiety.",
+      "description": "A hybrid strain with 20.68% THCA and 21.79% total cannabinoids, offering sweet and sour flavors like fruit tart with a berry lemonade aroma.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/London-Chello-THCA-Flower.png",
         "https://jkdistro.com/wp-content/uploads/2024/09/London-Chello-THCA-Flower-1.png"
@@ -3717,7 +3717,7 @@
     ],
     "meta_data": {
       "title": "Pure Michigan THCA Flower",
-      "description": "Pure Michigan\r\nAn indica-dominant hybrid strain with 26.15% THCA and 27.05% total cannabinoids. A cross between Oreoz and Mendo Breath, this strain offers relaxing, tingly effects with flavors of lime, chestnut, and a hint of ammonia\u2014ideal for easing anxiety and stress.",
+      "description": "An indica-dominant hybrid strain with 26.15% THCA and 27.05% total cannabinoids. A cross between Oreoz and Mendo Breath, this strain offers flavors of lime, chestnut, and a hint of ammonia.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Pure-Michigan-THCA-Flower-pic.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Pure-Michigan-THCA-Flower.webp"
@@ -14234,7 +14234,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 83,
+        "max_qty": 81,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -15795,7 +15795,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 99,
+        "max_qty": 98,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -22870,7 +22870,7 @@
     ],
     "meta_data": {
       "title": "Energy Gummies Nama",
-      "description": "Energy Gummies\r\nBoost your energy with our Blood Orange Energy Gummies. Infused with 2.5 mg of hemp extract, 5 mg of CBD, B12, and L-Theanine, these vegan gummies are designed to uplift and keep you focused throughout the day.",
+      "description": "Energy Gummies offer 2.5 mg hemp extract, 5 mg CBD, plus B12 and L-Theanine.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Energy-Gummies-Nama-Pouch-10-Gummies.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Energy-Gummies-Nama-Pouch-10-Gummies-2.webp"
@@ -23002,7 +23002,7 @@
     ],
     "meta_data": {
       "title": "Relax Plus Gummies Nama",
-      "description": "Relax Plus Gummies\r\nRelax and unwind with our Fresh Watermelon Relax Plus Gummies. Each vegan gummy is infused with 25 mg of CBD and 5 mg of hemp extract for the perfect evening escape, offering a calming and delicious treat.",
+      "description": "Relax Plus Gummies deliver a soothing blend of 25 mg of CBD and 5 mg of hemp extract in each delicious vegan gummy. Bursting with fresh watermelon flavor. P",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Relax-Plus-Gummies-Nama-Pouch-10-Gummies.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Relax-Plus-Gummies-Nama-Pouch-10-Gummies-2.webp"
@@ -23300,7 +23300,6 @@
     ],
     "meta_data": {
       "title": "Euphoria Triple Berry Gummies Nama",
-      "description": "Euphoria Triple Berry Gummies\r\nOffer a burst of natural berry flavors with 10mg of hemp extract per vegan gummy. Crafted for an uplifting experience, these gummies are ideal for boosting creativity and elevating your senses.\r\n\r\n\u00a0",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Triple-Berry-Gummies-Nama-Pouch-10-Gummies-e1727362049579.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Triple-Berry-Gummies-Nama-Pouch-10-Gummies-2.webp",
@@ -24622,7 +24621,7 @@
       "title": "Buzz Drops Nama 150 mg",
       "price": "59.00",
       "currency": "USD",
-      "description": "Buzz Drops\r\nBuzz Drops deliver a smooth, wine-like buzz in every sip. With a balanced blend of 2.5 mg of CBD per serving, these flavorless drops turn any drink into a relaxing and uplifting beverage\u2014perfect for winding down or a buzzed night out.",
+      "description": "Buzz Drops With a balanced blend of 2.5 mg of CBD per serving, these flavorless drops turn any drink into a great beverage\u2014perfect for winding down or a buzzed night out.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Buzz-Drops-Nama-150-mg-6-e1727353532525.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Buzz-Drops-Nama-150-mg-3.webp",
@@ -24670,7 +24669,7 @@
     ],
     "meta_data": {
       "title": "Euphoria Black Raspberry Gummies Nama",
-      "description": "Euphoria Black Raspberry Gummies\r\nDeliver a delightful blend of sweet and tangy raspberry flavors, infused with 10mg of hemp extract per gummy. Perfect for enhancing your senses and boosting creativity.\r\n\r\n\u00a0",
+      "description": "\u00a0\r\n\r\n\u00a0",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Black-Raspberry-Gummies-Nama-Pouch-10-Gummies-1-e1727361308357.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Black-Raspberry-Gummies-Nama-Pouch-10-Gummies-2.webp",
@@ -25038,12 +25037,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Pets",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/pets/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Pets",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/pets/"
       }
     ],
     "meta_data": {
@@ -29664,7 +29663,7 @@
     ],
     "meta_data": {
       "title": "Sleep Plus Gummies Nama",
-      "description": "Sleep Plus Gummies\r\nCombine 25 mg of CBD and 3 mg of melatonin in a delicious blackberry-lavender flavor, helping you relax and enjoy a deep, restful sleep. These vegan gummies are ideal for promoting relaxation and waking up refreshed.",
+      "description": "Sleep Plus Gummies With 25 mg of CBD and 3 mg of melatonin per serving. Infused with a refreshing blackberry-lavender flavor, vegan treat. Designed with nat",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Sleep-Plus-Gummies-Nama-Pouch-10-Gummies-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Sleep-Plus-Gummies-Nama-Pouch-10-Gummies-2.webp"
@@ -30092,7 +30091,7 @@
     ],
     "meta_data": {
       "title": "Euphoria Pink Lemonade Gummies Nama",
-      "description": "Euphoria Pink Lemonade Gummies\r\nOffer a refreshing burst of pink lemonade flavor with 10 mg of hemp-derived extract per gummy. Perfect for those seeking an uplifting and euphoric experience, these vegan gummies are packed with flavor and carefully crafted for quality.",
+      "description": "Euphoria Pink Lemonade Gummies are a delightful way to elevate your day. Each vegan gummy contains 10 mg of hemp extract. Bursting with the refreshing taste",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Pink-Lemonade-Gummies-Nama-Pouch-10-Gummies.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Pink-Lemonade-Gummies-Nama-Pouch-10-Gummies-2.webp"
@@ -33531,7 +33530,7 @@
     ],
     "meta_data": {
       "title": "Bliss Gummies Nama",
-      "description": "Bliss Gummies\r\nOffer the perfect balance of relaxation and euphoria, with a delicious melon flavor. Each vegan gummy contains 5 mg of CBD for a soothing experience, making them a delightful treat for winding down after a busy day.",
+      "description": "Bliss Gummies. Each vegan gummy is packed with 5 mg of CBD. Key Features: Per Serving: 5 mg of CBD Total: 100 mg per pouch (10 gummies) Flavor: Honeydew mel",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Bliss-Gummies-Nama-Pouch-10-Gummies-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Bliss-Gummies-Nama-Pouch-10-Gummies-2.webp"
@@ -37518,7 +37517,7 @@
     ],
     "meta_data": {
       "title": "Alien Hallucination THCA Flower BL",
-      "description": "Alien Hallucination\r\nA premium hybrid strain with 18.25% THCA and 19.53% total cannabinoids, part of our Black Label Top Shelf collection. This strain blends the mind-bending effects of LSD with the deep physical relaxation of Tahoe Alien, offering creative, euphoric, and energetic feelings, perfect for easing stress, depression, and pain.",
+      "description": "A premium hybrid strain with 18.25% THCA and 19.53% total cannabinoids, part of our Black Label Top Shelf collection.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Alien-Hallucination-THCA-Flower.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Alien-Hallucination-THCA-Flower-2.webp"
@@ -40606,7 +40605,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3843,
+        "max_qty": 3840,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40749,7 +40748,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 98,
+        "max_qty": 97,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40803,7 +40802,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 94,
+        "max_qty": 93,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40911,7 +40910,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 99,
+        "max_qty": 98,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41019,7 +41018,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 96,
+        "max_qty": 95,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41105,7 +41104,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 720,
+        "max_qty": 718,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41215,7 +41214,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 386,
+        "max_qty": 370,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $30.00.</span></span>",
         "sku": "",
@@ -41270,7 +41269,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 278,
+        "max_qty": 273,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41435,7 +41434,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 437,
+        "max_qty": 436,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
