@@ -7514,7 +7514,7 @@
     ],
     "meta_data": {
       "title": "Nano CBD Infused Sparkling Wine (Non-alcoholic)",
-      "description": "Bella Petite\r\nThese unique drinks combine low-carb, low-calorie wine with advanced Nano CBD oil infusion, offering a delicious, health-conscious alternative to alcohol. With no THC and rich in natural antioxidants, it's a guilt-free way to celebrate and unwind.\r\nCBD PINK Bubbly - This fruity light bubbly is sweet yet tart with a light raspberry fruitiness. It's dry with a weightless mouthfeel and a refreshing light finish\r\n\r\nCBD Blanc Bubbly - This light crisp bubbly is real wine and has aromas of green apples delivering ripe pear flavors and hints of melon. It\u2019s light but dry and leaves you with a refreshing satisfying flavorful finish\r\nSparkling Fruit Sangria - This\u00a0award winning, delicious and refreshingly crisp sparkling fruit wine. Traditional red wine blend with the perfect amount of Mediterranean Fruits, oranges and berries with a warm cinnamon finish. Designed to provide a balanced supply of nutrients, antioxidants and NanoCBD\u00a0\r\n\r\n\r\n  Only 25 calories per glass",
+      "description": "Bella Petite\r\nThese unique drinks combine low-carb, low-calorie wine with advanced Nano CBD oil infusion, offering a delicious, health-conscious alternative to alcohol. With no THC and rich in natural antioxidants, it's a guilt-free way to celebrate and unwind.\r\nCBD PINK Bubbly - This fruity light bubbly is sweet yet tart with a light raspberry fruitiness. It's dry with a weightless mouthfeel and a refreshing light finish\r\n\r\nCBD Blanc Bubbly - This light crisp bubbly is real wine and has aromas of green apples delivering ripe pear flavors and hints of melon. It\u2019s light but dry and leaves you with a refreshing satisfying flavorful finish\r\nSparkling Fruit Sangria - This\u00a0award winning, delicious and refreshingly crisp sparkling fruit wine. Traditional red wine blend with the perfect amount of Mediterranean Fruits, oranges and berries with a warm cinnamon finish. Designed to provide a balanced supply of nutrients, antioxidants and NanoCBD\u00a0\r\n\r\n\r\n \tOnly 25 calories per glass",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/cbd-wines-1.gif",
         "https://jkdistro.com/wp-content/uploads/2024/06/wine.gif",
@@ -8332,7 +8332,7 @@
     ],
     "meta_data": {
       "title": "SuperNova Gummies Gusher Berry (Live Resin) 1200mg Delta 8",
-      "description": "1200MG SPECIAL BLEND GUSHER GUMMIES (Gusher Berry)\r\nOur Most Potent Gummies (reccomended for experienced & high dose edible consumer) each piece is 150mg of Total Cannabinoids with 8 gummies(1200mg) in Child Proof Packaging. Gummies are EGMP manufacutered in California and Vegan. Our Gusher Gummies are infused with Gusher Berry Live Resin Terpene amd the following Cannabinoids:\r\n\r\n  D8 150MG",
+      "description": "1200MG SPECIAL BLEND GUSHER GUMMIES (Gusher Berry)\r\nOur Most Potent Gummies (reccomended for experienced & high dose edible consumer) each piece is 150mg of Total Cannabinoids with 8 gummies(1200mg) in Child Proof Packaging. Gummies are EGMP manufacutered in California and Vegan. Our Gusher Gummies are infused with Gusher Berry Live Resin Terpene amd the following Cannabinoids:\r\n\r\n \tD8 150MG",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/gusher-berry--1024x1024.png",
         "https://jkdistro.com/wp-content/uploads/2024/07/gusher-berry-3.jpg",
@@ -9845,12 +9845,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Wellness & Lifestyle",
@@ -9861,7 +9861,7 @@
       "title": "Fairy Berry Herbal Smokes (Non-CBD) - 8ct",
       "price": "26.99",
       "currency": "USD",
-      "description": "Fairy Berry Herbal Smokes offer a unique blend of natural herbs like mugwort, lavender, and blue lotus to promote relaxation, deep sleep, and enhanced meditation. CBD and nicotine-free, these king-sized pre-rolls are perfect for soothing your body and mind.",
+      "description": "Fairy Berry Herbal Smokes offer a unique blend of natural herbs like mugwort, lavender, and blue lotus. CBD and nicotine-free.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/10/FAIRY-BERRY-herbal-smokes-front.webp",
         "https://jkdistro.com/wp-content/uploads/2024/10/FAIRY-BERRY-herbal-smokes-back.webp"
@@ -13837,12 +13837,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Wellness & Lifestyle",
@@ -13853,7 +13853,7 @@
       "title": "Petal Puffs Herbal Smokes (Non-CBD) - 5ct",
       "price": "23.99",
       "currency": "USD",
-      "description": "Petal Puffs Herbal Smokes are a calming blend of organic herbs like Mullein Leaf, Lavender, and Blue Lotus, perfect for evening relaxation. Enjoy benefits like insomnia relief, vivid dreams, and deep sleep\u2014all without CBD or nicotine.",
+      "description": "Petal Puffs Herbal Smokes are a blend of organic herbs like Mullein Leaf, Lavender, and Blue Lotus, perfect for evenings\u2014all without CBD or nicotine.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/10/PETAL-PUFFS-herbal-smokes-front.webp",
         "https://jkdistro.com/wp-content/uploads/2024/10/PETAL-PUFFS-herbal-smokes-back.webp",
@@ -20796,7 +20796,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 32,
+        "max_qty": 31,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -23435,7 +23435,7 @@
       "title": "Chonged Watermelon Gummies Delta 9 + CBN + CBD",
       "price": "45.00",
       "currency": "USD",
-      "description": "Chonged Watermelon Gummies are indica-dominant, featuring 20mg Delta 9, 5mg CBN, and 5mg CBD per gummy. Enjoy the soothing effects of these fruity gummies from Cheech & Chong with 10 pieces in every pack.",
+      "description": "Chonged Watermelon Gummies are indica-dominant, featuring 20mg Delta 9, 5mg CBN, and 5mg CBD per gummy. Enjoy these fruity gummies from Cheech & Chong with 10 pieces in every pack.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/10/Chonged-Watermelon-Delta-9-CBC-CBG-Gummies-200mg-10ct-front.webp",
         "https://jkdistro.com/wp-content/uploads/2024/10/Chonged-Watermelon-Delta-9-CBC-CBG-Gummies-200mg-10ct-back.webp"
@@ -25263,7 +25263,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Chocolate Bars",
-      "description": "15 squares of mind-melting chocolate per bar\r\n  Proprietary mushroom extracts blend\r\n  Available in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n  All-natural ingredients\r\n  Warning: May cause psychotropic effects",
+      "description": "15 squares of mind-melting chocolate per bar\r\n \tProprietary mushroom extracts blend\r\n \tAvailable in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n \tAll-natural ingredients\r\n \tWarning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Fruity-Cereal.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Chocolate-Milk.webp",
@@ -25373,7 +25373,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 16,
+        "max_qty": 15,
         "min_qty": 1,
         "price_html": "",
         "sku": "810135370042",
@@ -25426,7 +25426,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 41,
+        "max_qty": 38,
         "min_qty": 1,
         "price_html": "",
         "sku": "810135370073",
@@ -25479,7 +25479,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 14,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "",
         "sku": "810135370011",
@@ -25859,12 +25859,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Topicals",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Topicals",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
       }
     ],
     "meta_data": {
@@ -28554,7 +28554,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 47,
+        "max_qty": 42,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -28607,7 +28607,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 55,
+        "max_qty": 54,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -28871,7 +28871,7 @@
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.\r\n  Exotic 100mg H H C + 50mg D8 in each 2 gram Cannagar",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.\r\n \tExotic 100mg H H C + 50mg D8 in each 2 gram Cannagar",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -29143,10 +29143,10 @@
       }
     ],
     "meta_data": {
-      "title": "Live Rosin Delta 9 + CBN Syrup for Sleep - Grape (Indica) 800 mg",
+      "title": "Live Rosin Delta 9 + CBN Syrup Sleep - Grape (Indica) 800 mg",
       "price": "19.99",
       "currency": "USD",
-      "description": "Discover soothing relaxation and deep, restful sleep with this Live Rosin Delta 9 + CBN Syrup for Sleep. Each serving contains 5mg of Delta-9 and 5mg of CBN, perfectly balanced for unwinding. Enjoy the delicious grape flavor and a fast-acting formula that helps ease you into a tranquil night's rest.",
+      "description": "Live Rosin Delta 9 + CBN Syrup. Each serving contains 5mg of Delta-9 and 5mg of CBN.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/800-mg-Live-Rosin-Delta-9-CBN-Syrup-for-Sleep-Grape-Indica-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/800-mg-Live-Rosin-Delta-9-CBN-Syrup-for-Sleep-Grape-Indica-2.webp",
@@ -29639,7 +29639,7 @@
       "title": "Live Rosin Delta 9 - CBD Syrup Balance - Pink Lemonade (Hybrid) 800 mg",
       "price": "19.99",
       "currency": "USD",
-      "description": "Unlock inner balance with our Live Rosin Delta 9 - CBD Syrup Balance, featuring 5mg of Delta-9 and 5mg of CBD per serving. This high-potency syrup offers soothing relaxation with a refreshing pink lemonade flavor. Perfect for mixing into your favorite drink!",
+      "description": "Featuring 5mg of Delta-9 and 5mg of CBD per serving. This high syrup offers a refreshing pink lemonade flavor. Perfect for mixing into your favorite drink!",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/800-mg-Balance-1-1-Live-Rosin-Delta-9-CBD-Syrup-Pink-Lemonade-Hybrid-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/800-mg-Balance-1-1-Live-Rosin-Delta-9-CBD-Syrup-Pink-Lemonade-Hybrid-2.webp",
@@ -29752,10 +29752,10 @@
       }
     ],
     "meta_data": {
-      "title": "Live Rosin Delta 9 Syrup Chill - Pineapple (Indica) 420mg",
+      "title": "Live Rosin Delta 9 Syrup - Pineapple (Indica) 420mg",
       "price": "19.99",
       "currency": "USD",
-      "description": "Live Rosin Delta 9 Syrup Chill offers a juicy, tropical pineapple flavor designed to help you unwind and experience deep relaxation. With 5mg per serving, this potent blend provides long-lasting effects, perfect for winding down.",
+      "description": "Live Rosin Delta 9 Syrup Chill offers a juicy, tropical pineapple flavor. With 5mg per serving.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Chill-Delta-9-Live-Rosin-Syrup-420mg-Pineapple-Indica-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Chill-Delta-9-Live-Rosin-Syrup-420mg-Pineapple-Indica-3.webp",
@@ -29837,7 +29837,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 72,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30794,7 +30794,7 @@
       "title": "Live Rosin Delta 9 Syrup for Euphoria - Blue Raspberry (Sativa) 420mg",
       "price": "19.99",
       "currency": "USD",
-      "description": "Experience uplifting euphoria with Live Rosin Delta 9 Syrup for Euphoria. With 5mg per serving and 84 servings per bottle, this fruity, tangy syrup offers energizing, exhilarating effects. Elevate your mood with this premium Live Rosin infusion.",
+      "description": "Live Rosin Delta 9 Syrup. 5mg per serving, 84 servings per bottle, fruity and tangy.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Delta-9-THC-Live-Rosin-Syrup-420mg-Blue-Raspberry-Sativa-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Euphoria-Delta-9-Live-Rosin-Syrup-420mg-Blue-Raspberry-Sativa-3.webp",
@@ -33669,7 +33669,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Gummies 15ct",
-      "description": "Magic Mushroom Gummies\r\n\r\n  15 chewy, mind-melting gummies per pack\r\n  All-natural ingredients\r\n  Vegan\r\n  Warning: May cause psychotropic effects",
+      "description": "Magic Mushroom Gummies\r\n\r\n \t15 chewy, mind-melting gummies per pack\r\n \tAll-natural ingredients\r\n \tVegan\r\n \tWarning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Watermelon-Wonder.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Sour-Tropical.webp",
@@ -33733,7 +33733,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 8,
+        "max_qty": 6,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33839,7 +33839,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 13,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33892,7 +33892,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 39,
+        "max_qty": 38,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33945,7 +33945,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 25,
+        "max_qty": 23,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33998,7 +33998,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 16,
+        "max_qty": 15,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35338,7 +35338,7 @@
       "title": "Live Rosin Delta 9 Syrup Bliss - Strawberry (Hybrid) 420mg",
       "price": "19.99",
       "currency": "USD",
-      "description": "Experience pure joy with Live Rosin Delta 9 Syrup Bliss. Infused with 5mg per serving, this smooth and delicate syrup provides a delightful balance of relaxation and euphoria. Perfect for enhancing any drink with a burst of happiness.",
+      "description": "Live Rosin Delta 9 Syrup delivers 5mg per serving. Delicate flavor. 84 servings per bottle, premium Live Rosin.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Bliss-Delta-9-Live-Rosin-Syrup-420mg-Strawberry-Hybrid-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Bliss-Delta-9-Live-Rosin-Syrup-420mg-Strawberry-Hybrid-2-1024x1024.webp",
@@ -35802,10 +35802,10 @@
       }
     ],
     "meta_data": {
-      "title": "Live Rosin Delta 9 Syrup for Boost- Watermelon (Sativa) 420mg",
+      "title": "Live Rosin Delta 9 Syrup Boost- Watermelon (Sativa) 420mg",
       "price": "19.99",
       "currency": "USD",
-      "description": "Revitalize your day with Live Rosin Delta 9 Syrup for Boost. Infused with 5mg per serving, this sweet and refreshing watermelon syrup energizes and invigorates. Elevate your senses with 84 servings of pure, premium Live Rosin potency.",
+      "description": "Live Rosin Delta 9 Syrup 5mg per serving, 84 servings per bottle, sweet watermelon flavor.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/09/Boost-Delta-9-Live-Rosin-Syrup-420mg-Watermelon-Sativa-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/09/Boost-Delta-9-Live-Rosin-Syrup-420mg-Watermelon-Sativa-2-2.webp",
@@ -37068,7 +37068,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 38,
+        "max_qty": 33,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -41215,7 +41215,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 398,
+        "max_qty": 386,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $30.00.</span></span>",
         "sku": "",
@@ -41270,7 +41270,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 284,
+        "max_qty": 278,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41325,7 +41325,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 167,
+        "max_qty": 164,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41380,7 +41380,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 350,
+        "max_qty": 347,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
