@@ -2635,7 +2635,7 @@
     ],
     "meta_data": {
       "title": "Yaas Bitch THCA Flower BL",
-      "description": "Yaas Bitch\r\nA balanced hybrid strain with 22.64% THCA and 24.20% total cannabinoids. Part of our Black Label Top Shelf collection, it boasts bold flavors of cheese and citrus, delivering uplifting and relaxing effects with earthy, spicy aromas. Ideal for relieving stress and fatigue.",
+      "description": "A balanced hybrid strain with 22.64% THCA and 24.20% total cannabinoids. Part of our Black Label Top Shelf collection, it boasts bold flavors of cheese and citrus, with earthy, spicy aromas.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Yaas-Bitch-THCA-Flower-2.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Yaas-Bitch-THCA-Flower-1.webp"
@@ -3123,7 +3123,7 @@
     ],
     "meta_data": {
       "title": "OG-85 THCA Flower",
-      "description": "OG-85\r\nA balanced hybrid strain with 25.64% THCA and 29.95% total cannabinoids. Expect sweet, fruity flavors with hints of citrus and vanilla. The effects are euphoric and relaxing, making it ideal for easing stress and unwinding after a long day.",
+      "description": "A balanced hybrid strain with 25.64% THCA and 29.95% total cannabinoids. Expect sweet, fruity flavors with hints of citrus and vanilla.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-2.webp"
@@ -3747,7 +3747,7 @@
     ],
     "meta_data": {
       "title": "Gelato OG THCA Flower BL",
-      "description": "Gelato OG\r\nA premium hybrid strain with 21.63% THCA and 22.96% total cannabinoids, part of our Black Label Top Shelf collection. This strain features a rich blend of sweet, creamy flavors with earthy undertones, delivering calming and euphoric effects that are perfect for easing stress and promoting relaxation.",
+      "description": "A premium hybrid strain with 21.63% THCA and 22.96% total cannabinoids, part of our Black Label Top Shelf collection. This strain features a rich blend of sweet, creamy flavors with earthy undertones.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL-pic.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Gelato-OG-THCA-Flower-BL.webp"
@@ -3796,7 +3796,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 76,
+        "max_qty": 73,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -3991,7 +3991,7 @@
     ],
     "meta_data": {
       "title": "Cali LCG THCA Flower",
-      "description": "Cali LCG\r\nCali LCG (Lemon Cherry Gelato) is a hybrid strain with 28.7% THCA and 29.10% total cannabinoids. Grown in California\u2019s ideal climate, this strain offers a tingly, relaxed, and euphoric experience with lemon, sweet fruit flavors, and a citrusy aroma.",
+      "description": "Cali LCG (Lemon Cherry Gelato) is a hybrid strain with 28.7% THCA and 29.10% total cannabinoids. Grown in California\u2019s ideal climate, this strain offers\u00a0 lemon, sweet fruit flavors, and a citrusy aroma.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower.webp",
@@ -4290,7 +4290,7 @@
     ],
     "meta_data": {
       "title": "Cherry Runtz THCA Flower",
-      "description": "Cherry Runtz\r\nA hybrid strain with 29.32% THCA and 29.82% total cannabinoids, featuring vibrant buds. This strain offers euphoric, tingly effects with flavors of berry, lavender, and rose, perfect for relaxing and easing anxiety or insomnia.",
+      "description": "A hybrid strain with 29.32% THCA and 29.82% total cannabinoids, featuring vibrant buds. This strain offers flavors of berry, lavender, and rose.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Cherry-Runtz-THCA-Flower-pic-2.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Cherry-Runtz-THCA-Flower-pic-e1723739757919.webp",
@@ -8738,7 +8738,7 @@
       "title": "JK Ambassadors Signature Lighter w/ Steel Collectors Case",
       "price": "10.00",
       "currency": "USD",
-      "description": "Coated Stainless Steel Zippo Style JK Ambassadors Signature Lighter\r\n\r\n  Refillable\r\n  Windproof flame\r\n  Adjustable gauge",
+      "description": "Coated Stainless Steel Zippo Style JK Ambassadors Signature Lighter\r\n\r\n \tRefillable\r\n \tWindproof flame\r\n \tAdjustable gauge",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/image_png_604702802-2.png",
         "https://jkdistro.com/wp-content/uploads/2024/06/image_d40e7ba0-82a9-4756-9c72-71cee0e5fec1-scaled-1.jpg",
@@ -14234,7 +14234,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 81,
+        "max_qty": 80,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -20743,7 +20743,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 65,
+        "max_qty": 64,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -25262,7 +25262,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Chocolate Bars",
-      "description": "15 squares of mind-melting chocolate per bar\r\n \tProprietary mushroom extracts blend\r\n \tAvailable in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n \tAll-natural ingredients\r\n \tWarning: May cause psychotropic effects",
+      "description": "15 squares of mind-melting chocolate per bar\r\n \tAvailable in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n \tAll-natural ingredients",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Fruity-Cereal.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Chocolate-Milk.webp",
@@ -25512,7 +25512,7 @@
     ],
     "meta_data": {
       "title": "Obliter8 Disposables 4.5 Grams Ocho",
-      "description": "Introducing Obliter8 Disposables, a harmonious 8-Cannabinoid + Live Resin blend presented in a 4.5 Gram Disposable with a handy preheat function. Crafted with a powerful ensemble of cannabinoids like THCP, THCH, and THCJD, plus others such as Delta-8 and 9, Obliter8 promises an unparalleled journey \u2013 potent, yet tender.\r\n\r\nIdeal for both newcomers and connoisseurs alike. With Delta-6 in the mix, anticipate a symphony of effects that deliver both intensity and ease. Prepare to embark on an extraordinary voyage with strains like ASTEROID OG, COSMIC COLLISION, and more.",
+      "description": "Introducing Obliter8 Disposables, a harmonious 8-Cannabinoid + Live Resin blend presented in a 4.5 Gram Disposable with a handy preheat function. Crafted with a powerful ensemble of cannabinoids like THCP, THCH, and THCJD, plus others such as Delta-8 and 9, Obliter8 promises an unparalleled journey.\r\n\r\nIdeal for both newcomers and connoisseurs alike. With Delta-6 in the mix, anticipate a symphony of effects that deliver both intensity and ease. Prepare to embark on an extraordinary voyage with strains like ASTEROID OG, COSMIC COLLISION, and more.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/OBLITER8-4.5-GRAM-DISPOSABLES.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Obliter-8.webp",
@@ -25577,7 +25577,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>Prepare for a celestial ascent with Asteroid OG! Revel in its creamy, mint-infused citrus notes. Born from OG Kush and an enigmatic indica, Asteroid OG is no lightweight. Anticipate an exhilarating cerebral surge, swiftly trailed by waves of euphoria. As your mind soars through the stars, your body descends into a serene relaxation, guiding you on an ethereal cosmic odyssey.</p>\n",
+        "variation_description": "<p>Prepare for a celestial ascent with Asteroid OG! Revel in its creamy, mint-infused citrus notes. Born from OG Kush and an enigmatic indica, Asteroid OG is no lightweight.</p>\n",
         "variation_id": 232514,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -25683,7 +25683,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>Venture into the cosmos with Death Star! Channel your inner Darth Vaper, releasing clouds of rich jet fuel intertwined with skunky undertones. A harmonious blend of Sensi Star and Sour Diesel, this indica marvel presents a constellation of diesel, pungent, and tea flavors. As you indulge, experience serenity that feels as vast and deep as the universe itself.</p>\n",
+        "variation_description": "<p>Venture into the cosmos with Death Star! Channel your inner Darth Vaper, releasing clouds of rich jet fuel intertwined with skunky undertones. A harmonious blend of Sensi Star and Sour Diesel, this indica marvel presents a constellation of diesel, pungent, and tea flavors.</p>\n",
         "variation_id": 232516,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -25736,7 +25736,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>Discover the interstellar allure of Mac Galactik. Born from a stellar union of Mac1 and Platinum Galaxy, this strain is the cosmic companion every astronaut wishes for. Savor the enticing sweetness of guava, complemented by subtle gassy notes, leading you to a balanced euphoria that orbits both day and night. \ud83c\udf0c\ud83d\udca8</p>\n",
+        "variation_description": "<p>Discover the interstellar allure of Mac Galactik. Born from a stellar union of Mac1 and Platinum Galaxy, this strain is the cosmic companion every astronaut wishes for. Savor the enticing sweetness of guava, complemented by subtle gassy notes.</p>\n",
         "variation_id": 232517,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -25789,7 +25789,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>Board the Space Force One! Embark on a flavor journey of spicy, skunky undertones intertwined with zesty citrus that transcends earthly tastes. This full sativa dynamo, a fusion of Space Force and Vegan Safari strains, ignites a surge of energy perfect for cosmic workouts and interstellar introspection. Explore your inner cosmos! \u26a1\ud83c\udf0c</p>\n",
+        "variation_description": "<p>Board the Space Force One! Embark on a flavor journey of spicy, skunky undertones intertwined with zesty citrus that transcends earthly tastes.</p>\n",
         "variation_id": 232518,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -25842,7 +25842,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>Ignite the engines with Starfighter! A fusion of Alien Tahoe OG and Lemon Alien Dawg, this strain captivates aficionados with its alluring blend of sweet, earthy lavender that seamlessly transitions to a zesty lemon-pine finale. Light up and glide into a cozy, relaxed journey through the cosmos! \ud83d\ude80\ud83c\udf0c</p>\n",
+        "variation_description": "<p>Ignite the engines with Starfighter! A fusion of Alien Tahoe OG and Lemon Alien Dawg, this strain captivates aficionados with its alluring blend of sweet, earthy lavender that seamlessly transitions to a zesty lemon-pine finale.</p>\n",
         "variation_id": 232519,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30067,7 +30067,7 @@
     ],
     "meta_data": {
       "title": "Pixi Stix THCA Flower BL",
-      "description": "Pixi Stix\r\nA premium hybrid strain with 22.7% THCA and 24.06% total cannabinoids. This Black Label Top Shelf flower delivers a sweet, fruity aroma and balanced effects of relaxation, happiness, and euphoria\u2014perfect for easing stress, insomnia, and pain.",
+      "description": "A premium hybrid strain with 22.7% THCA and 24.06% total cannabinoids. This Black Label Top Shelf flower delivers a sweet, fruity aroma.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Pixi-Stix-THCA-Flower-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Pixi-Stix-THCA-Flower-2.webp"
@@ -30925,7 +30925,7 @@
     ],
     "meta_data": {
       "title": "Road Trip Mushroom Gummies 8ct",
-      "description": "Road Trip Mushroom Gummies\r\nExperience the magic of \u201cDesert Stardust,\u201d an exclusive mushroom extract gummy inspired by starlit desert nights. Each pouch contains 8 gummies, offering doses from gentle body sensations to profound inner awakenings\u2014perfect for unlocking the wonders of the universe.",
+      "description": "Take a sensory journey with Road Trip Mushroom Gummies. Let the magic of starlit desert nights enchant you and indulge in the beauty of the universe.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Road-Trip-Mushroom-Gummies-Raspberry.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Road-Trip-Mushroom-Gummies-Green-Apple.webp",
@@ -33131,7 +33131,7 @@
     ],
     "meta_data": {
       "title": "Grape Candy Runtz THCA Flower BL",
-      "description": "Grape Candy Runtz\r\nA top-shelf, indica-dominant hybrid strain with 22.77% THCA and 24.40% total cannabinoids. This frosty, purple-tinged strain offers a rich aroma of Kush, fuel, and sweet candy, making it perfect for relaxing evening use.",
+      "description": "A top-shelf, indica-dominant hybrid strain with 22.77% THCA and 24.40% total cannabinoids. This frosty, purple-tinged strain offers a rich aroma of Kush, fuel, and sweet candy.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Grape-Candy-Runtz-THCA-FLower-1.webp"
@@ -33668,7 +33668,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Gummies 15ct",
-      "description": "Magic Mushroom Gummies\r\n\r\n \t15 chewy, mind-melting gummies per pack\r\n \tAll-natural ingredients\r\n \tVegan\r\n \tWarning: May cause psychotropic effects",
+      "description": "Magic Mushroom Gummies\r\n\r\n \t15 chewy, mind-melting gummies per pack\r\n \tAll-natural ingredients\r\n \tVegan",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Watermelon-Wonder.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Sour-Tropical.webp",
@@ -35041,7 +35041,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Vape 2 Grams",
-      "description": "2g of magic mushroom vape juice per pen\r\n \tTree house Proprietary mushroom blend\r\n \tPerfect for microdosing\r\n \tAll-natural ingredients\r\n \tTastes like a chilled glass of summertime pink lemonade\r\n \tApproximately 800 puffs per pen\r\n \tWarning: May cause psychotropic effects",
+      "description": "2g of magic mushroom vape juice per pen\r\n  Tree house Proprietary mushroom blend\r\n  Perfect for microdosing\r\n  All-natural ingredients\r\n  Tastes like a chilled glass of summertime pink lemonade\r\n  Approximately 800 puffs per pen\r\n  Warning: May cause psychotropic effects",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Apple-Tart-2-Grams.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Mango-Smoothie-2-Grams.webp",
@@ -35100,7 +35100,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35153,7 +35153,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 14,
+        "max_qty": 15,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35206,7 +35206,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 18,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36058,7 +36058,7 @@
     ],
     "meta_data": {
       "title": "Tre House Delta 9 Syrup 4oz 1000mg",
-      "description": "Highly Potent 1000mg blend of Delta 9 & Delta 8\r\n \tWatermelon flavor so good it should be illegal\r\n \t23 servings per bottle\r\n \tTrippier than a turtle in a top hat!\r\n \tVegan\r\n \tWarning: May cause psychotropic effect",
+      "description": "1000mg blend of Delta 9 & Delta 8\r\n \tWatermelon flavor\r\n \t23 servings per bottle\r\n \tTrippier than a turtle in a top hat!\r\n \tVegan",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Delta-9-Syrup-1000mg-Bussin-Berry.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Delta-9-Syrup-1000mg-Watermelon-Felon.webp",
@@ -36618,7 +36618,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 246,
+        "max_qty": 244,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40552,7 +40552,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 22,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40605,7 +40605,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3840,
+        "max_qty": 3837,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40658,7 +40658,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 24,
+        "max_qty": 23,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41104,7 +41104,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 718,
+        "max_qty": 716,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41214,7 +41214,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 370,
+        "max_qty": 353,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $30.00.</span></span>",
         "sku": "",
@@ -41269,7 +41269,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 273,
+        "max_qty": 262,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41324,7 +41324,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 164,
+        "max_qty": 159,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41379,7 +41379,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 347,
+        "max_qty": 341,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41434,7 +41434,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 436,
+        "max_qty": 434,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41490,7 +41490,7 @@
     ],
     "meta_data": {
       "title": "The Last Harvest Stash Clear-Out - THCA Strains",
-      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n  Reusable mylar packaging to lock in freshness and potency.",
+      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n \tReusable mylar packaging to lock in freshness and potency.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2025/01/last-harvest-clear-out-product-picture.webp"
       ],
