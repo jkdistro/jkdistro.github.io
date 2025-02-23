@@ -2249,7 +2249,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 22,
+        "max_qty": 21,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -5015,7 +5015,7 @@
     ],
     "meta_data": {
       "title": "Blueberry Candy Apple Strain THCA - PURPLE LABEL",
-      "description": "Blueberry Candy Apple\r\nA sativa-dominant strain with 23% THCA and 23.9% total cannabinoids. Part of our Purple Label Premium Pacific Hemp Flower category, it offers aromas of cinnamon, lime, lavender, pine, and hops for an uplifting experience.",
+      "description": "A sativa-dominant strain with 23% THCA and 23.9% total cannabinoids. Part of our Purple Label Premium Pacific Hemp Flower category, it offers aromas of cinnamon, lime, lavender, pine, and hops.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Candy-Apple-Strain.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Candy-Apple-Strain-pic.webp"
@@ -5100,7 +5100,7 @@
     ],
     "meta_data": {
       "title": "G3 - 14 Strain THCA - Georgia Pie",
-      "description": "G3 - 14 strain\r\nAlso known as Georgia Pie, a hybrid with a whopping 34.5% THCA that tantalizes with a fresh peach cobbler aroma. Perfect for seasoned enthusiasts, this strain offers a profound sensory experience with every puff.",
+      "description": "Also known as Georgia Pie, a hybrid with a whopping 34.5% THCA that tantalizes with a fresh peach cobbler aroma.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/g3-14-Strain.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/g3-14-Strain-pic.webp",
@@ -5399,7 +5399,7 @@
     ],
     "meta_data": {
       "title": "Legendary Hemp Flower",
-      "description": "Legendary Hemp Flower\r\nLegendary Hemp boasts 14.83% total cannabinoids and 11.67% total CBD. Enjoy its relaxing effects and rich flavors, perfect for stress relief and tranquility.",
+      "description": "Discover the Legendary Hemp Flower at JK Distro a premium CBD flower with 14.83% cannabinoids and 11.67% CBD",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Legendary-Hemp-Flower.webp"
       ],
@@ -5642,7 +5642,7 @@
     ],
     "meta_data": {
       "title": "East Coast Sour Diesel Strain THCA",
-      "description": "East Coast Sour Diesel\r\nA sativa strain with 30.80% THCA and 30.13% total cannabinoids. With crisp, uplifting sour lemon flavors, it delivers energetic and talkative effects, perfect for stress and depression relief.",
+      "description": "A sativa strain with 30.80% THCA and 30.13% total cannabinoids. With crisp, uplifting sour lemon flavors.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/East-Coast-Sour-Diesel-Strain-Pic-1.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/East-Coast-Sour-Diesel-Strain-Pic.webp",
@@ -6003,7 +6003,7 @@
     ],
     "meta_data": {
       "title": "E85 Strain THCA - PURPLE LABEL",
-      "description": "E85\r\nA premium hybrid strain in our Purple Label collection. With 28.6% THCA, this rare gem blends fruity, dessert-like flavors with uplifting and relaxing effects, perfect for seasoned enthusiasts seeking relief from anxiety, stress, and pain.",
+      "description": "A premium hybrid strain in our Purple Label collection. With 28.6% THCA, this rare gem blends fruity, dessert-like flavors.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-pic.webp"
@@ -14234,7 +14234,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 67,
+        "max_qty": 66,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -15795,7 +15795,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 94,
+        "max_qty": 89,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -16149,7 +16149,7 @@
     ],
     "meta_data": {
       "title": "Delta 8 Hemp Smokes 10 CT - 750mg",
-      "description": "Delta 8 Hemp Smokes\r\nEnjoy ten pre-rolled hemp flower cigarettes, each pack offering 750 mg of premium, sun-grown hemp. Available in Maui Wowie (Sativa) and Gorilla Glue (Hybrid), these smooth, slow-burning pre-rolls are rich in cannabinoids and terpenes, with unbleached hemp paper and biodegradable filters.",
+      "description": "Enjoy ten pre-rolled hemp flower cigarettes, each pack offering 750 mg of premium, sun-grown hemp. Available in Maui Wowie (Sativa) and Gorilla Glue (Hybrid), these smooth, slow-burning pre-rolls are rich in cannabinoids and terpenes, with unbleached hemp paper and biodegradable filters.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Delta-8-Hemp-Smokes-Chief-Stix-Maui-Wowie-Sativa-3.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Delta-8-Hemp-Smokes-Chief-Stix-Gorilla-Glue-Hybrid-4.webp",
@@ -20316,7 +20316,7 @@
     ],
     "meta_data": {
       "title": "Cali Cherry Slaps Strain THCA - PURPLE LABEL",
-      "description": "Cali Cherry Slaps\r\nA premium hybrid strain from our Purple Label collection, boasts 24.7% THCA and 26.1% total cannabinoids. Grown in Cali\u2019s ideal climate, it offers aromas of cinnamon, lime, lavender, pine, and hops for a rich, satisfying experience.",
+      "description": "A premium hybrid strain from our Purple Label collection, boasts 24.7% THCA and 26.1% total cannabinoids. Grown in Cali\u2019s ideal climate, it offers aromas of cinnamon, lime, lavender, pine, and hops for a rich, satisfying experience.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Cali-Cherry-Slaps-Strain.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Cali-Cherry-Slaps-Strain-pic.webp"
@@ -30170,7 +30170,7 @@
     ],
     "meta_data": {
       "title": "Extreme THCA Moonrocks 4g Jar",
-      "description": "Experience the pinnacle of potency with our EXTREME THCA Moonrocks 4G Jar.\r\nAvailable in three distinct strains: GMO + Bubblegum Gas (Hybrid), RS11 + Blackberry Kush (Indica), Cherry Kush + Lemon Jack (Sativa) and Blueberry Kush + Runtz (Indica). Infused with a blend of CBG kief, CBD flower nugs, terpenes, and THCA.",
+      "description": "Discover EXTREME THCA Moonrocks 4G Jar in three strains at JK Distro: GMO + Bubblegum Gas RS11 + Blackberry Kush Blueberry Kush + Runtz Potent and flavorful",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Extreme-THCA-Moonrocks-hhemp.co-GMO-Bubblegum-Gas.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Extreme-THCA-Moonrocks-hhemp.co-Gorilla-Glue-Diablo-OG_001.webp",
@@ -30223,11 +30223,11 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 47,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>\u2013 Combines the citrusy, lemony aroma and flavor of Lemon Haze with the earthy and diesel notes of Platinum OG.</p>\n<p>\u2013 Users may experience a euphoric mental uplift coupled with a calming body sensation, making it suitable for relaxation and mood enhancement.</p>\n",
+        "variation_description": "<p>\u2013 Combines the citrusy, lemony aroma and flavor of Lemon Haze with the earthy and diesel notes of Platinum OG.</p>\n",
         "variation_id": 302107,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30276,11 +30276,11 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>\u2013 Potent and complex flavor profile, blending earthy, piney, and diesel notes from Gorilla Glue with the citrus and spicy undertones of Diablo OG.</p>\n<p>\u2013 Users may experience euphoria and creativity coupled with a calming body sensation, making it suitable for both recreational and therapeutic use.</p>\n",
+        "variation_description": "<p>\u2013 Complex flavor profile, blending earthy, piney, and diesel notes from Gorilla Glue with the citrus and spicy undertones of Diablo OG.</p>\n",
         "variation_id": 244177,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30333,7 +30333,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>\u2013 Unique flavor profile combining sweet cherry notes with citrusy lemon undertones.</p>\n<p>\u2013 Provides a balanced high, blending the relaxing effects of Cherry Kush with the uplifting and energetic qualities of Lemon Jack.</p>\n",
+        "variation_description": "<p>\u2013 Unique flavor profile combining sweet cherry notes with citrusy lemon undertones.</p>\n",
         "variation_id": 233796,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30382,11 +30382,11 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>\u2013 Complex flavor profile, with pungent garlic and earthy notes from GMO, blended with sweet and fruity flavors reminiscent of bubble gum.</p>\n<p>\u2013 Users may experience a calming yet uplifting high, suitable for relaxation and stress relief, with potential therapeutic benefits for both physical and mental relaxation.</p>\n",
+        "variation_description": "<p>\u2013 Complex flavor profile, with pungent garlic and earthy notes from GMO, blended with sweet and fruity flavors reminiscent of bubble gum.</p>\n",
         "variation_id": 233620,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30439,7 +30439,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>\u2013 This strain blends the fruity sweetness of Blackberry Kush with the potent, diesel-like aroma of RS-11.</p>\n<p>\u2013 Users may experience a euphoric uplift with a calming body sensation, making it suitable for both recreational and therapeutic use, depending on individual tolerance and preference.</p>\n",
+        "variation_description": "<p>\u2013 This strain blends the fruity sweetness of Blackberry Kush with the diesel-like aroma of RS-11.</p>\n",
         "variation_id": 233621,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30492,7 +30492,7 @@
         "min_qty": 1,
         "price_html": "",
         "sku": "",
-        "variation_description": "<p>\u2013 Complex flavor profile, blending sweet, fruity notes reminiscent of blueberries with candy-like sweetness and hints of spice.</p>\n<p>\u2013 Offers a balanced high that may include euphoric effects coupled with a relaxing body sensation, making it versatile for different times of day.</p>\n",
+        "variation_description": "<p>\u2013 Complex flavor profile, blending sweet, fruity notes reminiscent of blueberries with candy-like sweetness and hints of spice.</p>\n",
         "variation_id": 233622,
         "variation_is_active": true,
         "variation_is_visible": true,
@@ -30602,7 +30602,7 @@
     ],
     "meta_data": {
       "title": "Exotic Blend Distillate",
-      "description": "Exotic Blend Distillate\r\nOffering a premium hemp experience with 99.39% total cannabinoids, including 31.29% THCA and 68% H H C. Enjoy potent effects and rich flavors.",
+      "description": "Offering a premium hemp experience with 99.39% total cannabinoids, including 31.29% THCA and 68% H H C. Enjoy rich flavors.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Exotic-Blend-Distillate-THCA-HHC-pic.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/Exotic-Blend-Distillate-THCA-HHC-pic-2.webp",
@@ -34708,7 +34708,7 @@
       "title": "Redwood Reserves Menthol CBD Cigarettes",
       "price": "14.00",
       "currency": "USD",
-      "description": "NEW An All-Natural Alternative to Menthol Cigarettes\r\nRedwood Reserves NEW menthol CBD cigarettes offer a cooler experience than ever before. Our menthol hemp smokes contain the exact same all-natural CBD flower as our original CBD cigarettes with a menthol crush in the filter. Just squeeze the filter once, and enjoy the cool mint flavor with every toke.\r\n\r\n  100% CBD flower \u2013 sun grown & slow cured in Willamette Valley, Oregon\r\n  0.8 grams of flower per CBD cigarette\r\n  A soothing blend of Golden Redwood, Carolina Dream, and Wild Bourbon\r\n  A broad terpene profile for more flavor\r\n  NO tobacco\r\n  NO biomass\r\n  NO additives\r\n\r\n\u00a0",
+      "description": "NEW An All-Natural Alternative to Menthol Cigarettes\r\nRedwood Reserves NEW menthol CBD cigarettes offer a cooler experience than ever before. Our menthol hemp smokes contain the exact same all-natural CBD flower as our original CBD cigarettes with a menthol crush in the filter. Just squeeze the filter once, and enjoy the cool mint flavor with every toke.\r\n\r\n \t100% CBD flower \u2013 sun grown & slow cured in Willamette Valley, Oregon\r\n \t0.8 grams of flower per CBD cigarette\r\n \tA soothing blend of Golden Redwood, Carolina Dream, and Wild Bourbon\r\n \tA broad terpene profile for more flavor\r\n \tNO tobacco\r\n \tNO biomass\r\n \tNO additives\r\n\r\n\u00a0",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/RedwoodReserves-MentholHempFlowerSmokes_PackagingandSmokes_copy-min.jpg",
         "https://jkdistro.com/wp-content/uploads/2024/06/image_1c4695ee-ad93-499e-8ad3-803c971aebcc.png",
@@ -36123,7 +36123,7 @@
     ],
     "meta_data": {
       "title": "THCA Saucy Diamonds",
-      "description": "Experience THCa Saucy Diamonds\r\nA premium concentrate with 95% total cannabinoids and 86.9% THCA. Available in Blueberry Muffin, Ice Cream Cake, and Amnesia Haze flavors, this potent hemp product delivers rich, flavorful enjoyment.",
+      "description": "A premium concentrate with 95% total cannabinoids and 86.9% THCA. Available in Blueberry Muffin, Ice Cream Cake, and Amnesia Haze flavors, this hemp product delivers rich, flavorful enjoyment.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/THCA-Saucy-Diamonds.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/THCa-Saucy-Diamonds-COA-06-10-24.webp"
@@ -36335,7 +36335,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 91,
+        "max_qty": 90,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -38487,7 +38487,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 44,
+        "max_qty": 40,
         "min_qty": 1,
         "price_html": "",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -40071,7 +40071,7 @@
     ],
     "meta_data": {
       "title": "THCA Badder",
-      "description": "Experience the pure potency of our THCa Badder\r\nWith 95.4% total cannabinoids and 70.87% THCA. Enjoy rich, smooth flavors and a balanced experience from this premium hemp concentrate.",
+      "description": "With 95.4% total cannabinoids and 70.87% THCA. Enjoy rich, smooth flavors and a balanced experience from this premium hemp concentrate.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/THCA-Badder.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/THCA-Badder-COA-06-04-24.webp"
@@ -40121,7 +40121,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 98,
+        "max_qty": 94,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40175,7 +40175,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 100,
+        "max_qty": 99,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40229,7 +40229,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 100,
+        "max_qty": 96,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40283,7 +40283,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 100,
+        "max_qty": 98,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40391,7 +40391,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3759,
+        "max_qty": 3717,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40444,7 +40444,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 13,
+        "max_qty": 5,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40484,7 +40484,7 @@
     ],
     "meta_data": {
       "title": "THCA Live Resin",
-      "description": "Experience the pure potency of THCa Live Resin\r\nWith 96.6% total cannabinoids and 74% THCA. Enjoy rich flavors and a smooth experience from this premium hemp concentrate.",
+      "description": "With 96.6% total cannabinoids and 74% THCA. Enjoy rich flavors and a smooth experience from this premium hemp concentrate.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/THCA-Live-Resin.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/THCA-Live-Resin-COA.webp"
@@ -40588,7 +40588,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 92,
+        "max_qty": 90,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40696,7 +40696,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 98,
+        "max_qty": 97,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40750,7 +40750,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 99,
+        "max_qty": 98,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40840,7 +40840,7 @@
     ],
     "meta_data": {
       "title": "THCA Flower Smalls & Mini Buds - Premium",
-      "description": "Discover THCA FLOWER SMALLS & MINI BUDS \u2013 a constantly updating range of budget-friendly options from both our regular and black label top-shelf flowers. Perfect for those looking for variety without the price tag.\r\n\r\n  $42 - $34.99 Ounces - Mini flower sizes, Good trim, good nose.\r\n  $50 Ounces - Smalls and mini flower sizes, Good trim, good nose.\r\n  $80 - $74.99 Ounces - Smalls and medium flower sizes, Better trim, better nose than $50 Ounce\r\n  $100 Ounces - Smalls and mediums flower sizes, Best trim, Best nose than $50 and $75 Ounce",
+      "description": "Discover THCA FLOWER SMALLS & MINI BUDS \u2013 a constantly updating range of budget-friendly options from both our regular and black label top-shelf flowers. Perfect for those looking for variety without the price tag.\r\n\r\n \t$42 - $34.99 Ounces - Mini flower sizes, Good trim, good nose.\r\n \t$50 Ounces - Smalls and mini flower sizes, Good trim, good nose.\r\n \t$80 - $74.99 Ounces - Smalls and medium flower sizes, Better trim, better nose than $50 Ounce\r\n \t$100 Ounces - Smalls and mediums flower sizes, Best trim, Best nose than $50 and $75 Ounce",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp"
       ],
@@ -40890,7 +40890,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 697,
+        "max_qty": 666,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41000,7 +41000,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 267,
+        "max_qty": 182,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $30.00.</span></span>",
         "sku": "",
@@ -41055,7 +41055,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 230,
+        "max_qty": 195,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41110,7 +41110,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 139,
+        "max_qty": 116,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41165,7 +41165,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 329,
+        "max_qty": 290,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41220,7 +41220,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 431,
+        "max_qty": 424,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
