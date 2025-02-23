@@ -40407,59 +40407,6 @@
     "variations": [
       {
         "attributes": {
-          "attribute_strains": "OG-85"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "OG-85 THCA Flower pic",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic.webp",
-          "alt": "OG-85 THCA Flower pic",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 234880,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 9,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>A balanced hybrid strain with 25.64% THCA and 29.95% total cannabinoids. Expect sweet, fruity flavors with hints of citrus and vanilla.</p>\n",
-        "variation_id": 316238,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.016976",
-        "weight_html": "0.016976 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"OG-85 THCA Flower pic\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/OG-85-THCA-Flower-pic.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
           "attribute_strains": "Zkittlez Pie"
         },
         "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
@@ -40498,7 +40445,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3809,
+        "max_qty": 3759,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40551,7 +40498,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 13,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
