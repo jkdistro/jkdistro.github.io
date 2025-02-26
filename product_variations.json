@@ -2249,7 +2249,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 7,
+        "max_qty": 6,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -38434,7 +38434,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 56,
+        "max_qty": 45,
         "min_qty": 1,
         "price_html": "",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -40246,59 +40246,6 @@
     "variations": [
       {
         "attributes": {
-          "attribute_strains": "Cry Baby OG"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Cry Baby OG THCA Flower 1",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1.webp",
-          "alt": "Cry Baby OG THCA Flower 1",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 259776,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 3,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>An indica-dominant hybrid with 29.66% THCA and 31.13% total cannabinoids. A cross between Old School OG Kush and an unknown strain, this flower offers lemon and spicy flavors.</p>\n",
-        "variation_id": 321013,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.016976",
-        "weight_html": "0.016976 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Cry Baby OG THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Cry-Baby-OG-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
           "attribute_strains": "OG-85"
         },
         "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
@@ -40337,7 +40284,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 61,
+        "max_qty": 59,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40390,7 +40337,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 25,
+        "max_qty": 18,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40443,7 +40390,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 38,
+        "max_qty": 36,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40496,7 +40443,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 2418,
+        "max_qty": 2411,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40549,7 +40496,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 61,
+        "max_qty": 58,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40800,7 +40747,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 85,
+        "max_qty": 84,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40854,7 +40801,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 86,
+        "max_qty": 85,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40962,7 +40909,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 82,
+        "max_qty": 81,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41048,7 +40995,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 541,
+        "max_qty": 536,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41158,7 +41105,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 513,
+        "max_qty": 505,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41213,7 +41160,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 89,
+        "max_qty": 84,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41323,7 +41270,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 193,
+        "max_qty": 183,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41977,5 +41924,67 @@
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Pop\u2019s Premium Limited Reserve Rosin Vape \u2013 2.5G Rainbow Runtz (indica)\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-1024x1024.webp 1024w, https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Pops-Premium-Limited-Reserve-Rosin-Vape-\u2013-2.5G-Rainbow-Runtz-indica.webp 1280w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
     ]
+  },
+  "https://jkdistro.com/product/lilac-diesel-thca-flower-3-5g-yaga-farms/": {
+    "url": "https://jkdistro.com/product/lilac-diesel-thca-flower-3-5g-yaga-farms/",
+    "type": "simple",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "sativa",
+        "url": "https://jkdistro.com/product-tag/sativa/"
+      }
+    ],
+    "meta_data": {
+      "title": "Lilac Diesel THCA Flower 3.5g - Yaga Farms",
+      "price": "40.00",
+      "currency": "USD",
+      "description": "Lilac Diesel THCA Flower by YAGA Farms is a vibrant sativa with 33.36% THCA, featuring bold notes of lemon zest, sweet berries, and diesel. Grown indoors, hand-trimmed, and cultivated with precision for premium quality.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Lilac-Diesel-THCA-Flower-3.5g-Yaga-Farms.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    }
+  },
+  "https://jkdistro.com/product/champagne-ice-thca-flower-3-5g-yaga-farms/": {
+    "url": "https://jkdistro.com/product/champagne-ice-thca-flower-3-5g-yaga-farms/",
+    "type": "simple",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "hybrid",
+        "url": "https://jkdistro.com/product-tag/hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "Champagne Ice THCA Flower 3.5g - Yaga Farms",
+      "price": "40.00",
+      "currency": "USD",
+      "description": "Champagne Ice THCA Flower from YAGA Farms is a balanced hybrid with 34% THCA, offering a bold mix of sweet vanilla, fruity berries, and creamy tart flavors. Grown indoors and carefully hand-trimmed for top-tier quality.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Champagne-Ice-THCA-Flower-3.5g-Yaga-Farms.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    }
   }
 }
