@@ -16794,7 +16794,7 @@
     ],
     "meta_data": {
       "title": "THCA turnpen All in One - 2g",
-      "description": "THCA turnpen All in One - 2g\r\n\r\n\r\n\r\n  Discreet: minimal odor\r\n  360\u00b0 oil view: never miss a drop\r\n  Fast charge: ready when you are\r\n  Trusted oils: botanica blends = pure, natural botanicals, never artificial\r\n  TRUTHCa: maximum THCa + THCp \u2014 zero Delta-8\r\n  TRUtaste\u2122 postless tech:\u00a0no metals, cotton, glue, or toxins \u2014 just pure flavor",
+      "description": "THCA turnpen All in One - 2g\r\n\r\n\r\n\r\n \tDiscreet: minimal odor\r\n \t360\u00b0 oil view: never miss a drop\r\n \tFast charge: ready when you are\r\n \tTrusted oils: botanica blends = pure, natural botanicals, never artificial\r\n \tTRUTHCa: maximum THCa + THCp \u2014 zero Delta-8\r\n \tTRUtaste\u2122 postless tech:\u00a0no metals, cotton, glue, or toxins \u2014 just pure flavor",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/12/THCA-turnpen-All-in-One-2g-berry-dreamy.webp",
         "https://jkdistro.com/wp-content/uploads/2024/12/THCA-turnpen-All-in-One-2.webp"
@@ -18535,16 +18535,16 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -24903,12 +24903,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -28852,10 +28852,6 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
@@ -28864,13 +28860,17 @@
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Single Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/single-prerolls/"
       }
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -30599,7 +30599,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 46,
+        "max_qty": 44,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31739,12 +31739,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -32520,12 +32520,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Smokables",
@@ -32692,7 +32692,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 79,
+        "max_qty": 78,
         "min_qty": 1,
         "price_html": "",
         "sku": "7693267435685-coast-organic-delta-8-smokes",
@@ -34672,16 +34672,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -34740,7 +34740,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 15,
+        "max_qty": 14,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36565,7 +36565,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 238,
+        "max_qty": 235,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36618,7 +36618,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 338,
+        "max_qty": 335,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36671,7 +36671,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 264,
+        "max_qty": 260,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36724,7 +36724,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 257,
+        "max_qty": 255,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -38542,7 +38542,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 99,
+        "max_qty": 98,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>99.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $99.99.</span></span>",
         "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
@@ -40122,7 +40122,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 85,
+        "max_qty": 80,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40230,7 +40230,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 88,
+        "max_qty": 83,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40284,7 +40284,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 93,
+        "max_qty": 89,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40604,7 +40604,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 2556,
+        "max_qty": 2554,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41156,7 +41156,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 607,
+        "max_qty": 606,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41376,7 +41376,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 130,
+        "max_qty": 129,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41431,7 +41431,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 134,
+        "max_qty": 132,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
