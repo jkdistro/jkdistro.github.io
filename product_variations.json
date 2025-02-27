@@ -315,8 +315,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Tahoe OG THCA Flower 1",
           "caption": "",
@@ -345,7 +345,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 270829,
@@ -368,8 +368,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Tahoe OG THCA Flower 1",
           "caption": "",
@@ -398,7 +398,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 270830,
@@ -1407,7 +1407,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 204,
+        "max_qty": 203,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -1432,8 +1432,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Purple Ice Pop THCA Flower",
           "caption": "",
@@ -1462,7 +1462,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 258771,
@@ -1485,8 +1485,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Purple Ice Pop THCA Flower",
           "caption": "",
@@ -1515,7 +1515,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 258772,
@@ -1538,8 +1538,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Purple Ice Pop THCA Flower",
           "caption": "",
@@ -1568,7 +1568,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 258773,
@@ -2079,8 +2079,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Hashburger THCA Flower 1",
           "caption": "",
@@ -2109,7 +2109,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 253539,
@@ -2132,8 +2132,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Hashburger THCA Flower 1",
           "caption": "",
@@ -2162,7 +2162,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 253540,
@@ -2274,8 +2274,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Jack Frosty THCA Flower BL 1",
           "caption": "",
@@ -2304,7 +2304,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 250436,
@@ -2327,8 +2327,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Jack Frosty THCA Flower BL 1",
           "caption": "",
@@ -2357,7 +2357,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 250437,
@@ -2380,8 +2380,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Jack Frosty THCA Flower BL 1",
           "caption": "",
@@ -2410,7 +2410,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 250438,
@@ -2656,8 +2656,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Yaas Bitch THCA Flower 2",
           "caption": "",
@@ -2686,7 +2686,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 238978,
@@ -2709,8 +2709,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Yaas Bitch THCA Flower 2",
           "caption": "",
@@ -2739,7 +2739,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 238979,
@@ -2762,8 +2762,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Yaas Bitch THCA Flower 2",
           "caption": "",
@@ -2792,7 +2792,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 238980,
@@ -3144,8 +3144,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "OG-85 THCA Flower pic",
           "caption": "",
@@ -3174,7 +3174,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 234865,
@@ -3197,8 +3197,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "OG-85 THCA Flower pic",
           "caption": "",
@@ -3227,7 +3227,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 234866,
@@ -3600,8 +3600,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "London Chello THCA Flower",
           "caption": "",
@@ -3630,7 +3630,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 255367,
@@ -3653,8 +3653,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "London Chello THCA Flower",
           "caption": "",
@@ -3683,7 +3683,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 255368,
@@ -4014,8 +4014,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Cali-LCG-THCA-Flower-pic.webp",
           "caption": "",
@@ -4044,7 +4044,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233903,
@@ -4067,8 +4067,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Cali-LCG-THCA-Flower-pic.webp",
           "caption": "",
@@ -4097,7 +4097,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233904,
@@ -4313,8 +4313,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Cherry-Runtz-THCA-Flower-pic-2.webp",
           "caption": "",
@@ -4343,7 +4343,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233923,
@@ -4366,8 +4366,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Cherry-Runtz-THCA-Flower-pic-2.webp",
           "caption": "",
@@ -4396,7 +4396,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233924,
@@ -5697,8 +5697,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Zkittles-Pie-THCA-Flower-pic.webp",
           "caption": "",
@@ -5727,7 +5727,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233886,
@@ -5750,8 +5750,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Zkittles-Pie-THCA-Flower-pic.webp",
           "caption": "",
@@ -5780,7 +5780,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233887,
@@ -6924,12 +6924,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -8221,8 +8221,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "BRS THCA Flower 2",
           "caption": "",
@@ -8251,7 +8251,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 272435,
@@ -8274,8 +8274,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "BRS THCA Flower 2",
           "caption": "",
@@ -8304,7 +8304,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 272436,
@@ -9390,8 +9390,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "LEmon Sponge Cake THCA Flower",
           "caption": "",
@@ -9420,7 +9420,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 274310,
@@ -9443,8 +9443,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "LEmon Sponge Cake THCA Flower",
           "caption": "",
@@ -9473,7 +9473,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 274311,
@@ -9719,8 +9719,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "OG Sour THCA Flower111",
           "caption": "",
@@ -9749,7 +9749,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 274353,
@@ -9772,8 +9772,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "OG Sour THCA Flower111",
           "caption": "",
@@ -9802,7 +9802,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 274354,
@@ -11171,8 +11171,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Melonatta THCA Flower 1",
           "caption": "",
@@ -11201,7 +11201,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 284011,
@@ -11224,8 +11224,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Melonatta THCA Flower 1",
           "caption": "",
@@ -11254,7 +11254,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 284012,
@@ -11366,8 +11366,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Purple Tesla THCA Flower BL",
           "caption": "",
@@ -11396,7 +11396,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 276126,
@@ -11419,8 +11419,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Purple Tesla THCA Flower BL",
           "caption": "",
@@ -11449,7 +11449,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 276127,
@@ -11472,8 +11472,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Purple Tesla THCA Flower BL",
           "caption": "",
@@ -11502,7 +11502,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 276128,
@@ -11589,7 +11589,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 142,
+        "max_qty": 141,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -11614,8 +11614,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Space Pop THCA Flower",
           "caption": "",
@@ -11644,7 +11644,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 288036,
@@ -11667,8 +11667,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Space Pop THCA Flower",
           "caption": "",
@@ -11697,7 +11697,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 288037,
@@ -11720,8 +11720,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Space Pop THCA Flower",
           "caption": "",
@@ -11750,7 +11750,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 288038,
@@ -13040,7 +13040,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 172,
+        "max_qty": 171,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -13065,8 +13065,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Empire 54 THCA Flower",
           "caption": "",
@@ -13095,7 +13095,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 293020,
@@ -13118,8 +13118,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Empire 54 THCA Flower",
           "caption": "",
@@ -13148,7 +13148,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 293021,
@@ -13171,8 +13171,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Empire 54 THCA Flower",
           "caption": "",
@@ -13201,7 +13201,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 293022,
@@ -13736,8 +13736,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Candy Runtz THCA Flower 1",
           "caption": "",
@@ -13766,7 +13766,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 295374,
@@ -13789,8 +13789,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Candy Runtz THCA Flower 1",
           "caption": "",
@@ -13819,7 +13819,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 295375,
@@ -14234,7 +14234,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 107,
+        "max_qty": 106,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -15795,7 +15795,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 168,
+        "max_qty": 166,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -16304,12 +16304,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -16850,12 +16850,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -22273,8 +22273,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Papaya Bomb THCA Flower pic",
           "caption": "",
@@ -22303,7 +22303,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 327297,
@@ -22326,8 +22326,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Papaya Bomb THCA Flower pic",
           "caption": "",
@@ -22356,7 +22356,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 327298,
@@ -22570,8 +22570,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Chemlato THCA Flower pic 2",
           "caption": "",
@@ -22600,7 +22600,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 328886,
@@ -22623,8 +22623,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Chemlato THCA Flower pic 2",
           "caption": "",
@@ -22653,7 +22653,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 328887,
@@ -28707,12 +28707,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -28751,8 +28751,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Cherry-Fade-Strain.webp",
           "caption": "",
@@ -28781,7 +28781,7 @@
         "is_virtual": false,
         "max_qty": 3,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 232848,
@@ -28804,8 +28804,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Cherry-Fade-Strain.webp",
           "caption": "",
@@ -28834,7 +28834,7 @@
         "is_virtual": false,
         "max_qty": 5,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 232849,
@@ -32196,12 +32196,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -32232,8 +32232,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Blueberry-Gelato-Strain-1.webp",
           "caption": "",
@@ -36950,12 +36950,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -37039,8 +37039,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Santa-Cruz-Gummy-Bears-Strain.webp",
           "caption": "",
@@ -37069,7 +37069,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233462,
@@ -37092,8 +37092,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Santa-Cruz-Gummy-Bears-Strain.webp",
           "caption": "",
@@ -37122,7 +37122,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233133,
@@ -37145,8 +37145,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Santa-Cruz-Gummy-Bears-Strain.webp",
           "caption": "",
@@ -37175,7 +37175,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233134,
@@ -37286,8 +37286,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Otter-Pop-Strain-1.webp",
           "caption": "",
@@ -37316,7 +37316,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233456,
@@ -37339,8 +37339,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Otter-Pop-Strain-1.webp",
           "caption": "",
@@ -37369,7 +37369,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233392,
@@ -37392,8 +37392,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Otter-Pop-Strain-1.webp",
           "caption": "",
@@ -37422,7 +37422,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233393,
@@ -37538,8 +37538,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Alien Hallucination THCA Flower",
           "caption": "",
@@ -37568,7 +37568,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 247867,
@@ -37591,8 +37591,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Alien Hallucination THCA Flower",
           "caption": "",
@@ -37621,7 +37621,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 247868,
@@ -37644,8 +37644,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Alien Hallucination THCA Flower",
           "caption": "",
@@ -37674,7 +37674,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 247869,
@@ -38165,8 +38165,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Purple-LCG-Strain-1.webp",
           "caption": "",
@@ -38195,7 +38195,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233458,
@@ -38271,8 +38271,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Purple-LCG-Strain-1.webp",
           "caption": "",
@@ -38301,7 +38301,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233174,
@@ -38324,8 +38324,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Purple-LCG-Strain-1.webp",
           "caption": "",
@@ -38354,7 +38354,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233175,
@@ -38464,7 +38464,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 117,
+        "max_qty": 116,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>170.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $170.00.</span></span>",
         "sku": "",
@@ -38788,7 +38788,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 38,
+        "max_qty": 37,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39058,7 +39058,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 62,
+        "max_qty": 60,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>155.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $155.00.</span></span>",
         "sku": "",
@@ -39166,7 +39166,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 41,
+        "max_qty": 39,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -40173,7 +40173,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 112,
+        "max_qty": 111,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40226,7 +40226,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 56,
+        "max_qty": 54,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40279,7 +40279,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 44,
+        "max_qty": 43,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40544,7 +40544,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 61,
+        "max_qty": 60,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40650,7 +40650,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 118,
+        "max_qty": 117,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40809,7 +40809,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 1980,
+        "max_qty": 1963,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40968,7 +40968,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 85,
+        "max_qty": 84,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41414,7 +41414,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 373,
+        "max_qty": 369,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41524,7 +41524,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 246,
+        "max_qty": 242,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41543,7 +41543,7 @@
           "attribute_strain": "White Guava",
           "attribute_pa_size": "ounce-box"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -41579,7 +41579,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41634,7 +41634,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 13,
+        "max_qty": 11,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41689,7 +41689,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 28,
+        "max_qty": 24,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41954,8 +41954,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Guava Gelato THCA Flower pic 1",
           "caption": "",
@@ -41984,7 +41984,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 335871,
@@ -42007,8 +42007,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Guava Gelato THCA Flower pic 1",
           "caption": "",
@@ -42037,7 +42037,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 335872,
