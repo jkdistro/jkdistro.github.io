@@ -2428,12 +2428,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -2465,8 +2465,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Diamond Dust THCA Flower",
           "caption": "",
@@ -2495,7 +2495,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 248848,
@@ -2518,8 +2518,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Diamond Dust THCA Flower",
           "caption": "",
@@ -2548,7 +2548,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 248849,
@@ -2571,8 +2571,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Diamond Dust THCA Flower",
           "caption": "",
@@ -2601,7 +2601,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 248850,
@@ -2847,8 +2847,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Jiffy Cake THCA Flower",
           "caption": "",
@@ -2877,7 +2877,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 244000,
@@ -2900,8 +2900,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Jiffy Cake THCA Flower",
           "caption": "",
@@ -2930,7 +2930,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 244001,
@@ -3796,7 +3796,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 58,
+        "max_qty": 56,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -3821,8 +3821,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Gelato OG THCA Flower BL pic",
           "caption": "",
@@ -3851,7 +3851,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 245701,
@@ -3874,8 +3874,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Gelato OG THCA Flower BL pic",
           "caption": "",
@@ -3904,7 +3904,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 245702,
@@ -3927,8 +3927,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Gelato OG THCA Flower BL pic",
           "caption": "",
@@ -3957,7 +3957,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 245703,
@@ -4668,12 +4668,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -5123,8 +5123,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "g3-14-Strain.webp",
           "caption": "",
@@ -5153,7 +5153,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233378,
@@ -5176,8 +5176,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "g3-14-Strain.webp",
           "caption": "",
@@ -5206,7 +5206,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233379,
@@ -5987,12 +5987,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -6230,12 +6230,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -6273,12 +6273,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -6344,12 +6344,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -6707,12 +6707,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "CBD Flower",
-        "url": "https://jkdistro.com/product-category/flowers/cbd-hemp-flowers/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "CBD Flower",
+        "url": "https://jkdistro.com/product-category/flowers/cbd-hemp-flowers/"
       }
     ],
     "tags": [
@@ -6979,12 +6979,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -7398,20 +7398,20 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       },
       {
         "name": "Bundles & Hot Boxes",
         "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -7821,20 +7821,20 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Infused Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
-        "name": "Ocho Extracts",
-        "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+        "name": "Infused Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+        "name": "Ocho Extracts",
+        "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
       }
     ],
     "tags": [
@@ -8387,7 +8387,7 @@
     ],
     "meta_data": {
       "title": "SuperNova Gummies Gusher Berry (Live Resin) 1200mg Delta 8",
-      "description": "1200MG SPECIAL BLEND GUSHER GUMMIES (Gusher Berry)\r\nOur Most Potent Gummies (reccomended for experienced & high dose edible consumer) each piece is 150mg of Total Cannabinoids with 8 gummies(1200mg) in Child Proof Packaging. Gummies are EGMP manufactured in California and Vegan. Our Gusher Gummies are infused with Gusher Berry Live Resin Terpene amd the following Cannabinoids:\r\n\r\n  D8 150MG",
+      "description": "1200MG SPECIAL BLEND GUSHER GUMMIES (Gusher Berry)\r\nOur Most Potent Gummies (reccomended for experienced & high dose edible consumer) each piece is 150mg of Total Cannabinoids with 8 gummies(1200mg) in Child Proof Packaging. Gummies are EGMP manufactured in California and Vegan. Our Gusher Gummies are infused with Gusher Berry Live Resin Terpene amd the following Cannabinoids:\r\n\r\n \tD8 150MG",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/gusher-berry--1024x1024.png",
         "https://jkdistro.com/wp-content/uploads/2024/07/gusher-berry-3.jpg",
@@ -8793,7 +8793,7 @@
       "title": "JK Ambassadors Signature Lighter w/ Steel Collectors Case",
       "price": "10.00",
       "currency": "USD",
-      "description": "Coated Stainless Steel Zippo Style JK Ambassadors Signature Lighter\r\n\r\n  Refillable\r\n  Windproof flame\r\n  Adjustable gauge",
+      "description": "Coated Stainless Steel Zippo Style JK Ambassadors Signature Lighter\r\n\r\n \tRefillable\r\n \tWindproof flame\r\n \tAdjustable gauge",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/image_png_604702802-2.png",
         "https://jkdistro.com/wp-content/uploads/2024/06/image_d40e7ba0-82a9-4756-9c72-71cee0e5fec1-scaled-1.jpg",
@@ -9024,32 +9024,32 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
+        "name": "Consumables",
+        "url": "https://jkdistro.com/product-category/consumables/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "Moonrocks",
         "url": "https://jkdistro.com/product-category/flowers/moonrocks/"
       },
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+        "name": "Pets",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/pets/"
       },
       {
-        "name": "Consumables",
-        "url": "https://jkdistro.com/product-category/consumables/"
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
       },
       {
-        "name": "Pets",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/pets/"
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -9900,12 +9900,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Wellness & Lifestyle",
@@ -10126,8 +10126,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Rebel Cookies THCA Flower 1",
           "caption": "",
@@ -10156,7 +10156,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 282598,
@@ -10179,8 +10179,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Rebel Cookies THCA Flower 1",
           "caption": "",
@@ -10209,7 +10209,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 282599,
@@ -10605,8 +10605,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Cherry Icee THCA Flower 1",
           "caption": "",
@@ -10635,7 +10635,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 282606,
@@ -10658,8 +10658,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Cherry Icee THCA Flower 1",
           "caption": "",
@@ -10688,7 +10688,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 282607,
@@ -10770,8 +10770,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Blue Dreams THCA Flower",
           "caption": "",
@@ -10800,7 +10800,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 232899,
@@ -10823,8 +10823,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Blue Dreams THCA Flower",
           "caption": "",
@@ -10853,7 +10853,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 232900,
@@ -11327,16 +11327,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -11575,16 +11575,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -12019,8 +12019,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Doc 15 THCA Flower 1",
           "caption": "",
@@ -12049,7 +12049,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 290419,
@@ -12072,8 +12072,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Doc 15 THCA Flower 1",
           "caption": "",
@@ -12102,7 +12102,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 290420,
@@ -13026,16 +13026,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -13494,8 +13494,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Obama Runtz THCA Flower 1",
           "caption": "",
@@ -13524,7 +13524,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 290403,
@@ -13547,8 +13547,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Obama Runtz THCA Flower 1",
           "caption": "",
@@ -13577,7 +13577,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 290404,
@@ -13892,12 +13892,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Wellness & Lifestyle",
@@ -14119,8 +14119,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "London Pound Cake THCA Flower 1",
           "caption": "",
@@ -14149,7 +14149,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 295350,
@@ -14172,8 +14172,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "London Pound Cake THCA Flower 1",
           "caption": "",
@@ -14202,7 +14202,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 295351,
@@ -15288,16 +15288,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -15659,8 +15659,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Motor Breath THCA Flower",
           "caption": "",
@@ -15689,7 +15689,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 255377,
@@ -15712,8 +15712,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Motor Breath THCA Flower",
           "caption": "",
@@ -15742,7 +15742,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 255378,
@@ -16091,12 +16091,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -16224,12 +16224,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Smalls & Minis",
         "url": "https://jkdistro.com/product-category/flowers/smalls-minis/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "meta_data": {
@@ -16359,12 +16359,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -16849,7 +16849,7 @@
     ],
     "meta_data": {
       "title": "THCA turnpen All in One - 2g",
-      "description": "THCA turnpen All in One - 2g\r\n\r\n\r\n\r\n  Discreet: minimal odor\r\n  360\u00b0 oil view: never miss a drop\r\n  Fast charge: ready when you are\r\n  Trusted oils: botanica blends = pure, natural botanicals, never artificial\r\n  TRUTHCa: maximum THCa + THCp \u2014 zero Delta-8\r\n  TRUtaste\u2122 postless tech:\u00a0no metals, cotton, glue, or toxins \u2014 just pure flavor",
+      "description": "THCA turnpen All in One - 2g\r\n\r\n\r\n\r\n \tDiscreet: minimal odor\r\n \t360\u00b0 oil view: never miss a drop\r\n \tFast charge: ready when you are\r\n \tTrusted oils: botanica blends = pure, natural botanicals, never artificial\r\n \tTRUTHCa: maximum THCa + THCp \u2014 zero Delta-8\r\n \tTRUtaste\u2122 postless tech:\u00a0no metals, cotton, glue, or toxins \u2014 just pure flavor",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/12/THCA-turnpen-All-in-One-2g-berry-dreamy.webp",
         "https://jkdistro.com/wp-content/uploads/2024/12/THCA-turnpen-All-in-One-2.webp"
@@ -16905,12 +16905,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -17113,7 +17113,7 @@
     ],
     "meta_data": {
       "title": "SuperNova Exotic Cannabinoid Vegan Gummies (Very Potent)",
-      "description": "JK SuperNova Exotic Gummies\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCheck out the newest product from our SuperNova brand. These gummies are part of their new Exotic series. These gummies come infused with Delta 8, Delta 9, CBD Full Spectrum, THCa and CBD. This potent and powerful blend of cannabinoids is a one of one mix made by some of the best manufacturers in the hemp market. This product is available in 10 different flavor variations.\r\n\r\n  Various dosage of Exotic Cannabinoids grown in California\r\n  EGMP Certified Facility\r\n  Third Party Lab Tested\r\n  Made in California, USA\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00a0",
+      "description": "JK SuperNova Exotic Gummies\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCheck out the newest product from our SuperNova brand. These gummies are part of their new Exotic series. These gummies come infused with Delta 8, Delta 9, CBD Full Spectrum, THCa and CBD. This potent and powerful blend of cannabinoids is a one of one mix made by some of the best manufacturers in the hemp market. This product is available in 10 different flavor variations.\r\n\r\n \tVarious dosage of Exotic Cannabinoids grown in California\r\n \tEGMP Certified Facility\r\n \tThird Party Lab Tested\r\n \tMade in California, USA\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00a0",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/delta-8-gummies-jk-dirstro.jpeg",
         "https://jkdistro.com/wp-content/uploads/2024/06/supernova-round-the-clock-1-1-1024x1024.gif",
@@ -17508,16 +17508,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -18146,7 +18146,7 @@
     ],
     "meta_data": {
       "title": "Pops Premium 3 Grams BLACKOUT Disposable Carts",
-      "description": "Pops Premium 3 Grams BLACKOUT Disposable Carts EXOTIC CANNABINOID BLENDS\r\nPops Premium 3g Blackout vapes offer unique \"strain enhanced\" blends of cannabinoids and Hemp derived terpenes. Each blend of cannabinoids is created to mimic the true strain effects.\r\n\u00a0\r\n\r\nStrains:\r\n\r\nPineapple Express (Sativa)\u00a0\u00a0- a\u00a0sativa dominant strain, created by crossing Trainwreck & Hawaiian. A flavor that packs a punch of funk, earthy pine, and citrus with tropical notes of pineapple.\r\n\r\nBlue Dream\u00a0(Hybrid) \u00a0-\u00a0aka \"Azure Haze\" is a sativa dominant hybrid strain, created by crossing Blueberry with Haze. A smooth floral aroma with hints of sugared blueberries.\r\n\r\nMarshmallow Kush (Indica)\u00a0\u00a0-\u00a0an indica leaning strain, created by crossing the classic OG Kush with a mysterious unknown strain (some believe it to be a descendant of the Bubble Gum family). This strain provides a pungent nutty, earthy flavor that boasts aromas of sweet marshmallow, honey, and pine.\r\n\r\n  3ml / 3 gram\r\n  Rechargeable\r\n  Discreet, High end device\r\n  Strain enhanced blends of cannabinoids\r\n  Full Transparency",
+      "description": "Pops Premium 3 Grams BLACKOUT Disposable Carts EXOTIC CANNABINOID BLENDS\r\nPops Premium 3g Blackout vapes offer unique \"strain enhanced\" blends of cannabinoids and Hemp derived terpenes. Each blend of cannabinoids is created to mimic the true strain effects.\r\n\u00a0\r\n\r\nStrains:\r\n\r\nPineapple Express (Sativa)\u00a0\u00a0- a\u00a0sativa dominant strain, created by crossing Trainwreck & Hawaiian. A flavor that packs a punch of funk, earthy pine, and citrus with tropical notes of pineapple.\r\n\r\nBlue Dream\u00a0(Hybrid) \u00a0-\u00a0aka \"Azure Haze\" is a sativa dominant hybrid strain, created by crossing Blueberry with Haze. A smooth floral aroma with hints of sugared blueberries.\r\n\r\nMarshmallow Kush (Indica)\u00a0\u00a0-\u00a0an indica leaning strain, created by crossing the classic OG Kush with a mysterious unknown strain (some believe it to be a descendant of the Bubble Gum family). This strain provides a pungent nutty, earthy flavor that boasts aromas of sweet marshmallow, honey, and pine.\r\n\r\n \t3ml / 3 gram\r\n \tRechargeable\r\n \tDiscreet, High end device\r\n \tStrain enhanced blends of cannabinoids\r\n \tFull Transparency",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/blackout-slider.gif",
         "https://jkdistro.com/wp-content/uploads/2024/07/Blackout-Blue-Dream-jpg.webp",
@@ -18197,7 +18197,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -18303,7 +18303,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -18376,12 +18376,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       }
     ],
     "meta_data": {
@@ -18642,12 +18642,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Merchandise",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -20138,7 +20138,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 47,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -20798,7 +20798,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 64,
+        "max_qty": 63,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -21071,7 +21071,7 @@
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/10/Limoncello-THCA-Flower-3.5g-Yaga-1.webp"
       ],
-      "availability": "out of stock",
+      "availability": "instock",
       "condition": "new"
     }
   },
@@ -21112,16 +21112,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
+      },
+      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "meta_data": {
@@ -21539,8 +21539,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "White Truffles THCA Flower pic",
           "caption": "",
@@ -21569,7 +21569,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 331162,
@@ -21592,8 +21592,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "White Truffles THCA Flower pic",
           "caption": "",
@@ -21622,7 +21622,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 331163,
@@ -22084,8 +22084,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 98,
-        "display_regular_price": 98,
+        "display_price": 88,
+        "display_regular_price": 88,
         "image": {
           "title": "Lemon Royal THCA Flower pic 2",
           "caption": "",
@@ -22114,7 +22114,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>98.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>88.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 319376,
@@ -22137,8 +22137,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 195,
-        "display_regular_price": 195,
+        "display_price": 175,
+        "display_regular_price": 175,
         "image": {
           "title": "Lemon Royal THCA Flower pic 2",
           "caption": "",
@@ -22167,7 +22167,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 319377,
@@ -22779,20 +22779,20 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       },
       {
         "name": "Bundles & Hot Boxes",
         "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -22991,7 +22991,7 @@
         "attributes": {
           "attribute_size": "10 Gummies Pouch"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -23027,7 +23027,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.00</bdi></span></span>",
         "sku": "",
@@ -23212,7 +23212,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 12,
+        "max_qty": 11,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.00</bdi></span></span>",
         "sku": "",
@@ -23325,7 +23325,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 261,
+        "max_qty": 259,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -23378,7 +23378,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 232,
+        "max_qty": 230,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -23421,7 +23421,7 @@
         "attributes": {
           "attribute_size": "10 Gummies Pouch"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -23457,7 +23457,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.00</bdi></span></span>",
         "sku": "",
@@ -23593,7 +23593,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie black",
@@ -23623,7 +23623,7 @@
         "is_virtual": false,
         "max_qty": 54,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341563,
@@ -23647,7 +23647,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie black",
@@ -23675,9 +23675,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 35,
+        "max_qty": 34,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341564,
@@ -23701,7 +23701,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie black",
@@ -23729,9 +23729,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 35,
+        "max_qty": 34,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341565,
@@ -23755,7 +23755,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie black",
@@ -23785,7 +23785,7 @@
         "is_virtual": false,
         "max_qty": 31,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341566,
@@ -23809,7 +23809,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie black",
@@ -23839,7 +23839,7 @@
         "is_virtual": false,
         "max_qty": 34,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341567,
@@ -23863,7 +23863,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie red",
@@ -23893,7 +23893,7 @@
         "is_virtual": false,
         "max_qty": 55,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341555,
@@ -23917,7 +23917,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie red",
@@ -23947,7 +23947,7 @@
         "is_virtual": false,
         "max_qty": 35,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341556,
@@ -23971,115 +23971,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
-        "display_regular_price": 24.99,
-        "image": {
-          "title": "jkd hoodie red",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
-          "alt": "jkd hoodie red",
-          "src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 341548,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 34,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
-        "sku": "7693267206309-jk-moonman-hemp-hoodies",
-        "variation_description": "",
-        "variation_id": 341557,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"jkd hoodie red\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_style": "Red",
-          "attribute_size": "Large"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 24.99,
-        "display_regular_price": 24.99,
-        "image": {
-          "title": "jkd hoodie red",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
-          "alt": "jkd hoodie red",
-          "src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 341548,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 35,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
-        "sku": "7693267206309-jk-moonman-hemp-hoodies",
-        "variation_description": "",
-        "variation_id": 341558,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"jkd hoodie red\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_style": "Red",
-          "attribute_size": "Medium"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie red",
@@ -24109,7 +24001,115 @@
         "is_virtual": false,
         "max_qty": 33,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
+        "sku": "7693267206309-jk-moonman-hemp-hoodies",
+        "variation_description": "",
+        "variation_id": 341557,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"jkd hoodie red\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_style": "Red",
+          "attribute_size": "Large"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 19.99,
+        "display_regular_price": 24.99,
+        "image": {
+          "title": "jkd hoodie red",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
+          "alt": "jkd hoodie red",
+          "src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 341548,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 35,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
+        "sku": "7693267206309-jk-moonman-hemp-hoodies",
+        "variation_description": "",
+        "variation_id": 341558,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"jkd hoodie red\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_style": "Red",
+          "attribute_size": "Medium"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 19.99,
+        "display_regular_price": 24.99,
+        "image": {
+          "title": "jkd hoodie red",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
+          "alt": "jkd hoodie red",
+          "src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2022/07/jkd-hoodie-red-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 341548,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 33,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341560,
@@ -24133,7 +24133,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie grey",
@@ -24163,7 +24163,7 @@
         "is_virtual": false,
         "max_qty": 55,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341549,
@@ -24187,7 +24187,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie grey",
@@ -24217,7 +24217,7 @@
         "is_virtual": false,
         "max_qty": 35,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341550,
@@ -24241,7 +24241,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie grey",
@@ -24271,7 +24271,7 @@
         "is_virtual": false,
         "max_qty": 34,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341551,
@@ -24295,7 +24295,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie grey",
@@ -24325,7 +24325,7 @@
         "is_virtual": false,
         "max_qty": 35,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341552,
@@ -24349,7 +24349,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 19.99,
         "display_regular_price": 24.99,
         "image": {
           "title": "jkd hoodie grey",
@@ -24379,7 +24379,7 @@
         "is_virtual": false,
         "max_qty": 33,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $24.99.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 341553,
@@ -24403,7 +24403,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 30,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "image_d08df436-6641-46e5-a42c-e1ad00c8fd48.jpg",
@@ -24431,9 +24431,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 9,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 231030,
@@ -24457,7 +24457,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 30,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "image_d08df436-6641-46e5-a42c-e1ad00c8fd48.jpg",
@@ -24487,7 +24487,7 @@
         "is_virtual": false,
         "max_qty": 28,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 231031,
@@ -24511,7 +24511,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 30,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "image_e14b68e9-ff2b-4677-8371-6dea276078b2.jpg",
@@ -24541,7 +24541,7 @@
         "is_virtual": false,
         "max_qty": 5,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 231033,
@@ -24565,7 +24565,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 30,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "image_e14b68e9-ff2b-4677-8371-6dea276078b2.jpg",
@@ -24595,7 +24595,7 @@
         "is_virtual": false,
         "max_qty": 23,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 231034,
@@ -24619,7 +24619,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 30,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "image_2d81b05d-bfcf-4863-b991-ffc027b72481.jpg",
@@ -24649,7 +24649,7 @@
         "is_virtual": false,
         "max_qty": 10,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 231036,
@@ -24673,7 +24673,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 30,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "image_2d81b05d-bfcf-4863-b991-ffc027b72481.jpg",
@@ -24703,7 +24703,7 @@
         "is_virtual": false,
         "max_qty": 14,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "7693267206309-jk-moonman-hemp-hoodies",
         "variation_description": "",
         "variation_id": 231037,
@@ -24885,7 +24885,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 11,
+        "max_qty": 10,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -24938,7 +24938,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 9,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -24991,7 +24991,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 13,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -25011,12 +25011,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       }
     ],
     "meta_data": {
@@ -25145,12 +25145,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Pets",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/pets/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -25370,7 +25370,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Chocolate Bars",
-      "description": "15 squares of mind-melting chocolate per bar\r\n  Available in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n  All-natural ingredients",
+      "description": "15 squares of mind-melting chocolate per bar\r\n \tAvailable in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n \tAll-natural ingredients",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Fruity-Cereal.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Chocolate-Milk.webp",
@@ -25480,7 +25480,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 14,
+        "max_qty": 13,
         "min_qty": 1,
         "price_html": "",
         "sku": "810135370042",
@@ -25734,7 +25734,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 25,
+        "max_qty": 23,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -25787,7 +25787,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 9,
+        "max_qty": 8,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -25893,7 +25893,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 12,
+        "max_qty": 11,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -26024,7 +26024,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 3,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -26362,7 +26362,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26392,7 +26392,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314181,
@@ -26578,7 +26578,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26608,7 +26608,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314176,
@@ -26794,7 +26794,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26824,7 +26824,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314167,
@@ -26902,7 +26902,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26932,7 +26932,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314171,
@@ -27118,7 +27118,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27148,7 +27148,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314149,
@@ -27334,7 +27334,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27364,7 +27364,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314138,
@@ -27550,7 +27550,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27580,7 +27580,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314142,
@@ -27766,7 +27766,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27796,7 +27796,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314129,
@@ -27982,7 +27982,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -28012,7 +28012,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 280595,
@@ -28036,7 +28036,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -28066,7 +28066,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 271842,
@@ -28306,7 +28306,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 5,
+        "display_price": 15,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -28336,7 +28336,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>5.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $5.00.</span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 239036,
@@ -28734,12 +28734,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "meta_data": {
@@ -28978,7 +28978,7 @@
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -29026,7 +29026,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 50,
+        "max_qty": 49,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -29268,12 +29268,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Smokables",
@@ -29566,12 +29566,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "meta_data": {
@@ -29590,12 +29590,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       }
     ],
     "meta_data": {
@@ -29767,7 +29767,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 9,
+        "max_qty": 8,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -29807,7 +29807,7 @@
     ],
     "meta_data": {
       "title": "Live Rosin Delta 9 Syrup - Pineapple (Indica) 420mg",
-      "price": "19.99",
+      "price": "24.99",
       "currency": "USD",
       "description": "Live Rosin Delta 9 Syrup Chill offers a juicy, tropical pineapple flavor. With 5mg per serving.",
       "images": [
@@ -29891,7 +29891,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 70,
+        "max_qty": 67,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -29944,7 +29944,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 68,
+        "max_qty": 64,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30195,7 +30195,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 16,
+        "max_qty": 13,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30594,8 +30594,8 @@
         "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       },
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+        "name": "Consumables",
+        "url": "https://jkdistro.com/product-category/consumables/"
       },
       {
         "name": "Infused Prerolls",
@@ -30606,8 +30606,8 @@
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
-        "name": "Consumables",
-        "url": "https://jkdistro.com/product-category/consumables/"
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Savory Snacks",
@@ -30637,12 +30637,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -30754,10 +30754,6 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Bath Products",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/bath-products/"
       },
@@ -30768,6 +30764,10 @@
       {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -30846,7 +30846,7 @@
     ],
     "meta_data": {
       "title": "Live Rosin Delta 9 Syrup for Euphoria - Blue Raspberry (Sativa) 420mg",
-      "price": "19.99",
+      "price": "24.99",
       "currency": "USD",
       "description": "Live Rosin Delta 9 Syrup. 5mg per serving, 84 servings per bottle, fruity and tangy.",
       "images": [
@@ -31084,7 +31084,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 47,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31190,7 +31190,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 20,
+        "max_qty": 19,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31243,7 +31243,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 39,
+        "max_qty": 38,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -31688,12 +31688,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -31847,12 +31847,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -31959,7 +31959,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 57,
+        "max_qty": 56,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32065,7 +32065,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32118,7 +32118,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 64,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32224,7 +32224,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 49,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32244,12 +32244,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -32274,12 +32274,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -32304,12 +32304,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -32628,12 +32628,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Smokables",
@@ -32853,7 +32853,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 49,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "",
         "sku": "7693267435685-coast-organic-delta-8-smokes",
@@ -32991,7 +32991,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -33016,8 +33016,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Blue-Sherbet-THCA-Flower-Black-Label-Pic-1.webp",
           "caption": "",
@@ -33046,7 +33046,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233880,
@@ -33069,8 +33069,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Blue-Sherbet-THCA-Flower-Black-Label-Pic-1.webp",
           "caption": "",
@@ -33099,7 +33099,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233881,
@@ -33122,8 +33122,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Blue-Sherbet-THCA-Flower-Black-Label-Pic-1.webp",
           "caption": "",
@@ -33152,7 +33152,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233882,
@@ -33235,7 +33235,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 42,
+        "max_qty": 18,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33598,7 +33598,7 @@
         "attributes": {
           "attribute_size": "10 Gummies Pouch"
         },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -33634,7 +33634,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 2,
+        "max_qty": 1,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.00</bdi></span></span>",
         "sku": "",
@@ -33687,7 +33687,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 3,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.00</bdi></span></span>",
         "sku": "",
@@ -33723,7 +33723,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Gummies 15ct",
-      "description": "Magic Mushroom Gummies\r\n\r\n  15 chewy, mind-melting gummies per pack\r\n  All-natural ingredients\r\n  Vegan",
+      "description": "Magic Mushroom Gummies\r\n\r\n \t15 chewy, mind-melting gummies per pack\r\n \tAll-natural ingredients\r\n \tVegan",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Watermelon-Wonder.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Gummies-Sour-Tropical.webp",
@@ -33787,7 +33787,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 5,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -33946,7 +33946,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 36,
+        "max_qty": 38,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -34072,12 +34072,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -34249,7 +34249,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -34780,16 +34780,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -35096,7 +35096,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Vape 2 Grams",
-      "description": "2g of magic mushroom vape juice per pen\r\n  Tree house Proprietary mushroom blend\r\n  Perfect for microdosing\r\n  All-natural ingredients\r\n  Tastes like a chilled glass of summertime pink lemonade\r\n  Approximately 800 puffs per pen",
+      "description": "2g of magic mushroom vape juice per pen\r\n \tTree house Proprietary mushroom blend\r\n \tPerfect for microdosing\r\n \tAll-natural ingredients\r\n \tTastes like a chilled glass of summertime pink lemonade\r\n \tApproximately 800 puffs per pen",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Apple-Tart-2-Grams.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Mango-Smoothie-2-Grams.webp",
@@ -35155,7 +35155,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 20,
+        "max_qty": 19,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35208,7 +35208,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 14,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35390,7 +35390,7 @@
     ],
     "meta_data": {
       "title": "Live Rosin Delta 9 Syrup Bliss - Strawberry (Hybrid) 420mg",
-      "price": "19.99",
+      "price": "24.99",
       "currency": "USD",
       "description": "Live Rosin Delta 9 Syrup delivers 5mg per serving. Delicate flavor. 84 servings per bottle, premium Live Rosin.",
       "images": [
@@ -35857,7 +35857,7 @@
     ],
     "meta_data": {
       "title": "Live Rosin Delta 9 Syrup Boost- Watermelon (Sativa) 420mg",
-      "price": "19.99",
+      "price": "24.99",
       "currency": "USD",
       "description": "Live Rosin Delta 9 Syrup 5mg per serving, 84 servings per bottle, sweet watermelon flavor.",
       "images": [
@@ -35928,7 +35928,7 @@
         "attributes": {
           "attribute_strains": "Night Shade (Indica)"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -35964,7 +35964,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36079,7 +36079,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Syrup 4oz",
-      "description": "23 servings of high-potency syrup\r\n  50mg of our proprietary mushroom blend per serving\r\n  Natural strawberry flavor\r\n  Extra-strength, high-dose formula\r\n  Vegan",
+      "description": "23 servings of high-potency syrup\r\n \t50mg of our proprietary mushroom blend per serving\r\n \tNatural strawberry flavor\r\n \tExtra-strength, high-dose formula\r\n \tVegan",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Galaxy-Grape-4oz.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Syrup-Strawberry-Gelato-4oz.webp",
@@ -36113,7 +36113,7 @@
     ],
     "meta_data": {
       "title": "Tre House Delta 9 Syrup 4oz 1000mg",
-      "description": "1000mg blend of Delta 9 & Delta 8\r\n  Watermelon flavor\r\n  23 servings per bottle\r\n  Trippier than a turtle in a top hat!\r\n  Vegan",
+      "description": "1000mg blend of Delta 9 & Delta 8\r\n \tWatermelon flavor\r\n \t23 servings per bottle\r\n \tTrippier than a turtle in a top hat!\r\n \tVegan",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Delta-9-Syrup-1000mg-Bussin-Berry.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Delta-9-Syrup-1000mg-Watermelon-Felon.webp",
@@ -36131,12 +36131,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Merchandise",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -36158,12 +36158,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -36580,7 +36580,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 927,
+        "max_qty": 925,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>12.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $12.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>8.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $8.00.</span></span>",
         "sku": "",
@@ -36600,12 +36600,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Disposables",
-        "url": "https://jkdistro.com/product-category/vapes/disposables/"
-      },
-      {
         "name": "Vapes",
         "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
+        "name": "Disposables",
+        "url": "https://jkdistro.com/product-category/vapes/disposables/"
       }
     ],
     "tags": [
@@ -36673,7 +36673,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 223,
+        "max_qty": 221,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36726,7 +36726,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 323,
+        "max_qty": 322,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36957,8 +36957,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Guava-Gelato-Strain-1.webp",
           "caption": "",
@@ -36987,7 +36987,7 @@
         "is_virtual": false,
         "max_qty": 3,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 232540,
@@ -37010,8 +37010,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Guava-Gelato-Strain-1.webp",
           "caption": "",
@@ -37038,9 +37038,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 9,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 232541,
@@ -37548,12 +37548,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -37836,8 +37836,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Pink-Runtz-Strain.webp",
           "caption": "",
@@ -37866,7 +37866,7 @@
         "is_virtual": false,
         "max_qty": 240,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233461,
@@ -37889,8 +37889,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Pink-Runtz-Strain.webp",
           "caption": "",
@@ -37919,7 +37919,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233163,
@@ -37942,8 +37942,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Pink-Runtz-Strain.webp",
           "caption": "",
@@ -37972,7 +37972,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233164,
@@ -37990,12 +37990,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -38026,8 +38026,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 55,
+        "display_regular_price": 55,
         "image": {
           "title": "Gator-Gushers-Strain.webp",
           "caption": "",
@@ -38056,7 +38056,7 @@
         "is_virtual": false,
         "max_qty": 144,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>55.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233459,
@@ -38079,8 +38079,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 240,
-        "display_regular_price": 240,
+        "display_price": 200,
+        "display_regular_price": 200,
         "image": {
           "title": "Gator-Gushers-Strain.webp",
           "caption": "",
@@ -38109,7 +38109,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>240.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233171,
@@ -38132,8 +38132,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 125,
-        "display_regular_price": 125,
+        "display_price": 105,
+        "display_regular_price": 105,
         "image": {
           "title": "Gator-Gushers-Strain.webp",
           "caption": "",
@@ -38162,7 +38162,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>125.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>105.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233172,
@@ -38572,7 +38572,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 112,
+        "max_qty": 111,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>170.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $170.00.</span></span>",
         "sku": "",
@@ -38626,7 +38626,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 88,
+        "max_qty": 87,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39166,7 +39166,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 42,
+        "max_qty": 39,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>155.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $155.00.</span></span>",
         "sku": "",
@@ -39220,7 +39220,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 37,
+        "max_qty": 36,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39888,12 +39888,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Concentrates",
-        "url": "https://jkdistro.com/product-category/concentrates/"
-      },
-      {
         "name": "Smokables",
         "url": "https://jkdistro.com/product-category/smokables/"
+      },
+      {
+        "name": "Concentrates",
+        "url": "https://jkdistro.com/product-category/concentrates/"
       }
     ],
     "tags": [
@@ -40334,7 +40334,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 23,
+        "max_qty": 21,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40387,7 +40387,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 36,
+        "max_qty": 34,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40440,7 +40440,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 5,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40493,7 +40493,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 28,
+        "max_qty": 27,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40546,7 +40546,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 11,
+        "max_qty": 9,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40599,7 +40599,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 33,
+        "max_qty": 32,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40705,7 +40705,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 5,
+        "max_qty": 4,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40758,7 +40758,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 34,
+        "max_qty": 33,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40811,7 +40811,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 69,
+        "max_qty": 67,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40917,7 +40917,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 28,
+        "max_qty": 27,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40970,7 +40970,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 78,
+        "max_qty": 77,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41023,7 +41023,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 1700,
+        "max_qty": 1688,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41575,7 +41575,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 230,
+        "max_qty": 225,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41630,7 +41630,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 151,
+        "max_qty": 137,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41756,61 +41756,6 @@
       {
         "attributes": {
           "attribute_category": "Regular Smalls",
-          "attribute_strain": "Truffle Cake",
-          "attribute_pa_size": "ounce-box"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 34.99,
-        "display_regular_price": 165,
-        "image": {
-          "title": "Copy-of-Smalls-Minis.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "alt": "Copy-of-Smalls-Minis.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 215834,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
-        "sku": "",
-        "variation_description": "<p>Experience indulgence with Truffle Cake, an indica-dominant hybrid featuring 25.17% THCA and 26.61% total cannabinoids. Enjoy its decadent earthy aroma with hints of chocolate.</p>\n",
-        "variation_id": 292935,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_category": "Regular Smalls",
           "attribute_strain": "Georgia Pie",
           "attribute_pa_size": "ounce-box"
         },
@@ -41850,7 +41795,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 29,
+        "max_qty": 9,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41905,7 +41850,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 358,
+        "max_qty": 344,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41960,67 +41905,12 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 125,
+        "max_qty": 119,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
         "variation_description": "<p>Col 43 is an indica-dominant strain with 28.15% THCA and 30.80% total cannabinoids. This strain delivers  rich earthy and citrus notes.</p>\n",
         "variation_id": 274942,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_category": "Regular Smalls",
-          "attribute_strain": "Hashburguer",
-          "attribute_pa_size": "ounce-box"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 34.99,
-        "display_regular_price": 165,
-        "image": {
-          "title": "Copy-of-Smalls-Minis.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "alt": "Copy-of-Smalls-Minis.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 215834,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
-        "sku": "",
-        "variation_description": "<p>A perfectly balanced hybrid strain, boasting 29.57% THCA. A cross between Han Solo Hash Plant and Double Burger, it delivers a spicy lemony hash flavor.</p>\n",
-        "variation_id": 255154,
         "variation_is_active": true,
         "variation_is_visible": true,
         "weight": "",
@@ -42070,7 +41960,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 619,
+        "max_qty": 611,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -42126,7 +42016,7 @@
     ],
     "meta_data": {
       "title": "The Last Harvest Stash Clear-Out - THCA Strains",
-      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n  Reusable mylar packaging to lock in freshness and potency.",
+      "description": "Straight from our last harvest, these nugs have been cured and stored with care to keep their potency and terps on point. We're making room for the new crop, so we're letting these strains go at prices that'll make you smile. Each batch has been kept in prime condition, maintaining that aroma you know and love. Final sale pricing - grab it while supplies last.\r\n\r\n \tReusable mylar packaging to lock in freshness and potency.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2025/01/last-harvest-clear-out-product-picture.webp"
       ],
@@ -42436,12 +42326,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -42498,7 +42388,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 11,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -42551,7 +42441,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 19,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -42604,7 +42494,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 20,
+        "max_qty": 18,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -42657,7 +42547,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 20,
+        "max_qty": 17,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -42710,7 +42600,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 19,
+        "max_qty": 15,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
