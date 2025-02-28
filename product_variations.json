@@ -11589,7 +11589,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 136,
+        "max_qty": 135,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -15795,7 +15795,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 164,
+        "max_qty": 163,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -36120,7 +36120,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 76,
+        "max_qty": 73,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36282,7 +36282,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 67,
+        "max_qty": 63,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -39058,7 +39058,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 43,
+        "max_qty": 40,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>155.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $155.00.</span></span>",
         "sku": "",
@@ -40120,7 +40120,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 94,
+        "max_qty": 90,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40173,7 +40173,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 103,
+        "max_qty": 102,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40332,7 +40332,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 15,
+        "max_qty": 12,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40385,7 +40385,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 24,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40438,7 +40438,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 43,
+        "max_qty": 40,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40756,7 +40756,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 1900,
+        "max_qty": 1895,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -40809,7 +40809,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 109,
+        "max_qty": 103,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40915,7 +40915,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 64,
+        "max_qty": 61,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41059,7 +41059,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 71,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41361,7 +41361,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 347,
+        "max_qty": 340,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41471,67 +41471,12 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 158,
+        "max_qty": 145,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
         "variation_description": "<p>A balanced hybrid strain with 35.28% THCA and 37.40% sum of cannabinoids. Expect sweet, fruity flavors with hints of citrus and vanilla.</p>\n",
         "variation_id": 281989,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_category": "Regular Smalls",
-          "attribute_strain": "Cheetah Piss",
-          "attribute_pa_size": "ounce-box"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 34.99,
-        "display_regular_price": 165,
-        "image": {
-          "title": "Copy-of-Smalls-Minis.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "alt": "Copy-of-Smalls-Minis.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 215834,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
-        "sku": "",
-        "variation_description": "<p>Cheetah Piss, where vibrant citrus meets untamed potency. Hybrid Strain.</p>\n",
-        "variation_id": 233266,
         "variation_is_active": true,
         "variation_is_visible": true,
         "weight": "",
@@ -42242,5 +42187,1382 @@
       "availability": "instock",
       "condition": "new"
     }
+  },
+  "https://jkdistro.com/product/super-pop-rocks-thca-flower-pl/": {
+    "url": "https://jkdistro.com/product/super-pop-rocks-thca-flower-pl/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Indica Dominant Hybrid",
+        "url": "https://jkdistro.com/product-tag/indica-dominant-hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "Super Pop Rocks THCA Flower PL",
+      "description": "Super Pop Rocks THCA Flower is a premium hybrid boasting 30.88% THCA and 32.72% total cannabinoids. Expect a sweet candy explosion with hints of tropical fruit and a smooth gas finish, making it a standout in JK Distro\u2019s Purple Label lineup.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 65,
+        "display_regular_price": 65,
+        "image": {
+          "title": "Super Pop Rocks THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+          "alt": "Super Pop Rocks THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353129,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353184,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Super Pop Rocks THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 116,
+        "display_regular_price": 116,
+        "image": {
+          "title": "Super Pop Rocks THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+          "alt": "Super Pop Rocks THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353129,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353185,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Super Pop Rocks THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 225,
+        "display_regular_price": 225,
+        "image": {
+          "title": "Super Pop Rocks THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+          "alt": "Super Pop Rocks THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353129,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353186,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Super Pop Rocks THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Super-Pop-Rocks-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/budtenders-hotbox-purple-label-3-flowers/": {
+    "url": "https://jkdistro.com/product/budtenders-hotbox-purple-label-3-flowers/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
+      }
+    ],
+    "meta_data": {
+      "title": "Budtenders HotBox - Purple Label - 3 Flowers",
+      "description": "A premium deal on Purple Label flower\u2014choose 3 of our finest strains and save big! Get $157 per ounce instead of $225, dropping the total from $675 down to $471. Top-tier flower, unbeatable savings, and premium quality in every jar.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-2.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-1.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_strain-1": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ],
+          "attribute_strain-2": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ],
+          "attribute_strain-3": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ]
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 471,
+        "display_regular_price": 675,
+        "image": {
+          "title": "budtender hotbox 3 flowers 3",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3.webp",
+          "alt": "budtender hotbox 3 flowers 3",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353435,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353458,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-3-flowers-3.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/oreo-cookie-thca-flower-pl/": {
+    "url": "https://jkdistro.com/product/oreo-cookie-thca-flower-pl/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Indica Dominant Hybrid",
+        "url": "https://jkdistro.com/product-tag/indica-dominant-hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "Oreo Cookie THCA Flower PL",
+      "description": "Oreo Cookie THCA Flower stands out with 31.23% THCA and 33.01% total cannabinoids, featuring rich, dessert-like flavors of chocolate, cream, and earthy gas. A premium hybrid, this strain is a must-have from JK Distro\u2019s Purple Label selection.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 65,
+        "display_regular_price": 65,
+        "image": {
+          "title": "Oreo Cookie THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+          "alt": "Oreo Cookie THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353127,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353173,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Oreo Cookie THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 116,
+        "display_regular_price": 116,
+        "image": {
+          "title": "Oreo Cookie THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+          "alt": "Oreo Cookie THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353127,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353174,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Oreo Cookie THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 225,
+        "display_regular_price": 225,
+        "image": {
+          "title": "Oreo Cookie THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+          "alt": "Oreo Cookie THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353127,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353175,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Oreo Cookie THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Oreo-Cookie-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/budtenders-hotbox-purple-label-4-flowers/": {
+    "url": "https://jkdistro.com/product/budtenders-hotbox-purple-label-4-flowers/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
+      }
+    ],
+    "meta_data": {
+      "title": "Budtenders HotBox - Purple Label - 4 Flowers",
+      "description": "The ultimate Purple Label experience\u2014select 4 premium strains from our exclusive top-shelf category and save big! Pay only $140 per ounce instead of $225, bringing the total from $900 down to $560. A must-have deal for true connoisseurs.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-1.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_strain-1": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ],
+          "attribute_strain-2": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ],
+          "attribute_strain-3": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ],
+          "attribute_strain-4": [
+            "Super Pop Rocks",
+            "LA Pop Rocks",
+            "Oreo Cookie",
+            "G41 (Gelato 41)",
+            "Candy Gas",
+            "Bubble Gun Gelato"
+          ]
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 560,
+        "display_regular_price": 900,
+        "image": {
+          "title": "budtender hotbox 4 flowers 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1.webp",
+          "alt": "budtender hotbox 4 flowers 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353436,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353447,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/budtender-hotbox-4-flowers-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/la-pop-rocks-thca-flower-pl/": {
+    "url": "https://jkdistro.com/product/la-pop-rocks-thca-flower-pl/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Indica Dominant Hybrid",
+        "url": "https://jkdistro.com/product-tag/indica-dominant-hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "LA Pop Rocks THCA Flower PL",
+      "description": "LA Pop Rocks THCA Flower delivers an impressive 30.52% THCA and 32.14% total cannabinoids, blending sweet citrus, candy, and gassy undertones. This premium hybrid is a must-have for retailers seeking top-shelf quality with an exceptional flavor experience.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 65,
+        "display_regular_price": 65,
+        "image": {
+          "title": "LA Pop Rocks THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+          "alt": "LA Pop Rocks THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353125,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353164,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"LA Pop Rocks THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 116,
+        "display_regular_price": 116,
+        "image": {
+          "title": "LA Pop Rocks THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+          "alt": "LA Pop Rocks THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353125,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353165,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"LA Pop Rocks THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 225,
+        "display_regular_price": 225,
+        "image": {
+          "title": "LA Pop Rocks THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+          "alt": "LA Pop Rocks THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353125,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353166,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"LA Pop Rocks THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/LA-Pop-Rocks-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/candy-gas-thca-flower-pl/": {
+    "url": "https://jkdistro.com/product/candy-gas-thca-flower-pl/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "hybrid",
+        "url": "https://jkdistro.com/product-tag/hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "Candy Gas THCA Flower PL",
+      "description": "Candy Gas THCA Flower is a potent hybrid featuring 30.14% THCA and 31.72% total cannabinoids. Expect bold flavors of sweet candy, fuel-like gas, and citrus zest, making this strain a standout selection for those who demand top-tier quality.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 65,
+        "display_regular_price": 65,
+        "image": {
+          "title": "Candy Gas THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+          "alt": "Candy Gas THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353120,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353141,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Candy Gas THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 116,
+        "display_regular_price": 116,
+        "image": {
+          "title": "Candy Gas THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+          "alt": "Candy Gas THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353120,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353142,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Candy Gas THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 225,
+        "display_regular_price": 225,
+        "image": {
+          "title": "Candy Gas THCA Flower pic 1",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+          "alt": "Candy Gas THCA Flower pic 1",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353120,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353143,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Candy Gas THCA Flower pic 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Candy-Gas-THCA-Flower-pic-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/g41-thca-flower-pl/": {
+    "url": "https://jkdistro.com/product/g41-thca-flower-pl/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "hybrid",
+        "url": "https://jkdistro.com/product-tag/hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "G41 THCA Flower PL",
+      "description": "G41 THCA Flower is an elite hybrid featuring 29.87% THCA and 31.12% total cannabinoids. Expect a fusion of sweet dessert-like flavors, creamy vanilla, and gassy undertones, making it a standout in JK Distro\u2019s Purple Label collection.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 65,
+        "display_regular_price": 65,
+        "image": {
+          "title": "G41 THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+          "alt": "G41 THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353123,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353155,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"G41 THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 116,
+        "display_regular_price": 116,
+        "image": {
+          "title": "G41 THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+          "alt": "G41 THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353123,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353156,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"G41 THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 225,
+        "display_regular_price": 225,
+        "image": {
+          "title": "G41 THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+          "alt": "G41 THCA Flower",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353123,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353157,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"G41 THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/G41-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
+  },
+  "https://jkdistro.com/product/bubble-gum-gelato-thca-flower-pl/": {
+    "url": "https://jkdistro.com/product/bubble-gum-gelato-thca-flower-pl/",
+    "type": "variable",
+    "categories": [
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Indica Dominant Hybrid",
+        "url": "https://jkdistro.com/product-tag/indica-dominant-hybrid/"
+      }
+    ],
+    "meta_data": {
+      "title": "Bubble Gum Gelato THCA Flower PL",
+      "description": "Bubble Gum Gelato THCA Flower is a premium hybrid combining sweet berry flavors with creamy, earthy undertones. Packed with 28.92% THCA and 30.65% total cannabinoids, this top-tier selection delivers an aromatic and flavorful experience, perfect for refined connoisseurs.",
+      "images": [
+        "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+        "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-2.webp"
+      ],
+      "availability": "instock",
+      "condition": "new"
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7g-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 65,
+        "display_regular_price": 65,
+        "image": {
+          "title": "Bubble Gum Gelato THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+          "alt": "Bubble Gum Gelato THCA Flower 2",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353119,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353113,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Bubble Gum Gelato THCA Flower 2\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "half-ounce-glass-jar"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 116,
+        "display_regular_price": 116,
+        "image": {
+          "title": "Bubble Gum Gelato THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+          "alt": "Bubble Gum Gelato THCA Flower 2",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353119,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353114,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.059233",
+        "weight_html": "0.059233 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Bubble Gum Gelato THCA Flower 2\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_pa_size": "ounce-glass-premium"
+        },
+        "availability_html": "",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 225,
+        "display_regular_price": 225,
+        "image": {
+          "title": "Bubble Gum Gelato THCA Flower",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+          "alt": "Bubble Gum Gelato THCA Flower 2",
+          "src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 353119,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": "",
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 353115,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Bubble Gum Gelato THCA Flower 2\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2025/02/Bubble-Gum-Gelato-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   }
 }
