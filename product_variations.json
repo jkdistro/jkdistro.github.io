@@ -448,16 +448,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "meta_data": {
@@ -880,20 +880,20 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "tags": [
@@ -2428,12 +2428,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -4668,12 +4668,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -5957,12 +5957,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -5987,12 +5987,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -6230,12 +6230,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -6273,12 +6273,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -6344,12 +6344,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -6707,12 +6707,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "CBD Flower",
         "url": "https://jkdistro.com/product-category/flowers/cbd-hemp-flowers/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -6979,12 +6979,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -7037,12 +7037,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -7066,12 +7066,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -7821,20 +7821,20 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
+      },
+      {
+        "name": "Ocho Extracts",
+        "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
-        "name": "Ocho Extracts",
-        "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "tags": [
@@ -8587,16 +8587,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "tags": [
@@ -8852,16 +8852,16 @@
     "type": "simple",
     "categories": [
       {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
+      },
+      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "meta_data": {
@@ -9900,12 +9900,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Wellness & Lifestyle",
@@ -11575,16 +11575,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -11644,7 +11644,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 130,
+        "max_qty": 129,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -12120,12 +12120,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -12947,12 +12947,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -13026,16 +13026,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -14224,12 +14224,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -16224,12 +16224,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Smalls & Minis",
-        "url": "https://jkdistro.com/product-category/flowers/smalls-minis/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Smalls & Minis",
+        "url": "https://jkdistro.com/product-category/flowers/smalls-minis/"
       }
     ],
     "meta_data": {
@@ -16335,12 +16335,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -16359,12 +16359,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -16691,12 +16691,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -16905,12 +16905,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -16959,16 +16959,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -17861,12 +17861,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Merchandise",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Merchandise",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
       }
     ],
     "meta_data": {
@@ -18136,12 +18136,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -18642,12 +18642,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Merchandise",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Merchandise",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
       }
     ],
     "meta_data": {
@@ -19375,12 +19375,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Merchandise",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
-      },
-      {
         "name": "Wellness & Lifestyle",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
+      },
+      {
+        "name": "Merchandise",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
       }
     ],
     "meta_data": {
@@ -20682,12 +20682,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -21644,12 +21644,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "THCA Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
         "name": "Purple Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
+      },
+      {
+        "name": "THCA Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
       }
     ],
     "tags": [
@@ -22779,20 +22779,20 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "tags": [
@@ -23258,16 +23258,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Infused Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/infused-prerolls/"
       },
       {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -24819,12 +24819,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -25011,12 +25011,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -25606,16 +25606,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -25966,12 +25966,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -26044,12 +26044,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Single Prerolls",
@@ -28815,12 +28815,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -29566,12 +29566,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "meta_data": {
@@ -29651,7 +29651,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 16,
+        "max_qty": 15,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30707,7 +30707,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 26,
+        "max_qty": 25,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -30895,16 +30895,16 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Bath Products",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/bath-products/"
       },
       {
         "name": "Hair and Skin Products",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/hair-and-skin-products/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -31715,12 +31715,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -31847,12 +31847,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Single Prerolls",
@@ -31898,12 +31898,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -32244,12 +32244,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Single Prerolls",
@@ -32274,12 +32274,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Single Prerolls",
@@ -32628,12 +32628,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       },
       {
         "name": "Smokables",
@@ -32926,12 +32926,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -33170,12 +33170,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -33255,12 +33255,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls & Cigarettes",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
-      },
-      {
         "name": "Prerolls",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
+      },
+      {
+        "name": "Prerolls & Cigarettes",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
       }
     ],
     "meta_data": {
@@ -34072,12 +34072,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -35080,12 +35080,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "tags": [
@@ -35895,16 +35895,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
-      },
-      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
+      },
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -35984,12 +35984,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Topicals",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/topicals/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -36131,12 +36131,12 @@
     "type": "simple",
     "categories": [
       {
-        "name": "Wellness & Lifestyle",
-        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
-      },
-      {
         "name": "Merchandise",
         "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/merchandise/"
+      },
+      {
+        "name": "Wellness & Lifestyle",
+        "url": "https://jkdistro.com/product-category/wellness-and-lifestyle/"
       }
     ],
     "meta_data": {
@@ -36158,12 +36158,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -36336,7 +36336,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -36852,16 +36852,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
-      },
-      {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -37058,12 +37058,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -37990,12 +37990,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Flowers",
-        "url": "https://jkdistro.com/product-category/flowers/"
-      },
-      {
         "name": "Black Label Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
+      },
+      {
+        "name": "Flowers",
+        "url": "https://jkdistro.com/product-category/flowers/"
       }
     ],
     "tags": [
@@ -38896,7 +38896,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 27,
+        "max_qty": 26,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39220,7 +39220,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 33,
+        "max_qty": 31,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39436,7 +39436,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 345,
+        "max_qty": 344,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>175.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $175.00.</span></span>",
         "sku": "",
@@ -39888,12 +39888,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -40066,7 +40066,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 71,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40228,7 +40228,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 47,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40281,7 +40281,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40387,7 +40387,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 33,
+        "max_qty": 32,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40440,7 +40440,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 3,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40493,7 +40493,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 23,
+        "max_qty": 21,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40510,7 +40510,7 @@
         "attributes": {
           "attribute_strains": "London Pound Cake"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -40546,7 +40546,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 4,
+        "max_qty": 1,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40599,7 +40599,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 30,
+        "max_qty": 29,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40667,59 +40667,6 @@
       },
       {
         "attributes": {
-          "attribute_strains": "Doc 15"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 15,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Doc 15 THCA Flower 1",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1.webp",
-          "alt": "Doc 15 THCA Flower 1",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 290406,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 3,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>Doc 15, a sativa-dominant strain with 34.56% THCA and 36.67% cannabinoids, delights with its lemon, pine, and jet fuel flavors. Enjoy its bold aroma of citrus and spice.</p>\n",
-        "variation_id": 321012,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.016976",
-        "weight_html": "0.016976 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Doc 15 THCA Flower 1\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/11/Doc-15-THCA-Flower-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
           "attribute_strains": "Cry Baby OG"
         },
         "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
@@ -40758,7 +40705,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 31,
+        "max_qty": 29,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40811,7 +40758,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 62,
+        "max_qty": 58,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40864,7 +40811,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 17,
+        "max_qty": 13,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40970,7 +40917,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 73,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41023,7 +40970,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 1675,
+        "max_qty": 1660,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41129,7 +41076,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 43,
+        "max_qty": 41,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -41149,12 +41096,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -41327,7 +41274,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 81,
+        "max_qty": 80,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41630,7 +41577,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 133,
+        "max_qty": 121,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41756,61 +41703,6 @@
       {
         "attributes": {
           "attribute_category": "Regular Smalls",
-          "attribute_strain": "Georgia Pie",
-          "attribute_pa_size": "ounce-box"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 34.99,
-        "display_regular_price": 165,
-        "image": {
-          "title": "Copy-of-Smalls-Minis.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "alt": "Copy-of-Smalls-Minis.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 215834,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 5,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
-        "sku": "",
-        "variation_description": "<p>Also known as Georgia Pie, a hybrid with a whopping 34.5% THCA that tantalizes with a fresh peach cobbler aroma..</p>\n",
-        "variation_id": 276914,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Copy-of-Smalls-Minis.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_category": "Regular Smalls",
           "attribute_strain": "Cry Baby",
           "attribute_pa_size": "ounce-box"
         },
@@ -41850,7 +41742,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 339,
+        "max_qty": 334,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41905,7 +41797,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 117,
+        "max_qty": 113,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
