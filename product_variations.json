@@ -11575,16 +11575,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -11644,7 +11644,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 129,
+        "max_qty": 128,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -21709,7 +21709,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 38,
+        "max_qty": 36,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -26044,12 +26044,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Prerolls",
-        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
-      },
-      {
         "name": "Prerolls & Cigarettes",
         "url": "https://jkdistro.com/product-category/prerolls-cigarette/"
+      },
+      {
+        "name": "Prerolls",
+        "url": "https://jkdistro.com/product-category/prerolls-cigarette/prerolls/"
       },
       {
         "name": "Single Prerolls",
@@ -26200,7 +26200,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26230,7 +26230,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314178,
@@ -26362,7 +26362,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26392,7 +26392,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314181,
@@ -26416,7 +26416,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26446,7 +26446,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314173,
@@ -26578,7 +26578,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26608,7 +26608,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314176,
@@ -26632,7 +26632,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26662,7 +26662,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314163,
@@ -26794,7 +26794,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26824,7 +26824,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314167,
@@ -26848,7 +26848,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26878,7 +26878,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314168,
@@ -26902,7 +26902,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26932,7 +26932,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314171,
@@ -26956,7 +26956,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -26986,7 +26986,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314146,
@@ -27118,7 +27118,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27148,7 +27148,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314149,
@@ -27172,7 +27172,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27202,7 +27202,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314135,
@@ -27334,7 +27334,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27364,7 +27364,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314138,
@@ -27388,7 +27388,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27418,7 +27418,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314139,
@@ -27550,7 +27550,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27580,7 +27580,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314142,
@@ -27604,7 +27604,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27634,7 +27634,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314125,
@@ -27766,7 +27766,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27796,7 +27796,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 314129,
@@ -27820,7 +27820,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -27850,7 +27850,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 280592,
@@ -27982,7 +27982,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -28012,7 +28012,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 280595,
@@ -28036,7 +28036,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -28066,7 +28066,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 271842,
@@ -28198,7 +28198,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -28228,7 +28228,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 271845,
@@ -28252,7 +28252,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 24.99,
+        "display_price": 27.99,
         "display_regular_price": 40,
         "image": {
           "title": "Blulion exotic prerolls 10 pack front",
@@ -28282,7 +28282,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>40.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $40.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>27.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $27.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 243995,
@@ -28306,7 +28306,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 6.99,
         "display_regular_price": 15,
         "image": {
           "title": "BluLion-Exotic-Prerolls-Singles-1.webp",
@@ -28336,7 +28336,7 @@
         "is_virtual": false,
         "max_qty": "",
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $15.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>6.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $6.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 239036,
@@ -28978,7 +28978,7 @@
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -32118,7 +32118,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 64,
+        "max_qty": 61,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -34113,7 +34113,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "THCA-Crumble-Picture.webp",
@@ -34143,7 +34143,7 @@
         "is_virtual": false,
         "max_qty": 78,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 251814,
@@ -34167,7 +34167,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "THCA-Crumble-Picture.webp",
@@ -34197,7 +34197,7 @@
         "is_virtual": false,
         "max_qty": 78,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 251815,
@@ -34221,7 +34221,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "THCA-Crumble-Picture.webp",
@@ -34251,7 +34251,7 @@
         "is_virtual": false,
         "max_qty": 64,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 251816,
@@ -34275,7 +34275,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 30,
         "image": {
           "title": "THCA-Crumble-Picture.webp",
@@ -34305,7 +34305,7 @@
         "is_virtual": false,
         "max_qty": 87,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>30.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $30.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>19.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $19.99.</span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 251817,
@@ -39876,7 +39876,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Badder.webp",
@@ -39904,7 +39904,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 65,
+        "max_qty": 64,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -39930,7 +39930,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Badder.webp",
@@ -39984,7 +39984,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Badder.webp",
@@ -40038,7 +40038,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Badder.webp",
@@ -40146,7 +40146,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "West Coast Mac 1 THCA Flower Pic",
@@ -40176,7 +40176,7 @@
         "is_virtual": false,
         "max_qty": 16,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>West Mac is a potent hybrid strain with 29.96% THCA and 32.20% total cannabinoids. Known for its unique blend of earthy pine and citrus flavors.</p>\n",
         "variation_id": 352650,
@@ -40252,7 +40252,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "Candy Runtz THCA Flower 1",
@@ -40280,9 +40280,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 7,
+        "max_qty": 6,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>Candy Runtz, a Balanced Hybrid strain with 28.88% THCA and 29.84% cannabinoids, offers sweet caramel candy flavors. Perfectly balanced experience, it\u2019s a standout favorite at JK Distro.</p>\n",
         "variation_id": 321024,
@@ -40305,7 +40305,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "2025 Kick Off THCA Strain 7g Bags",
@@ -40335,7 +40335,7 @@
         "is_virtual": false,
         "max_qty": 109,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>CA-7 is a balanced hybrid strain with 27.62% THCA and 28.47% total cannabinoids. Known for its rich aroma of earthy pine and subtle citrus notes. Perfect for any time of day.</p>\n",
         "variation_id": 321011,
@@ -40358,7 +40358,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "OG-85 THCA Flower pic",
@@ -40388,7 +40388,7 @@
         "is_virtual": false,
         "max_qty": 12,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>A balanced hybrid strain with 35.28% THCA and 37.40% sum of cannabinoids. Expect sweet, fruity flavors with hints of citrus and vanilla.</p>\n",
         "variation_id": 316238,
@@ -40411,7 +40411,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "Gack-Smoothie-strain.webp",
@@ -40439,9 +40439,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 13,
+        "max_qty": 12,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>A hybrid strain with 22% THCA and 23.28% total cannabinoids. Delightful fruity, earthy flavors.</p>\n",
         "variation_id": 316245,
@@ -40464,7 +40464,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "Cali-LCG-THCA-Flower-pic.webp",
@@ -40494,7 +40494,7 @@
         "is_virtual": false,
         "max_qty": 51,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>Cali LCG (Lemon Cherry Gelato) is a hybrid strain with 28.7% THCA and 29.10% total cannabinoids. Grown in California\u2019s ideal climate,  with lemon, sweet fruit flavors, and a citrusy aroma.</p>\n",
         "variation_id": 316247,
@@ -40504,59 +40504,6 @@
         "weight_html": "0.016976 lbs",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-pic.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_strains": "Zkittlez Pie"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 10,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Zkittles-Pie-THCA-Flower-pic.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic.webp",
-          "alt": "Zkittles-Pie-THCA-Flower-pic.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 233895,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 1505,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
-        "sku": "",
-        "variation_description": "<p>A balanced hybrid strain with 27.71% THCA and 30.32% total cannabinoids. It offers a flavorful blend of berry, grape, and diesel.</p>\n",
-        "variation_id": 316252,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.016976",
-        "weight_html": "0.016976 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Zkittles-Pie-THCA-Flower-pic.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       },
       {
         "attributes": {
@@ -40570,7 +40517,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "The-Soap-THCA-Flower-Pic-1.webp",
@@ -40600,7 +40547,7 @@
         "is_virtual": false,
         "max_qty": 56,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>A hybrid strain with 29.45% THCA, offering minty, piney flavors with notes of cheese.</p>\n",
         "variation_id": 316262,
@@ -40623,7 +40570,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 20,
         "display_regular_price": 60,
         "image": {
           "title": "Ya-HEMI-Strain-1.webp",
@@ -40653,7 +40600,7 @@
         "is_virtual": false,
         "max_qty": 38,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
         "variation_description": "<p>A hybrid strain with 25.6% THCA. Its plum, citrus, and violet flavors make it a delightful choice.</p>\n",
         "variation_id": 316271,
@@ -40713,7 +40660,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Live-Resin.webp",
@@ -40767,7 +40714,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Live-Resin.webp",
@@ -40821,7 +40768,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Live-Resin.webp",
@@ -40875,7 +40822,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Live-Resin.webp",
@@ -40929,7 +40876,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Live-Resin.webp",
@@ -40983,7 +40930,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 15,
+        "display_price": 19.99,
         "display_regular_price": 65,
         "image": {
           "title": "THCA-Live-Resin.webp",
@@ -41069,7 +41016,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 34.99,
+        "display_price": 39.99,
         "display_regular_price": 165,
         "image": {
           "title": "Copy-of-Smalls-Minis.webp",
@@ -41097,9 +41044,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 169,
+        "max_qty": 168,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
         "variation_description": "<p>Guava Gelato is a strain known for its smooth and flavorful profile, this strain features sweet and fruity notes with subtle hints of creaminess and tropical undertones.</p>\n",
         "variation_id": 331413,
@@ -41234,7 +41181,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 34.99,
+        "display_price": 39.99,
         "display_regular_price": 165,
         "image": {
           "title": "Copy-of-Smalls-Minis.webp",
@@ -41262,9 +41209,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 249,
+        "max_qty": 247,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
         "variation_description": "<p>Cry Baby OG is an indica-dominant hybrid strain with 29.66% THCA and 31.13% total cannabinoids. It delivers a soothing experience with flavors of spicy citrus and herbal notes.</p>\n",
         "variation_id": 274955,
@@ -41289,7 +41236,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 34.99,
+        "display_price": 39.99,
         "display_regular_price": 165,
         "image": {
           "title": "Copy-of-Smalls-Minis.webp",
@@ -41317,9 +41264,9 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 55,
+        "max_qty": 54,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
         "variation_description": "<p>Col 43 is an indica-dominant strain with 28.15% THCA and 30.80% total cannabinoids. This strain delivers  rich earthy and citrus notes.</p>\n",
         "variation_id": 274942,
@@ -41344,7 +41291,7 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 34.99,
+        "display_price": 39.99,
         "display_regular_price": 165,
         "image": {
           "title": "Copy-of-Smalls-Minis.webp",
@@ -41374,7 +41321,7 @@
         "is_virtual": false,
         "max_qty": 591,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
         "variation_description": "<p>White Guava THCA Flower (Hybrid, 20.34% THCA, 21.50% Total Cannabinoids) is a delightful cross of Stardawg and Tres Dawg. With fruity flavors of pear, apricot, and mango.</p>\n",
         "variation_id": 255150,
