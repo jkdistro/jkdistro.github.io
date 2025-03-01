@@ -462,7 +462,7 @@
     ],
     "meta_data": {
       "title": "JK Ambassador's HotBox",
-      "description": "JK Ambassador's HotBox\r\nWelcome to the JK Ambassador's Community with over 1300+ JK Ambassadors Globally! Our mission is to share and educate folks on the life improving qualities of hemp! Now that's you've signed up to become one of our Ambassadors here's a quick way to get your hands on your very first California flowers to review! Stay plugged into our growing community on Discord and get all the latest news and new product debuts first! Earn youe 10% commissions faster by sharing your Ambassador's Discount Code for 20% off!\r\n\u00a0JK Ambassador's HotBox Includes ($140 Total Value):\r\n\r\n\r\n \tJK Ambassador's Hoodie (M, L, XL Available) ($35 Value)\r\n \t2023 JK Amabssador's Baseball Cap ($25 Value)\r\n \t2 - 3.5g\u00a0 THCA Flower Eighths ($60 Value)\r\n \tWelcome Sample Pack, Bracelet & Stickers ($20 Value)",
+      "description": "JK Ambassador's HotBox\r\nWelcome to the JK Ambassador's Community with over 1300+ JK Ambassadors Globally! Our mission is to share and educate folks on the life improving qualities of hemp! Now that's you've signed up to become one of our Ambassadors here's a quick way to get your hands on your very first California flowers to review! Stay plugged into our growing community on Discord and get all the latest news and new product debuts first! Earn youe 10% commissions faster by sharing your Ambassador's Discount Code for 20% off!\r\n\u00a0JK Ambassador's HotBox Includes ($140 Total Value):\r\n\r\n\r\n  JK Ambassador's Hoodie (M, L, XL Available) ($35 Value)\r\n  2023 JK Amabssador's Baseball Cap ($25 Value)\r\n  2 - 3.5g\u00a0 THCA Flower Eighths ($60 Value)\r\n  Welcome Sample Pack, Bracelet & Stickers ($20 Value)",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/ambassadors-hotbox-1-1024x1024.png"
       ],
@@ -34763,7 +34763,7 @@
       "title": "Redwood Reserves Menthol CBD Cigarettes",
       "price": "14.00",
       "currency": "USD",
-      "description": "Redwood Reserves NEW menthol CBD cigarettes offer a cooler experience than ever before. Our menthol hemp smokes contain the exact same all-natural CBD flower as our original CBD cigarettes with a menthol crush in the filter. Just squeeze the filter once, and enjoy the cool mint flavor with every toke.\r\n\r\n \t100% CBD flower \u2013 sun grown & slow cured in Willamette Valley, Oregon\r\n \t0.8 grams of flower per CBD cigarette\r\n \tA soothing blend of Golden Redwood, Carolina Dream, and Wild Bourbon\r\n \tA broad terpene profile for more flavor\r\n \tNO tobacco\r\n \tNO biomass\r\n \tNO additives\r\n\r\n\u00a0",
+      "description": "Redwood Reserves NEW menthol CBD cigarettes offer a cooler experience than ever before. Our menthol hemp smokes contain the exact same all-natural CBD flower as our original CBD cigarettes with a menthol crush in the filter. Just squeeze the filter once, and enjoy the cool mint flavor with every toke.\r\n\r\n  100% CBD flower \u2013 sun grown & slow cured in Willamette Valley, Oregon\r\n  0.8 grams of flower per CBD cigarette\r\n  A soothing blend of Golden Redwood, Carolina Dream, and Wild Bourbon\r\n  A broad terpene profile for more flavor\r\n  NO tobacco\r\n  NO biomass\r\n  NO additives\r\n\r\n\u00a0",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/06/RedwoodReserves-MentholHempFlowerSmokes_PackagingandSmokes_copy-min.jpg",
         "https://jkdistro.com/wp-content/uploads/2024/06/image_1c4695ee-ad93-499e-8ad3-803c971aebcc.png",
@@ -38477,7 +38477,7 @@
   },
   "https://jkdistro.com/product/shake-smalls-bulk/": {
     "url": "https://jkdistro.com/product/shake-smalls-bulk/",
-    "type": "simple",
+    "type": "variable",
     "categories": [
       {
         "name": "Shakes",
@@ -38497,9 +38497,173 @@
         "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
         "https://jkdistro.com/wp-content/uploads/2024/06/smallcollection.png"
       ],
-      "availability": "out of stock",
+      "availability": "instock",
       "condition": "new"
-    }
+    },
+    "variations": [
+      {
+        "attributes": {
+          "attribute_flower": "Shake & Smalls Mix",
+          "attribute_size": "Pound"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 349.99,
+        "display_regular_price": 740,
+        "image": {
+          "title": "Shake-Smalls-Bulk.png",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
+          "alt": "Shake-Smalls-Bulk.png",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png 600w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png 300w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-150x150.png 150w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-768x768.png 768w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png 100w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 216773,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 20,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>740.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $740.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>349.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $349.99.</span></span>",
+        "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
+        "variation_description": "",
+        "variation_id": 262246,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png 300w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-150x150.png 150w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-768x768.png 768w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png 600w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png 100w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_flower": "Shake & Smalls Mix",
+          "attribute_size": "Half Pound"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 199.99,
+        "display_regular_price": 450,
+        "image": {
+          "title": "Shake-Smalls-Bulk.png",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
+          "alt": "Shake-Smalls-Bulk.png",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png 600w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png 300w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-150x150.png 150w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-768x768.png 768w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png 100w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 216773,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 40,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>450.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $450.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>199.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $199.99.</span></span>",
+        "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
+        "variation_description": "",
+        "variation_id": 262247,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png 300w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-150x150.png 150w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-768x768.png 768w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png 600w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png 100w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
+          "attribute_flower": "Shake & Smalls Mix",
+          "attribute_size": "Quarter Pound"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 124.99,
+        "display_regular_price": 280,
+        "image": {
+          "title": "Shake-Smalls-Bulk.png",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
+          "alt": "Shake-Smalls-Bulk.png",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png 600w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png 300w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-150x150.png 150w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-768x768.png 768w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png 100w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 216773,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 240,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>280.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $280.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>124.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $124.99.</span></span>",
+        "sku": "7693275725989-smalls-n-shake-value-ounce-box-1",
+        "variation_description": "",
+        "variation_id": 262248,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "",
+        "weight_html": "N/A",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-300x300.png 300w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-150x150.png 150w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-768x768.png 768w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-600x600.png 600w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk-100x100.png 100w, https://jkdistro.com/wp-content/uploads/2024/07/Shake-Smalls-Bulk.png 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      }
+    ]
   },
   "https://jkdistro.com/product/thca-flower-quarter-pound/": {
     "url": "https://jkdistro.com/product/thca-flower-quarter-pound/",
