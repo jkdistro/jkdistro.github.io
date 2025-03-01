@@ -2249,7 +2249,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 75,
+        "max_qty": 73,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -15850,7 +15850,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 156,
+        "max_qty": 155,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -25370,7 +25370,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Chocolate Bars",
-      "description": "15 squares of mind-melting chocolate per bar\r\n \tAvailable in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n \tAll-natural ingredients",
+      "description": "15 squares of mind-melting chocolate per bar\r\n  Available in Cookies & Cream, Fruity Cereal, Chocolate Milk & Peanut Butter flavors\r\n  All-natural ingredients",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Fruity-Cereal.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushrooms-Chocolate-Bar-Chocolate-Milk.webp",
@@ -25606,16 +25606,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
-      },
-      {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -25734,7 +25734,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 23,
+        "max_qty": 22,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -28978,7 +28978,7 @@
     ],
     "meta_data": {
       "title": "Coast 2 Gram Caviar Cannagar",
-      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n \tEnjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n \tDive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n \tTaste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
+      "description": "Coast Exotic Caviar Cannagar (2 Grams)\r\nAvailable in 3 Flavors\r\n\r\n  Enjoy the sweet burst of Zkittlez\u00a0with this cannagar rolled in caviar kief with a glass tip.\r\n  Dive in the universe of Cosmic Rainbow with this cannagar rolled in caviar kief with a glass tip.\r\n  Taste the sweet essence of 420Hunnys Supernova Honey with this cannagar rolled in caviar kief with a glass tip.",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/Coast-Caviar-Cannagars.gif"
       ],
@@ -31898,12 +31898,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Disposables",
-        "url": "https://jkdistro.com/product-category/vapes/disposables/"
-      },
-      {
         "name": "Vapes",
         "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
+        "name": "Disposables",
+        "url": "https://jkdistro.com/product-category/vapes/disposables/"
       }
     ],
     "meta_data": {
@@ -32171,7 +32171,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 69,
+        "max_qty": 68,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -40174,7 +40174,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 18,
+        "max_qty": 16,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40227,7 +40227,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 49,
+        "max_qty": 48,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40280,7 +40280,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 10,
+        "max_qty": 9,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40297,7 +40297,7 @@
         "attributes": {
           "attribute_strains": "Cherry Icee"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -40333,7 +40333,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 3,
+        "max_qty": 2,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40386,7 +40386,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 112,
+        "max_qty": 110,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40439,7 +40439,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 16,
+        "max_qty": 14,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40492,7 +40492,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 14,
+        "max_qty": 13,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>15.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $15.00.</span></span>",
         "sku": "",
@@ -40598,7 +40598,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 1531,
+        "max_qty": 1529,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>10.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $10.00.</span></span>",
         "sku": "",
@@ -41260,7 +41260,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 568,
+        "max_qty": 567,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $195.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $60.00.</span></span>",
         "sku": "",
@@ -41315,7 +41315,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 264,
+        "max_qty": 263,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
@@ -41425,7 +41425,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 598,
+        "max_qty": 597,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>34.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $34.99.</span></span>",
         "sku": "",
