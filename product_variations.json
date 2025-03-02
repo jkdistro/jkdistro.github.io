@@ -16959,16 +16959,16 @@
     "type": "variable",
     "categories": [
       {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
       },
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
-      },
-      {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -17043,7 +17043,7 @@
         "attributes": {
           "attribute_flavor": "Electric Lemonade (sativa)"
         },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -17079,7 +17079,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 2,
+        "max_qty": 1,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -18146,7 +18146,7 @@
     ],
     "meta_data": {
       "title": "Pops Premium 3 Grams BLACKOUT Disposable Carts",
-      "description": "Pops Premium 3 Grams BLACKOUT Disposable Carts EXOTIC CANNABINOID BLENDS\r\nPops Premium 3g Blackout vapes offer unique \"strain enhanced\" blends of cannabinoids and Hemp derived terpenes. Each blend of cannabinoids is created to mimic the true strain effects.\r\n\u00a0\r\n\r\nStrains:\r\n\r\nPineapple Express (Sativa)\u00a0\u00a0- a\u00a0sativa dominant strain, created by crossing Trainwreck & Hawaiian. A flavor that packs a punch of funk, earthy pine, and citrus with tropical notes of pineapple.\r\n\r\nBlue Dream\u00a0(Hybrid) \u00a0-\u00a0aka \"Azure Haze\" is a sativa dominant hybrid strain, created by crossing Blueberry with Haze. A smooth floral aroma with hints of sugared blueberries.\r\n\r\nMarshmallow Kush (Indica)\u00a0\u00a0-\u00a0an indica leaning strain, created by crossing the classic OG Kush with a mysterious unknown strain (some believe it to be a descendant of the Bubble Gum family). This strain provides a pungent nutty, earthy flavor that boasts aromas of sweet marshmallow, honey, and pine.\r\n\r\n \t3ml / 3 gram\r\n \tRechargeable\r\n \tDiscreet, High end device\r\n \tStrain enhanced blends of cannabinoids\r\n \tFull Transparency",
+      "description": "Pops Premium 3 Grams BLACKOUT Disposable Carts EXOTIC CANNABINOID BLENDS\r\nPops Premium 3g Blackout vapes offer unique \"strain enhanced\" blends of cannabinoids and Hemp derived terpenes. Each blend of cannabinoids is created to mimic the true strain effects.\r\n\u00a0\r\n\r\nStrains:\r\n\r\nPineapple Express (Sativa)\u00a0\u00a0- a\u00a0sativa dominant strain, created by crossing Trainwreck & Hawaiian. A flavor that packs a punch of funk, earthy pine, and citrus with tropical notes of pineapple.\r\n\r\nBlue Dream\u00a0(Hybrid) \u00a0-\u00a0aka \"Azure Haze\" is a sativa dominant hybrid strain, created by crossing Blueberry with Haze. A smooth floral aroma with hints of sugared blueberries.\r\n\r\nMarshmallow Kush (Indica)\u00a0\u00a0-\u00a0an indica leaning strain, created by crossing the classic OG Kush with a mysterious unknown strain (some believe it to be a descendant of the Bubble Gum family). This strain provides a pungent nutty, earthy flavor that boasts aromas of sweet marshmallow, honey, and pine.\r\n\r\n  3ml / 3 gram\r\n  Rechargeable\r\n  Discreet, High end device\r\n  Strain enhanced blends of cannabinoids\r\n  Full Transparency",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/07/blackout-slider.gif",
         "https://jkdistro.com/wp-content/uploads/2024/07/Blackout-Blue-Dream-jpg.webp",
@@ -31715,12 +31715,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Disposables",
-        "url": "https://jkdistro.com/product-category/vapes/disposables/"
-      },
-      {
         "name": "Vapes",
         "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
+        "name": "Disposables",
+        "url": "https://jkdistro.com/product-category/vapes/disposables/"
       }
     ],
     "meta_data": {
@@ -31827,7 +31827,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -32224,7 +32224,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 47,
+        "max_qty": 46,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -35096,7 +35096,7 @@
     ],
     "meta_data": {
       "title": "Magic Mushroom Vape 2 Grams",
-      "description": "2g of magic mushroom vape juice per pen\r\n  Tree house Proprietary mushroom blend\r\n  Perfect for microdosing\r\n  All-natural ingredients\r\n  Tastes like a chilled glass of summertime pink lemonade\r\n  Approximately 800 puffs per pen",
+      "description": "2g of magic mushroom vape juice per pen\r\n \tTree house Proprietary mushroom blend\r\n \tPerfect for microdosing\r\n \tAll-natural ingredients\r\n \tTastes like a chilled glass of summertime pink lemonade\r\n \tApproximately 800 puffs per pen",
       "images": [
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Apple-Tart-2-Grams.webp",
         "https://jkdistro.com/wp-content/uploads/2024/08/Magic-Mushroom-Vape-Mango-Smoothie-2-Grams.webp",
@@ -35892,8 +35892,12 @@
   },
   "https://jkdistro.com/product/alter-ego-thca-disposables-3-5-grams/": {
     "url": "https://jkdistro.com/product/alter-ego-thca-disposables-3-5-grams/",
-    "type": "variable",
+    "type": "simple",
     "categories": [
+      {
+        "name": "Vapes",
+        "url": "https://jkdistro.com/product-category/vapes/"
+      },
       {
         "name": "Disposables",
         "url": "https://jkdistro.com/product-category/vapes/disposables/"
@@ -35901,10 +35905,6 @@
       {
         "name": "Ocho Extracts",
         "url": "https://jkdistro.com/product-category/smokables/ocho-extracts/"
-      },
-      {
-        "name": "Vapes",
-        "url": "https://jkdistro.com/product-category/vapes/"
       }
     ],
     "meta_data": {
@@ -35920,64 +35920,9 @@
         "https://jkdistro.com/wp-content/uploads/2024/07/AE-3.5G-Jealousy-Hybrid.webp",
         "https://jkdistro.com/wp-content/uploads/2024/07/AE-3.5G-Durban_Poison-Sativa.webp"
       ],
-      "availability": "instock",
+      "availability": "out of stock",
       "condition": "new"
-    },
-    "variations": [
-      {
-        "attributes": {
-          "attribute_strains": "Night Shade (Indica)"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 49.5,
-        "display_regular_price": 55,
-        "image": {
-          "title": "ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN.webp",
-          "alt": "ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN.webp 750w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN.webp",
-          "full_src_w": 750,
-          "full_src_h": 750,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 216993,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "",
-        "sku": "",
-        "variation_description": "<p>Discover Night Shade, an indica marvel derived from Kashmir and Nepalese roots. Relish the fusion of tree fruit, diesel, and plum. Infused with our Alter Ego Blend \u2013 a trio of Delta-8, THCA, and 11-Hydroxy-THC, it ushers in a dusky dance of feelings: invigorating, elated, and serene. Let Night Shade guide you, as urban luminescence and reminiscent rhythms transport you to a neon reverie.</p>\n",
-        "variation_id": 232512,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.008488",
-        "weight_html": "0.008488 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/ALTER-EGO-3.5-GRAM-DISPOSABLE-NIGHT-SHADE-INDICA-LIVE-RESIN.webp 750w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      }
-    ]
+    }
   },
   "https://jkdistro.com/product/advanced-nerve-recovery-roll-on-5000mg-bioxhemp/": {
     "url": "https://jkdistro.com/product/advanced-nerve-recovery-roll-on-5000mg-bioxhemp/",
@@ -41160,7 +41105,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 40,
+        "max_qty": 36,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -41270,7 +41215,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 545,
+        "max_qty": 544,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>195.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $195.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $60.00.</span></span>",
         "sku": "",
@@ -41325,7 +41270,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 500,
+        "max_qty": 496,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -41691,12 +41636,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Disposables",
-        "url": "https://jkdistro.com/product-category/vapes/disposables/"
-      },
-      {
         "name": "Vapes",
         "url": "https://jkdistro.com/product-category/vapes/"
+      },
+      {
+        "name": "Disposables",
+        "url": "https://jkdistro.com/product-category/vapes/disposables/"
       }
     ],
     "meta_data": {
@@ -41753,7 +41698,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 11,
+        "max_qty": 9,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41806,7 +41751,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 12,
+        "max_qty": 10,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41965,7 +41910,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 15,
+        "max_qty": 14,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
