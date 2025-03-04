@@ -1338,16 +1338,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -1367,59 +1367,6 @@
       "condition": "new"
     },
     "variations": [
-      {
-        "attributes": {
-          "attribute_pa_size": "7-g-bag"
-        },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 24.99,
-        "display_regular_price": 60,
-        "image": {
-          "title": "Purple Ice Pop THCA Flower",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp",
-          "alt": "Purple Ice Pop THCA Flower",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 258777,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 197,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
-        "sku": "",
-        "variation_description": "",
-        "variation_id": 336378,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.016976",
-        "weight_html": "0.016976 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Purple Ice Pop THCA Flower\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/09/Purple-Ice-Pop-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -3788,12 +3735,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -3853,7 +3800,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 52,
+        "max_qty": 49,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -14240,7 +14187,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 52,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -15801,7 +15748,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 142,
+        "max_qty": 139,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>72.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $72.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -21607,7 +21554,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 19,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>76.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $76.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>29.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $29.99.</span></span>",
         "sku": "",
@@ -37908,7 +37855,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 245,
+        "max_qty": 244,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -38539,7 +38486,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 90,
+        "max_qty": 86,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -39582,60 +39529,6 @@
       },
       {
         "attributes": {
-          "attribute_category": "Pop Up Quarter Pound Sale",
-          "attribute_strain": "Cali LCG (QP Promo)"
-        },
-        "availability_html": "<p class=\"stock in-stock\">Only 2 left in stock</p>\n",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 199.99,
-        "display_regular_price": 400,
-        "image": {
-          "title": "Cali-LCG-THCA-Flower.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower.webp",
-          "alt": "Cali-LCG-THCA-Flower.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 233931,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": 2,
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>199.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $199.99.</span></span>",
-        "sku": "",
-        "variation_description": "<p>Cali LCG (Lemon Cherry Gelato) is a hybrid strain with 28.7% THCA and 29.10% total cannabinoids. Grown in California\u2019s ideal climate, this strain offers lemon, sweet fruit flavors, and a citrusy aroma.</p>\n",
-        "variation_id": 292120,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/08/Cali-LCG-THCA-Flower.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
           "attribute_category": "Quarter Pounds",
           "attribute_strain": "Obama Runtz"
         },
@@ -39891,7 +39784,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 11,
+        "max_qty": 10,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>199.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $199.99.</span></span>",
         "sku": "",
@@ -40323,7 +40216,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 127,
+        "max_qty": 126,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>199.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $199.99.</span></span>",
         "sku": "",
@@ -40949,7 +40842,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 98,
+        "max_qty": 97,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
@@ -41161,7 +41054,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 21,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>20.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $20.00.</span></span>",
         "sku": "",
@@ -41711,12 +41604,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Smokables",
-        "url": "https://jkdistro.com/product-category/smokables/"
-      },
-      {
         "name": "Concentrates",
         "url": "https://jkdistro.com/product-category/concentrates/"
+      },
+      {
+        "name": "Smokables",
+        "url": "https://jkdistro.com/product-category/smokables/"
       }
     ],
     "tags": [
@@ -41781,7 +41674,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 57,
+        "max_qty": 53,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41835,7 +41728,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 67,
+        "max_qty": 65,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41889,7 +41782,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 80,
+        "max_qty": 73,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41943,7 +41836,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 76,
+        "max_qty": 75,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -41997,7 +41890,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 66,
+        "max_qty": 61,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -42051,7 +41944,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 76,
+        "max_qty": 72,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -42137,7 +42030,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 697,
+        "max_qty": 696,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42192,7 +42085,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 54,
+        "max_qty": 52,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42302,7 +42195,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 223,
+        "max_qty": 221,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42357,7 +42250,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 27,
+        "max_qty": 24,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42412,7 +42305,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 48,
+        "max_qty": 47,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42486,7 +42379,7 @@
           "attribute_strain": "Cali Lemon Cherry Gelato",
           "attribute_pa_size": "ounce-box"
         },
-        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">Only 1 left in stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -42522,7 +42415,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 7,
+        "max_qty": 1,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42577,7 +42470,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 334,
+        "max_qty": 333,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
