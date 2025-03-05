@@ -2461,7 +2461,7 @@
         "attributes": {
           "attribute_pa_size": "7-g-bag"
         },
-        "availability_html": "<p class=\"stock in-stock\">Only 0 left in stock</p>\n",
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -2497,7 +2497,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": "",
+        "max_qty": 54,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -5989,12 +5989,12 @@
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
-        "name": "Purple Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
-      },
-      {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Purple Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-purple-label/"
       }
     ],
     "tags": [
@@ -6020,9 +6020,9 @@
     "variations": [
       {
         "attributes": {
-          "attribute_pa_size": "7g-glass-premium"
+          "attribute_pa_size": "7-g-bag"
         },
-        "availability_html": "",
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
         "backorders_allowed": false,
         "dimensions": {
           "length": "",
@@ -6030,8 +6030,8 @@
           "height": ""
         },
         "dimensions_html": "N/A",
-        "display_price": 65,
-        "display_regular_price": 65,
+        "display_price": 29.99,
+        "display_regular_price": 60,
         "image": {
           "title": "E85-Strain.webp",
           "caption": "",
@@ -6058,122 +6058,16 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": "",
+        "max_qty": 36,
         "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></span>",
+        "price_html": "",
         "sku": "",
         "variation_description": "",
-        "variation_id": 233452,
+        "variation_id": 336381,
         "variation_is_active": true,
         "variation_is_visible": true,
         "weight": "0.016976",
         "weight_html": "0.016976 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_pa_size": "half-ounce-glass-jar"
-        },
-        "availability_html": "",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 116,
-        "display_regular_price": 116,
-        "image": {
-          "title": "E85-Strain.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
-          "alt": "E85-Strain.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 218210,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": "",
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>116.00</bdi></span></span>",
-        "sku": "",
-        "variation_description": "",
-        "variation_id": 233726,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "0.059233",
-        "weight_html": "0.059233 lbs",
-        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
-        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
-      },
-      {
-        "attributes": {
-          "attribute_pa_size": "ounce-glass-premium"
-        },
-        "availability_html": "",
-        "backorders_allowed": false,
-        "dimensions": {
-          "length": "",
-          "width": "",
-          "height": ""
-        },
-        "dimensions_html": "N/A",
-        "display_price": 225,
-        "display_regular_price": 225,
-        "image": {
-          "title": "E85-Strain.webp",
-          "caption": "",
-          "url": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
-          "alt": "E85-Strain.webp",
-          "src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp",
-          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w",
-          "sizes": "(max-width: 600px) 100vw, 600px",
-          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp",
-          "full_src_w": 1000,
-          "full_src_h": 1000,
-          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp",
-          "gallery_thumbnail_src_w": 100,
-          "gallery_thumbnail_src_h": 100,
-          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp",
-          "thumb_src_w": 300,
-          "thumb_src_h": 300,
-          "src_w": 600,
-          "src_h": 600
-        },
-        "image_id": 218210,
-        "is_downloadable": false,
-        "is_in_stock": true,
-        "is_purchasable": true,
-        "is_sold_individually": "no",
-        "is_virtual": false,
-        "max_qty": "",
-        "min_qty": 1,
-        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>225.00</bdi></span></span>",
-        "sku": "",
-        "variation_description": "",
-        "variation_id": 233424,
-        "variation_is_active": true,
-        "variation_is_visible": true,
-        "weight": "",
-        "weight_html": "N/A",
         "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
         "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/E85-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
       }
@@ -8538,16 +8432,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Bundles & Hot Boxes",
-        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Bundles & Hot Boxes",
+        "url": "https://jkdistro.com/product-category/flowers/bundles-subscription-boxes/"
       }
     ],
     "tags": [
@@ -11526,16 +11420,16 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
       },
       {
         "name": "THCA Flower",
         "url": "https://jkdistro.com/product-category/flowers/thca-flower/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -11595,7 +11489,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 105,
+        "max_qty": 104,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -29621,7 +29515,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 29,
+        "max_qty": 28,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>70.00</bdi></span></span>",
         "sku": "",
@@ -32733,12 +32627,12 @@
     "type": "variable",
     "categories": [
       {
-        "name": "Black Label Flower",
-        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
-      },
-      {
         "name": "Flowers",
         "url": "https://jkdistro.com/product-category/flowers/"
+      },
+      {
+        "name": "Black Label Flower",
+        "url": "https://jkdistro.com/product-category/flowers/thca-flower-black-label/"
       }
     ],
     "tags": [
@@ -32757,6 +32651,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Blueberry-Gelato-Strain-1.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1.webp",
+          "alt": "Blueberry-Gelato-Strain-1.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 217841,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 70,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "<p>Experience premium quality with this Black Label Top Shelf Strain, special price available only today! Incredible value for top-shelf quality! Packed in a reusable Mylar bag with our new JKD logo, this collectible bag is exclusively available with this promo.</p>\n",
+        "variation_id": 233530,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Blueberry-Gelato-Strain-1.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "ounce-glass-premium"
@@ -32799,7 +32746,7 @@
         "is_virtual": false,
         "max_qty": 1,
         "min_qty": 1,
-        "price_html": "",
+        "price_html": "<span class=\"price\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>200.00</bdi></span></span>",
         "sku": "",
         "variation_description": "",
         "variation_id": 233177,
@@ -33420,7 +33367,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 90,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -33664,7 +33611,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 6,
+        "max_qty": 70,
         "min_qty": 1,
         "price_html": "",
         "sku": "",
@@ -37390,7 +37337,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 18,
+        "max_qty": 20,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
         "sku": "",
@@ -38102,6 +38049,59 @@
     "variations": [
       {
         "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Pink-Runtz-Strain.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain.webp",
+          "alt": "Pink-Runtz-Strain.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 217836,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 80,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 234085,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Pink-Runtz-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
+      {
+        "attributes": {
           "attribute_pa_size": "7g-glass-premium"
         },
         "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
@@ -38290,6 +38290,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_pa_size": "7-g-bag"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 60,
+        "image": {
+          "title": "Gator-Gushers-Strain.webp",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain.webp",
+          "alt": "Gator-Gushers-Strain.webp",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain.webp 1000w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain.webp",
+          "full_src_w": 1000,
+          "full_src_h": 1000,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 217839,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 50,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>60.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $60.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "",
+        "variation_id": 269179,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/07/Gator-Gushers-Strain.webp 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_pa_size": "7g-glass-premium"
@@ -38962,10 +39015,6 @@
       {
         "name": "Let Freedom Ring Sale",
         "url": "https://jkdistro.com/product-tag/let-freedom-ring-sale/"
-      },
-      {
-        "name": "Zkittlez Pie Sale",
-        "url": "https://jkdistro.com/product-tag/zkittlez-pie-sale/"
       }
     ],
     "meta_data": {
@@ -39718,7 +39767,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 25,
+        "max_qty": 24,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>400.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>199.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $199.99.</span></span>",
         "sku": "",
@@ -40616,10 +40665,6 @@
       {
         "name": "sativa dominant",
         "url": "https://jkdistro.com/product-tag/sativa-dominant/"
-      },
-      {
-        "name": "Zkittlez Pie Sale",
-        "url": "https://jkdistro.com/product-tag/zkittlez-pie-sale/"
       }
     ],
     "meta_data": {
@@ -40632,6 +40677,59 @@
       "condition": "new"
     },
     "variations": [
+      {
+        "attributes": {
+          "attribute_strains": "Pinnacle 33 (BL)"
+        },
+        "availability_html": "<p class=\"stock in-stock\">In stock</p>\n",
+        "backorders_allowed": false,
+        "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+        },
+        "dimensions_html": "N/A",
+        "display_price": 24.99,
+        "display_regular_price": 65,
+        "image": {
+          "title": "2025 Kick Off THCA Strain 7g Bags",
+          "caption": "",
+          "url": "https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags.webp",
+          "alt": "2025 Kick Off THCA Strain 7g Bags",
+          "src": "https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-600x600.webp",
+          "srcset": "https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags.webp 1024w",
+          "sizes": "(max-width: 600px) 100vw, 600px",
+          "full_src": "https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags.webp",
+          "full_src_w": 1024,
+          "full_src_h": 1024,
+          "gallery_thumbnail_src": "https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-100x100.webp",
+          "gallery_thumbnail_src_w": 100,
+          "gallery_thumbnail_src_h": 100,
+          "thumb_src": "https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-300x300.webp",
+          "thumb_src_w": 300,
+          "thumb_src_h": 300,
+          "src_w": 600,
+          "src_h": 600
+        },
+        "image_id": 316232,
+        "is_downloadable": false,
+        "is_in_stock": true,
+        "is_purchasable": true,
+        "is_sold_individually": "no",
+        "is_virtual": false,
+        "max_qty": 91,
+        "min_qty": 1,
+        "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>65.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $65.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>24.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $24.99.</span></span>",
+        "sku": "",
+        "variation_description": "<p>Pinnacle 33 is a top-tier Black Label strain featuring 14.72% THCA and 17.33% total cannabinoids. With a rich, complex aroma and dense, frosty buds, this premium selection offers unmatched quality for connoisseurs.</p>\n",
+        "variation_id": 357094,
+        "variation_is_active": true,
+        "variation_is_visible": true,
+        "weight": "0.016976",
+        "weight_html": "0.016976 lbs",
+        "pisol_preparation_days": "<div class=\"woocommerce_pisol_preparation_days\">Preparation days:<span></span></div>",
+        "woosb_image": "<img width=\"300\" height=\"300\" src=\"https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-300x300.webp\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"2025 Kick Off THCA Strain 7g Bags\" decoding=\"async\" srcset=\"https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-300x300.webp 300w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-150x150.webp 150w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-768x768.webp 768w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-400x400.webp 400w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-600x600.webp 600w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags-100x100.webp 100w, https://jkdistro.com/wp-content/uploads/2024/12/2025-Kick-Off-THCA-Strain-7g-Bags.webp 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" />"
+      },
       {
         "attributes": {
           "attribute_strains": "West Mac"
@@ -41908,10 +42006,6 @@
       {
         "name": "Let Freedom Ring Sale",
         "url": "https://jkdistro.com/product-tag/let-freedom-ring-sale/"
-      },
-      {
-        "name": "Zkittlez Pie Sale",
-        "url": "https://jkdistro.com/product-tag/zkittlez-pie-sale/"
       }
     ],
     "meta_data": {
@@ -41966,7 +42060,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 627,
+        "max_qty": 625,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42076,7 +42170,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 155,
+        "max_qty": 153,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42131,7 +42225,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 583,
+        "max_qty": 581,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
@@ -42186,7 +42280,7 @@
         "is_purchasable": true,
         "is_sold_individually": "no",
         "is_virtual": false,
-        "max_qty": 296,
+        "max_qty": 295,
         "min_qty": 1,
         "price_html": "<span class=\"price\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>165.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: $165.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">$</span>39.99</bdi></span></ins><span class=\"screen-reader-text\">Current price is: $39.99.</span></span>",
         "sku": "",
